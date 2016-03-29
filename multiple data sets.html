@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+
+<body>
+
+var dataURLs = ["map.json", "chartt.json"];
+
+$.eachFILL OUT FULL SYNTAX FOR THE LOOP (dataURLs {
+
+    $.ajax({
+    method:"GET",
+    url: dataURLs[index],
+    dataType: "json",
+    success:{
+    if (index == 0)
+       parsMapData(data){}
+    }
+        else{
+        parseChartData(data)
+        }
+    }
+});
+
+function parseMapData(data){
+    //stuff for the map//
+}
+
+function parseChartData(data){
+    //stuff for the chart//
+}
+
+</body>
+</html>

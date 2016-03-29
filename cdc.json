@@ -1,0 +1,1818 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "3pdc-gk5d",
+      "name" : "IDPH: STDs Nationally Ranked By State",
+      "attribution" : "Centers for Disease Control and Prevention",
+      "attributionLink" : "http://www.cdc.gov/STD/publications/default.htm",
+      "averageRating" : 0,
+      "category" : "Public Health",
+      "createdAt" : 1430149699,
+      "description" : "U.S. states ranked by cases of Chlamydia, gonorrhea, and primary and secondary syphilis reported.  Data Source: Centers for Disease Control and Prevention Surveillance Reports 2000-2014 (http://www.cdc.gov/std/stats11/default.htm)",
+      "displayType" : "table",
+      "downloadCount" : 474,
+      "indexUpdatedAt" : 1447964113,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 14907369,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1447950373,
+      "publicationGroup" : 2736829,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1447950217,
+      "rowsUpdatedBy" : "rth8-ngz8",
+      "tableId" : 5620943,
+      "totalTimesRated" : 0,
+      "viewCount" : 231,
+      "viewLastModified" : 1447950373,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 230523742,
+        "name" : "Sort",
+        "dataTypeName" : "number",
+        "fieldName" : "sort",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917529,
+        "width" : 80,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "1",
+          "sum" : "19125",
+          "null" : 0,
+          "average" : "25.5",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "39"
+          }, {
+            "count" : 19,
+            "item" : "40"
+          }, {
+            "count" : 18,
+            "item" : "41"
+          }, {
+            "count" : 17,
+            "item" : "42"
+          }, {
+            "count" : 16,
+            "item" : "43"
+          }, {
+            "count" : 15,
+            "item" : "44"
+          }, {
+            "count" : 14,
+            "item" : "45"
+          }, {
+            "count" : 13,
+            "item" : "46"
+          }, {
+            "count" : 12,
+            "item" : "47"
+          }, {
+            "count" : 11,
+            "item" : "48"
+          }, {
+            "count" : 10,
+            "item" : "49"
+          }, {
+            "count" : 9,
+            "item" : "50"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523743,
+        "name" : "Year",
+        "dataTypeName" : "text",
+        "fieldName" : "year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 27917530,
+        "width" : 94,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "2000",
+          "null" : 0,
+          "largest" : "2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2000"
+          }, {
+            "count" : 19,
+            "item" : "2001"
+          }, {
+            "count" : 18,
+            "item" : "2002"
+          }, {
+            "count" : 17,
+            "item" : "2003"
+          }, {
+            "count" : 16,
+            "item" : "2004"
+          }, {
+            "count" : 15,
+            "item" : "2005"
+          }, {
+            "count" : 14,
+            "item" : "2006"
+          }, {
+            "count" : 13,
+            "item" : "2007"
+          }, {
+            "count" : 12,
+            "item" : "2008"
+          }, {
+            "count" : 11,
+            "item" : "2009"
+          }, {
+            "count" : 10,
+            "item" : "2010"
+          }, {
+            "count" : 9,
+            "item" : "2011"
+          }, {
+            "count" : 8,
+            "item" : "2012"
+          }, {
+            "count" : 7,
+            "item" : "2013"
+          }, {
+            "count" : 6,
+            "item" : "2014"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 230523744,
+        "name" : "State",
+        "dataTypeName" : "text",
+        "fieldName" : "state",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 27917531,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "Alabama",
+          "null" : 0,
+          "largest" : "Wyoming",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Rhode Island"
+          }, {
+            "count" : 19,
+            "item" : "South Carolina"
+          }, {
+            "count" : 18,
+            "item" : "South Dakota"
+          }, {
+            "count" : 17,
+            "item" : "Tennessee"
+          }, {
+            "count" : 16,
+            "item" : "Texas"
+          }, {
+            "count" : 15,
+            "item" : "Utah"
+          }, {
+            "count" : 14,
+            "item" : "Vermont"
+          }, {
+            "count" : 13,
+            "item" : "Virginia"
+          }, {
+            "count" : 12,
+            "item" : "Washington"
+          }, {
+            "count" : 11,
+            "item" : "West Virginia"
+          }, {
+            "count" : 10,
+            "item" : "Wisconsin"
+          }, {
+            "count" : 9,
+            "item" : "Wyoming"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523745,
+        "name" : "Chlamydia_Count",
+        "dataTypeName" : "number",
+        "fieldName" : "chlamydia_count",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917532,
+        "width" : 144,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "526",
+          "sum" : "16618283",
+          "null" : 0,
+          "average" : "22157.71066666667",
+          "largest" : "176308",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4349"
+          }, {
+            "count" : 19,
+            "item" : "28087"
+          }, {
+            "count" : 18,
+            "item" : "4166"
+          }, {
+            "count" : 17,
+            "item" : "30793"
+          }, {
+            "count" : 16,
+            "item" : "131219"
+          }, {
+            "count" : 15,
+            "item" : "8223"
+          }, {
+            "count" : 14,
+            "item" : "2237"
+          }, {
+            "count" : 13,
+            "item" : "36048"
+          }, {
+            "count" : 12,
+            "item" : "26577"
+          }, {
+            "count" : 11,
+            "item" : "4719"
+          }, {
+            "count" : 10,
+            "item" : "23154"
+          }, {
+            "count" : 9,
+            "item" : "1972"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523746,
+        "name" : "Chlamydia_Rate",
+        "dataTypeName" : "number",
+        "fieldName" : "chlamydia_rate",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917533,
+        "width" : 193,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "86.2",
+          "sum" : "265281.6",
+          "null" : 0,
+          "average" : "353.7088",
+          "largest" : "861.7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "413.6"
+          }, {
+            "count" : 19,
+            "item" : "588.2"
+          }, {
+            "count" : 18,
+            "item" : "493.1"
+          }, {
+            "count" : 17,
+            "item" : "474.0"
+          }, {
+            "count" : 16,
+            "item" : "496.1"
+          }, {
+            "count" : 15,
+            "item" : "283.5"
+          }, {
+            "count" : 14,
+            "item" : "357.0"
+          }, {
+            "count" : 13,
+            "item" : "436.4"
+          }, {
+            "count" : 12,
+            "item" : "381.2"
+          }, {
+            "count" : 11,
+            "item" : "254.5"
+          }, {
+            "count" : 10,
+            "item" : "403.2"
+          }, {
+            "count" : 9,
+            "item" : "338.4"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523747,
+        "name" : "Chlamydia_RankByCount",
+        "dataTypeName" : "number",
+        "fieldName" : "chlamydia_rankbycount",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917534,
+        "width" : 216,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "1",
+          "sum" : "19125",
+          "null" : 0,
+          "average" : "25.5",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "42"
+          }, {
+            "count" : 19,
+            "item" : "18"
+          }, {
+            "count" : 18,
+            "item" : "45"
+          }, {
+            "count" : 17,
+            "item" : "13"
+          }, {
+            "count" : 16,
+            "item" : "2"
+          }, {
+            "count" : 15,
+            "item" : "36"
+          }, {
+            "count" : 14,
+            "item" : "49"
+          }, {
+            "count" : 13,
+            "item" : "11"
+          }, {
+            "count" : 12,
+            "item" : "21"
+          }, {
+            "count" : 11,
+            "item" : "41"
+          }, {
+            "count" : 10,
+            "item" : "22"
+          }, {
+            "count" : 9,
+            "item" : "50"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523748,
+        "name" : "Chlamydia_RankByRate",
+        "dataTypeName" : "number",
+        "fieldName" : "chlamydia_rankbyrate",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917535,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "1",
+          "sum" : "19079",
+          "null" : 0,
+          "average" : "25.43866666666667",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "28"
+          }, {
+            "count" : 19,
+            "item" : "5"
+          }, {
+            "count" : 18,
+            "item" : "13"
+          }, {
+            "count" : 17,
+            "item" : "19"
+          }, {
+            "count" : 16,
+            "item" : "12"
+          }, {
+            "count" : 15,
+            "item" : "47"
+          }, {
+            "count" : 14,
+            "item" : "42"
+          }, {
+            "count" : 13,
+            "item" : "25"
+          }, {
+            "count" : 12,
+            "item" : "39"
+          }, {
+            "count" : 11,
+            "item" : "50"
+          }, {
+            "count" : 10,
+            "item" : "32"
+          }, {
+            "count" : 9,
+            "item" : "43"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523749,
+        "name" : "Gonorrhea_Count",
+        "dataTypeName" : "number",
+        "fieldName" : "gonorrhea_count",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917536,
+        "width" : 213,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "37",
+          "sum" : "5046484",
+          "null" : 0,
+          "average" : "6728.645333333333",
+          "largest" : "45408",
+          "top" : [ {
+            "count" : 20,
+            "item" : "590"
+          }, {
+            "count" : 19,
+            "item" : "8253"
+          }, {
+            "count" : 18,
+            "item" : "892"
+          }, {
+            "count" : 17,
+            "item" : "7199"
+          }, {
+            "count" : 16,
+            "item" : "35322"
+          }, {
+            "count" : 15,
+            "item" : "1441"
+          }, {
+            "count" : 14,
+            "item" : "84"
+          }, {
+            "count" : 13,
+            "item" : "8250"
+          }, {
+            "count" : 12,
+            "item" : "6221"
+          }, {
+            "count" : 11,
+            "item" : "841"
+          }, {
+            "count" : 10,
+            "item" : "4078"
+          }, {
+            "count" : 9,
+            "item" : "116"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523750,
+        "name" : "Gonorrhea_Rate",
+        "dataTypeName" : "number",
+        "fieldName" : "gonorrhea_rate",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917537,
+        "width" : 169,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "5.0",
+          "sum" : "72348.6",
+          "null" : 0,
+          "average" : "96.4648",
+          "largest" : "323.5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "56.1"
+          }, {
+            "count" : 19,
+            "item" : "172.8"
+          }, {
+            "count" : 18,
+            "item" : "105.6"
+          }, {
+            "count" : 17,
+            "item" : "110.8"
+          }, {
+            "count" : 16,
+            "item" : "133.6"
+          }, {
+            "count" : 15,
+            "item" : "49.7"
+          }, {
+            "count" : 14,
+            "item" : "13.4"
+          }, {
+            "count" : 13,
+            "item" : "99.9"
+          }, {
+            "count" : 12,
+            "item" : "89.2"
+          }, {
+            "count" : 11,
+            "item" : "45.4"
+          }, {
+            "count" : 10,
+            "item" : "71.0"
+          }, {
+            "count" : 9,
+            "item" : "19.9"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523751,
+        "name" : "Gonorrhea_RankByCount",
+        "dataTypeName" : "number",
+        "fieldName" : "gonorrhea_rankbycount",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917538,
+        "width" : 207,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "1",
+          "sum" : "19125",
+          "null" : 0,
+          "average" : "25.5",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "39"
+          }, {
+            "count" : 19,
+            "item" : "23"
+          }, {
+            "count" : 18,
+            "item" : "41"
+          }, {
+            "count" : 17,
+            "item" : "18"
+          }, {
+            "count" : 16,
+            "item" : "2"
+          }, {
+            "count" : 15,
+            "item" : "37"
+          }, {
+            "count" : 14,
+            "item" : "50"
+          }, {
+            "count" : 13,
+            "item" : "13"
+          }, {
+            "count" : 12,
+            "item" : "20"
+          }, {
+            "count" : 11,
+            "item" : "42"
+          }, {
+            "count" : 10,
+            "item" : "26"
+          }, {
+            "count" : 9,
+            "item" : "49"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523752,
+        "name" : "Gonorrhea_RankByRate",
+        "dataTypeName" : "number",
+        "fieldName" : "gonorrhea_rankbyrate",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917539,
+        "width" : 252,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "1",
+          "sum" : "18964",
+          "null" : 0,
+          "average" : "25.28533333333333",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "37"
+          }, {
+            "count" : 19,
+            "item" : "29"
+          }, {
+            "count" : 18,
+            "item" : "49"
+          }, {
+            "count" : 17,
+            "item" : "19"
+          }, {
+            "count" : 16,
+            "item" : "12"
+          }, {
+            "count" : 15,
+            "item" : "43"
+          }, {
+            "count" : 14,
+            "item" : "50"
+          }, {
+            "count" : 13,
+            "item" : "25"
+          }, {
+            "count" : 12,
+            "item" : "30"
+          }, {
+            "count" : 11,
+            "item" : "44"
+          }, {
+            "count" : 10,
+            "item" : "36"
+          }, {
+            "count" : 9,
+            "item" : "47"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523753,
+        "name" : "Primary_Secondary_Syphilis_Count",
+        "dataTypeName" : "number",
+        "fieldName" : "primary_secondary_syphilis_count",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917540,
+        "width" : 318,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "0",
+          "sum" : "170609",
+          "null" : 0,
+          "average" : "227.4786666666667",
+          "largest" : "3835",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "78"
+          }, {
+            "count" : 16,
+            "item" : "12"
+          }, {
+            "count" : 15,
+            "item" : "15"
+          }, {
+            "count" : 14,
+            "item" : "60"
+          }, {
+            "count" : 13,
+            "item" : "158"
+          }, {
+            "count" : 12,
+            "item" : "575"
+          }, {
+            "count" : 11,
+            "item" : "16"
+          }, {
+            "count" : 10,
+            "item" : "449"
+          }, {
+            "count" : 9,
+            "item" : "301"
+          }, {
+            "count" : 8,
+            "item" : "421"
+          }, {
+            "count" : 7,
+            "item" : "257"
+          }, {
+            "count" : 6,
+            "item" : "189"
+          }, {
+            "count" : 5,
+            "item" : "352"
+          }, {
+            "count" : 4,
+            "item" : "8"
+          }, {
+            "count" : 3,
+            "item" : "50"
+          }, {
+            "count" : 2,
+            "item" : "357"
+          }, {
+            "count" : 1,
+            "item" : "36"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523754,
+        "name" : "Primary_Secondary_Syphilis_Rate",
+        "dataTypeName" : "number",
+        "fieldName" : "primary_secondary_syphilis_rate",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917541,
+        "width" : 472,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "0.0",
+          "sum" : "2057.7",
+          "null" : 0,
+          "average" : "2.7436",
+          "largest" : "16.5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.0"
+          }, {
+            "count" : 19,
+            "item" : "1.0"
+          }, {
+            "count" : 18,
+            "item" : "0.3"
+          }, {
+            "count" : 17,
+            "item" : "0.5"
+          }, {
+            "count" : 16,
+            "item" : "1.1"
+          }, {
+            "count" : 15,
+            "item" : "0.2"
+          }, {
+            "count" : 14,
+            "item" : "0.4"
+          }, {
+            "count" : 13,
+            "item" : "0.8"
+          }, {
+            "count" : 12,
+            "item" : "0.9"
+          }, {
+            "count" : 11,
+            "item" : "0.7"
+          }, {
+            "count" : 10,
+            "item" : "0.6"
+          }, {
+            "count" : 9,
+            "item" : "2.2"
+          }, {
+            "count" : 8,
+            "item" : "2.7"
+          }, {
+            "count" : 7,
+            "item" : "2.6"
+          }, {
+            "count" : 6,
+            "item" : "5.7"
+          }, {
+            "count" : 5,
+            "item" : "3.3"
+          }, {
+            "count" : 4,
+            "item" : "4.1"
+          }, {
+            "count" : 3,
+            "item" : "4.5"
+          }, {
+            "count" : 2,
+            "item" : "4.3"
+          }, {
+            "count" : 1,
+            "item" : "4.7"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523755,
+        "name" : "Primary_Secondary_Syphilis_RankByCount",
+        "dataTypeName" : "number",
+        "fieldName" : "primary_secondary_syphilis_rankbycount",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917542,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 750,
+          "smallest" : "1",
+          "sum" : "18386.0",
+          "null" : 0,
+          "average" : "24.51466666666667",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "39"
+          }, {
+            "count" : 19,
+            "item" : "37"
+          }, {
+            "count" : 18,
+            "item" : "38"
+          }, {
+            "count" : 17,
+            "item" : "41"
+          }, {
+            "count" : 16,
+            "item" : "30"
+          }, {
+            "count" : 15,
+            "item" : "40"
+          }, {
+            "count" : 14,
+            "item" : "43"
+          }, {
+            "count" : 13,
+            "item" : "44"
+          }, {
+            "count" : 12,
+            "item" : "42"
+          }, {
+            "count" : 11,
+            "item" : "45"
+          }, {
+            "count" : 10,
+            "item" : "46"
+          }, {
+            "count" : 9,
+            "item" : "32"
+          }, {
+            "count" : 8,
+            "item" : "3"
+          }, {
+            "count" : 7,
+            "item" : "47"
+          }, {
+            "count" : 6,
+            "item" : "14"
+          }, {
+            "count" : 5,
+            "item" : "31"
+          }, {
+            "count" : 4,
+            "item" : "48"
+          }, {
+            "count" : 3,
+            "item" : "29"
+          }, {
+            "count" : 2,
+            "item" : "20"
+          }, {
+            "count" : 1,
+            "item" : "11"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 230523756,
+        "name" : "Primary_Secondary_Syphilis_RankByRate",
+        "dataTypeName" : "number",
+        "fieldName" : "primary_secondary_syphilis_rankbyrate",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27917543,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 724,
+          "smallest" : "1",
+          "sum" : "15344",
+          "null" : 26,
+          "average" : "21.19337016574586",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13"
+          }, {
+            "count" : 19,
+            "item" : "10"
+          }, {
+            "count" : 18,
+            "item" : "9"
+          }, {
+            "count" : 17,
+            "item" : "19"
+          }, {
+            "count" : 16,
+            "item" : "26"
+          }, {
+            "count" : 15,
+            "item" : "24"
+          }, {
+            "count" : 14,
+            "item" : "18"
+          }, {
+            "count" : 13,
+            "item" : "14"
+          }, {
+            "count" : 12,
+            "item" : "6"
+          }, {
+            "count" : 11,
+            "item" : "27"
+          }, {
+            "count" : 10,
+            "item" : "28"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          }, {
+            "count" : 8,
+            "item" : "3"
+          }, {
+            "count" : 7,
+            "item" : "25"
+          }, {
+            "count" : 6,
+            "item" : "15"
+          }, {
+            "count" : 5,
+            "item" : "8"
+          }, {
+            "count" : 4,
+            "item" : "5"
+          }, {
+            "count" : 3,
+            "item" : "7"
+          }, {
+            "count" : 2,
+            "item" : "21"
+          }, {
+            "count" : 1,
+            "item" : "20"
+          } ]
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Agency" : {
+            "Agency Name" : "Illinois Department of Public Health (IDPH)"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rowLabel" : "Row",
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "rth8-ngz8",
+        "displayName" : "Danny Brikshavana",
+        "roleName" : "publisher",
+        "screenName" : "Danny Brikshavana",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "manage_provenance", "view_story", "view_unpublished_story", "view_all_dataset_status_logs" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "rth8-ngz8",
+        "displayName" : "Danny Brikshavana",
+        "roleName" : "publisher",
+        "screenName" : "Danny Brikshavana",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "manage_provenance", "view_story", "view_unpublished_story", "view_all_dataset_status_logs" ]
+      },
+      "tags" : [ "std", "nationally", "ranked", "nationally ranked", "state", "chlamydia", "gonrorhea", "primary syphilis", "secondary syphilis", "primary and secondary syphilis", "p&s", "count", "rate" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4E60F3F7-2CFF-44D7-B0FF-BE3D3CC19238", 1, 1447950184, "857768", 1447950184, "857768", null, "1", "2000", "Alabama", "15323", "344.2", "14", "6", "12063", "271.0", "12", "3", "123", "2.8", "17", "13" ]
+, [ 2, "8083855B-BB92-4BB9-A1ED-3820B0F41145", 2, 1447950184, "857768", 1447950184, "857768", null, "2", "2000", "Alaska", "2569", "409.3", "40", "2", "361", "57.5", "41", "35", "0", "0.0", "39", null ]
+, [ 3, "050B417C-1739-4A61-A304-5B872151C38F", 3, 1447950184, "857768", 1447950184, "857768", null, "3", "2000", "Arizona", "12591", "243.7", "21", "22", "4130", "79.9", "23", "28", "189", "3.7", "13", "10" ]
+, [ 4, "2D6474FC-BC46-4871-B623-FD01232BEB06", 4, 1447950184, "857768", 1447950184, "857768", null, "4", "2000", "Arkansas", "6219", "232.2", "31", "25", "3642", "136.0", "24", "17", "104", "3.9", "19", "9" ]
+, [ 5, "ED7CAB14-0E5A-473C-B032-AC153DF2B0B8", 5, 1447950184, "857768", 1447950184, "857768", null, "5", "2000", "California", "95392", "280.5", "1", "12", "21619", "63.6", "4", "32", "325", "1.0", "9", "19" ]
+, [ 6, "9CEFEE22-D23B-4BE3-A5E0-DD4B67A66D42", 6, 1447950184, "857768", 1447950184, "857768", null, "6", "2000", "Colorado", "12000", "277.3", "22", "13", "3112", "71.9", "27", "30", "11", "0.3", "31", "26" ]
+, [ 7, "76C6CBB6-E428-4E49-AC2C-6AED104AB1D2", 7, 1447950184, "857768", 1447950184, "857768", null, "7", "2000", "Connecticut", "7604", "222.9", "29", "28", "2912", "85.3", "29", "27", "16", "0.5", "28", "24" ]
+, [ 8, "A1842781-CE25-42CE-9DAD-74A571083032", 8, 1447950184, "857768", 1447950184, "857768", null, "8", "2000", "Delaware", "2856", "363.1", "38", "4", "1735", "220.6", "32", "5", "9", "1.1", "32", "18" ]
+, [ 9, "5C6FEDC3-AEAC-4339-9853-EBB8C060DB54", 9, 1447950184, "857768", 1447950184, "857768", null, "9", "2000", "Florida", "33390", "208.0", "4", "33", "22781", "141.9", "3", "16", "413", "2.6", "3", "14" ]
+, [ 10, "C2E08C97-E10E-4E73-B7F8-0CDD4A506ADE", 10, 1447950184, "857768", 1447950184, "857768", null, "10", "2000", "Georgia", "29359", "356.5", "7", "5", "20265", "246.1", "5", "4", "402", "4.9", "5", "6" ]
+, [ 11, "590D174D-00A9-4543-9566-36E626354FE7", 11, 1447950184, "857768", 1447950184, "857768", null, "11", "2000", "Hawaii", "3547", "292.5", "37", "10", "483", "39.8", "40", "39", "2", "0.2", "37", "27" ]
+, [ 12, "C7041DF9-B6F4-48E7-ABBC-2994EB6D9338", 12, 1447950184, "857768", 1447950184, "857768", null, "12", "2000", "Idaho", "1907", "146.7", "43", "42", "98", "7.5", "45", "47", "1", "0.1", "38", "28" ]
+, [ 13, "D7C1BDB4-6ED1-4BEB-940D-334DC5BA8028", 13, 1447950184, "857768", 1447950184, "857768", null, "13", "2000", "Illinois", "40350", "324.3", "3", "8", "24812", "199.4", "2", "9", "412", "3.3", "4", "12" ]
+, [ 14, "5703DEA1-304D-447D-BD6F-1302792AF4BC", 14, 1447950184, "857768", 1447950184, "857768", null, "14", "2000", "Indiana", "14063", "230.8", "17", "26", "6525", "107.1", "21", "21", "351", "5.8", "7", "3" ]
+, [ 15, "E89DC916-9D62-425B-BF55-1639D644B797", 15, 1447950184, "857768", 1447950184, "857768", null, "15", "2000", "Iowa", "5987", "204.4", "33", "35", "1392", "47.5", "35", "37", "11", "0.4", "31", "25" ]
+, [ 16, "2C6D2425-86DA-433C-BE5A-A98AA71B8297", 16, 1447950184, "857768", 1447950184, "857768", null, "16", "2000", "Kansas", "6056", "224.9", "32", "27", "2795", "103.8", "30", "23", "6", "0.2", "33", "27" ]
+, [ 17, "AA73B1CC-E875-41FC-9253-192CD8C9659F", 17, 1447950184, "857768", 1447950184, "857768", null, "17", "2000", "Kentucky", "8063", "199.1", "28", "36", "3502", "86.5", "25", "25", "85", "2.1", "20", "15" ]
+, [ 18, "367A0F58-8575-4290-95C6-4442681BB018", 18, 1447950184, "857768", 1447950184, "857768", null, "18", "2000", "Louisiana", "17846", "399.3", "11", "3", "13245", "296.3", "11", "2", "209", "4.7", "12", "8" ]
+, [ 19, "B2879AD2-8777-44C0-8C6A-B1BBD21364B1", 19, 1447950184, "857768", 1447950184, "857768", null, "19", "2000", "Maine", "1474", "115.4", "45", "46", "90", "7.0", "46", "48", "1", "0.1", "38", "28" ]
+, [ 20, "02DBDCC7-E021-4E77-83A0-95E7D0350CFE", 20, 1447950184, "857768", 1447950184, "857768", null, "20", "2000", "Maryland", "14533", "273.6", "16", "15", "9837", "185.2", "15", "10", "300", "5.6", "10", "5" ]
+, [ 21, "FC083564-C3D7-4C28-8887-4E59DBDC80FE", 21, 1447950184, "857768", 1447950184, "857768", null, "21", "2000", "Massachusetts", "10967", "172.4", "23", "37", "3045", "47.9", "28", "36", "68", "1.1", "24", "18" ]
+, [ 22, "65F45321-4789-4065-BCDC-72FD37C696C9", 22, 1447950184, "857768", 1447950184, "857768", null, "22", "2000", "Michigan", "26237", "263.5", "9", "19", "18182", "182.6", "8", "11", "330", "3.3", "8", "12" ]
+, [ 23, "D07D3811-0F2E-4C58-94A8-031ECC3B72AF", 23, 1447950184, "857768", 1447950184, "857768", null, "23", "2000", "Minnesota", "8102", "164.2", "27", "39", "3160", "64.0", "26", "31", "16", "0.3", "28", "26" ]
+, [ 24, "D12DC6FA-4E20-42EE-A0A0-7B7A3F45247A", 24, 1447950184, "857768", 1447950184, "857768", null, "24", "2000", "Mississippi", "12697", "445.7", "20", "1", "9217", "323.5", "16", "1", "137", "4.8", "14", "7" ]
+, [ 25, "765A5960-48A3-4D10-B75F-B7CE1336ABD5", 25, 1447950184, "857768", 1447950184, "857768", null, "25", "2000", "Missouri", "13448", "239.9", "18", "24", "8883", "158.5", "17", "13", "29", "0.5", "27", "24" ]
+, [ 26, "6854BD5A-31FD-4D03-8D77-940A1B964D95", 26, 1447950184, "857768", 1447950184, "857768", null, "26", "2000", "Montana", "1469", "162.6", "46", "41", "60", "6.6", "49", "49", "0", "0.0", "39", null ]
+, [ 27, "B7B2E286-8D03-481B-83B6-E4EE6A5D0594", 27, 1447950184, "857768", 1447950184, "857768", null, "27", "2000", "Nebraska", "3791", "221.3", "36", "29", "1534", "89.5", "34", "24", "2", "0.1", "37", "28" ]
+, [ 28, "78FE7B86-6F6A-4936-AD7D-AE16FB00F472", 28, 1447950184, "857768", 1447950184, "857768", null, "28", "2000", "Nevada", "4019", "199.1", "35", "36", "1553", "76.9", "33", "29", "5", "0.2", "34", "27" ]
+, [ 29, "7417D1A0-6C6A-4FD4-9953-C70589EDE7DB", 29, 1447950184, "857768", 1447950184, "857768", null, "29", "2000", "New Hampshire", "1130", "91.1", "47", "48", "110", "8.9", "44", "46", "2", "0.2", "37", "27" ]
+, [ 30, "C358C1A7-FEF9-4DD3-8724-E803732893EE", 30, 1447950184, "857768", 1447950184, "857768", null, "30", "2000", "New Jersey", "10814", "128.2", "24", "44", "7232", "85.8", "19", "26", "71", "0.8", "22", "21" ]
+, [ 31, "FF5A78C0-F0E5-4CFA-AB10-28063243817D", 31, 1447950184, "857768", 1447950184, "857768", null, "31", "2000", "New Mexico", "5204", "285.7", "34", "11", "1152", "63.2", "36", "33", "16", "0.9", "29", "20" ]
+, [ 32, "1F2360DD-5461-4991-9131-59E2ED555CEC", 32, 1447950184, "857768", 1447950184, "857768", null, "32", "2000", "New York", "31494", "165.8", "5", "38", "20114", "105.9", "6", "22", "132", "0.7", "15", "22" ]
+, [ 33, "6D1C8588-04C0-412D-9F0C-B540B6D0B0F2", 33, 1447950184, "857768", 1447950184, "857768", null, "33", "2000", "North Carolina", "21985", "272.0", "10", "16", "17823", "220.5", "9", "6", "483", "6.0", "2", "2" ]
+, [ 34, "F30BA5BA-D122-4C41-BF16-FA06ADAEC1FD", 34, 1447950184, "857768", 1447950184, "857768", null, "34", "2000", "North Dakota", "909", "141.8", "48", "43", "73", "11.4", "47", "43", "0", "0.0", "39", null ]
+, [ 35, "507154E4-553F-4B52-9799-7F77F0392A7D", 35, 1447950184, "857768", 1447950184, "857768", null, "35", "2000", "Ohio", "31190", "274.5", "6", "14", "19303", "169.9", "7", "12", "69", "0.6", "23", "23" ]
+, [ 36, "2DC068B4-2314-42E2-9611-44E1A3B48B99", 36, 1447950184, "857768", 1447950184, "857768", null, "36", "2000", "Oklahoma", "9331", "270.1", "26", "17", "4229", "122.4", "22", "19", "116", "3.4", "18", "11" ]
+, [ 37, "6FA37C87-DCA0-42D6-A867-F6F9C8637F23", 37, 1447950184, "857768", 1447950184, "857768", null, "37", "2000", "Oregon", "7107", "207.1", "30", "34", "1038", "30.3", "37", "42", "12", "0.3", "30", "26" ]
+, [ 38, "BDF2754D-D588-4DCB-A961-9865FD3426FF", 38, 1447950184, "857768", 1447950184, "857768", null, "38", "2000", "Pennsylvania", "26475", "215.5", "8", "32", "13607", "110.8", "10", "20", "77", "0.6", "21", "23" ]
+, [ 39, "E4B08BEC-9EC9-4561-8098-88DDA426116A", 39, 1447950184, "857768", 1447950184, "857768", null, "39", "2000", "Rhode Island", "2632", "250.5", "39", "20", "661", "62.9", "38", "34", "4", "0.4", "35", "25" ]
+, [ 40, "50E7601A-A2BD-403E-AD0C-70CA71CF68ED", 40, 1447950184, "857768", 1447950184, "857768", null, "40", "2000", "South Carolina", "9950", "247.3", "25", "21", "8383", "208.3", "18", "7", "229", "5.7", "11", "4" ]
+, [ 41, "DAFB4698-9240-4828-BF92-2543913999B3", 41, 1447950184, "857768", 1447950184, "857768", null, "41", "2000", "South Dakota", "1834", "242.7", "44", "23", "277", "36.7", "42", "40", "0", "0.0", "39", null ]
+, [ 42, "3CE67CD3-C131-4D74-BD13-3D85B8F78BD3", 42, 1447950184, "857768", 1447950184, "857768", null, "42", "2000", "Tennessee", "15069", "264.2", "15", "18", "11876", "208.2", "13", "8", "532", "9.3", "1", "1" ]
+, [ 43, "6D4D8F46-E227-488C-B99B-10752281D03C", 43, 1447950184, "857768", 1447950184, "857768", null, "43", "2000", "Texas", "68814", "328.4", "2", "7", "32919", "157.1", "1", "14", "396", "1.9", "6", "16" ]
+, [ 44, "153048AB-4FF3-4D5B-9606-43E1B138A6E4", 44, 1447950184, "857768", 1447950184, "857768", null, "44", "2000", "Utah", "2190", "97.6", "41", "47", "231", "10.3", "43", "45", "2", "0.1", "37", "28" ]
+, [ 45, "8B39A612-0CCB-4293-87C9-52CD2D1EB8EA", 45, 1447950184, "857768", 1447950184, "857768", null, "45", "2000", "Vermont", "526", "86.2", "50", "49", "65", "10.7", "48", "44", "0", "0.0", "39", null ]
+, [ 46, "09C790DD-3BF5-4053-9D88-6EA16CBF789C", 46, 1447950184, "857768", 1447950184, "857768", null, "46", "2000", "Virginia", "15352", "216.0", "13", "31", "10175", "143.2", "14", "15", "126", "1.8", "16", "17" ]
+, [ 47, "D9E85F2C-1435-4D9E-BD97-1B63CC9FEE0F", 47, 1447950184, "857768", 1447950184, "857768", null, "47", "2000", "Washington", "13066", "221.0", "19", "30", "2418", "40.9", "31", "38", "66", "1.1", "25", "18" ]
+, [ 48, "A4CC765D-5503-414E-8BB7-7E04C0786549", 48, 1447950184, "857768", 1447950184, "857768", null, "48", "2000", "West Virginia", "2144", "118.6", "42", "45", "645", "35.7", "39", "41", "3", "0.2", "36", "27" ]
+, [ 49, "A51155F0-63C1-4D86-A44F-AEA8FC842FF8", 49, 1447950184, "857768", 1447950184, "857768", null, "49", "2000", "Wisconsin", "16365", "304.5", "12", "9", "7013", "130.5", "20", "18", "48", "0.9", "26", "20" ]
+, [ 50, "CE3A5198-66EA-436D-AC3B-C69033BDD46F", 50, 1447950184, "857768", 1447950184, "857768", null, "50", "2000", "Wyoming", "807", "163.3", "49", "40", "53", "10.7", "50", "44", "1", "0.2", "38", "27" ]
+, [ 51, "6404006F-2993-4116-A92C-F283C1C470A3", 51, 1447950184, "857768", 1447950184, "857768", null, "1", "2001", "Alabama", "14524", "325.0", "19", "12", "11182", "250.2", "12", "4", "142", "3.2", "15", "8" ]
+, [ 52, "E15613B0-E8EF-4658-902E-86ACBD1D6002", 52, 1447950184, "857768", 1447950184, "857768", null, "2", "2001", "Alaska", "2744", "433.1", "41", "1", "457", "72.1", "41", "30", "0", "0.0", "42", null ]
+, [ 53, "9BE644CC-FCA6-4905-8BEC-635DB149CDB3", 53, 1447950184, "857768", 1447950184, "857768", null, "3", "2001", "Arizona", "14346", "270.3", "20", "21", "3920", "73.9", "24", "29", "180", "3.4", "12", "6" ]
+, [ 54, "E371FA85-2CBF-42A9-8008-9BC3750E05FF", 54, 1447950184, "857768", 1447950184, "857768", null, "4", "2001", "Arkansas", "7280", "270.2", "31", "22", "4604", "170.9", "23", "13", "49", "1.8", "23", "12" ]
+, [ 55, "21035F5C-D536-4E14-A2A9-C2A04578957B", 55, 1447950184, "857768", 1447950184, "857768", null, "5", "2001", "California", "101944", "294.6", "1", "17", "23296", "67.3", "3", "33", "545", "1.6", "1", "14" ]
+, [ 56, "1E1EC72C-F98B-4620-B1DD-BE013B907A96", 56, 1447950184, "857768", 1447950184, "857768", null, "6", "2001", "Colorado", "13239", "298.8", "23", "16", "3190", "72.0", "27", "31", "23", "0.5", "29", "22" ]
+, [ 57, "00DE9822-D6BA-4A90-AFD5-81A832DEE190", 57, 1447950184, "857768", 1447950184, "857768", null, "7", "2001", "Connecticut", "7718", "224.7", "29", "33", "2546", "74.1", "31", "28", "12", "0.3", "34", "24" ]
+, [ 58, "B91CCC7B-795A-46B3-A3C8-6210C110FC7C", 58, 1447950184, "857768", 1447950184, "857768", null, "8", "2001", "Delaware", "2793", "350.6", "40", "6", "1733", "217.5", "33", "6", "14", "1.8", "32", "12" ]
+, [ 59, "25EF1133-223B-43B3-B60E-B68E242F021E", 59, 1447950184, "857768", 1447950184, "857768", null, "9", "2001", "Florida", "37625", "229.8", "6", "31", "21531", "131.5", "5", "18", "484", "3.0", "2", "9" ]
+, [ 60, "57985863-A5EF-4798-AB35-AC98C597DCAE", 60, 1447950184, "857768", 1447950184, "857768", null, "10", "2001", "Georgia", "33840", "402.6", "7", "3", "18920", "225.1", "7", "5", "414", "4.9", "6", "3" ]
+, [ 61, "ABDEDC4D-405A-4129-9C4B-ED51EDF1600B", 61, 1447950184, "857768", 1447950184, "857768", null, "11", "2001", "Hawaii", "4031", "328.5", "36", "10", "604", "49.2", "40", "38", "12", "1.0", "34", "17" ]
+, [ 62, "7376AD6B-CD65-45CA-A1B0-B2AF61CC5ED4", 62, 1447950184, "857768", 1447950184, "857768", null, "12", "2001", "Idaho", "2023", "153.2", "43", "45", "76", "5.8", "48", "50", "1", "0.1", "41", "26" ]
+, [ 63, "0B190FE7-2271-4F5B-923C-20987BA78F42", 63, 1447950184, "857768", 1447950184, "857768", null, "13", "2001", "Illinois", "43716", "349.2", "4", "7", "24025", "191.9", "2", "8", "409", "3.3", "7", "7" ]
+, [ 64, "C379065C-E980-435D-9D49-3FE3D3C0A037", 64, 1447950184, "857768", 1447950184, "857768", null, "14", "2001", "Indiana", "15258", "249.0", "18", "25", "6972", "113.8", "20", "21", "151", "2.5", "14", "10" ]
+, [ 65, "EF98AD50-3696-44F0-9DCC-C2288B36CBFB", 65, 1447950184, "857768", 1447950184, "857768", null, "15", "2001", "Iowa", "5699", "194.4", "34", "38", "1418", "48.4", "34", "39", "5", "0.2", "39", "25" ]
+, [ 66, "C11208E1-4BBE-4790-8A0A-5DC367A4D5BD", 66, 1447950184, "857768", 1447950184, "857768", null, "16", "2001", "Kansas", "6050", "223.9", "33", "34", "2669", "98.8", "30", "24", "25", "0.9", "28", "18" ]
+, [ 67, "291956D7-60FC-49A1-8182-AD4633B3EDB4", 67, 1447950184, "857768", 1447950184, "857768", null, "17", "2001", "Kentucky", "8881", "218.3", "27", "35", "3588", "88.2", "25", "25", "48", "1.2", "24", "16" ]
+, [ 68, "4DF09EB5-30AD-490E-8EE8-2B0B165996F5", 68, 1447950184, "857768", 1447950184, "857768", null, "18", "2001", "Louisiana", "17840", "399.1", "12", "4", "12253", "274.1", "11", "1", "173", "3.9", "13", "5" ]
+, [ 69, "E59DE4E4-4FCE-426E-9B95-3309890B367A", 69, 1447950184, "857768", 1447950184, "857768", null, "19", "2001", "Maine", "1338", "104.2", "47", "49", "141", "11.0", "45", "47", "1", "0.1", "41", "26" ]
+, [ 70, "53F310C6-4E8E-43CC-A215-EEF6FF53692A", 70, 1447950184, "857768", 1447950184, "857768", null, "20", "2001", "Maryland", "15640", "290.4", "15", "18", "9427", "175.0", "16", "11", "266", "4.9", "10", "3" ]
+, [ 71, "C2CE2F89-BB00-4137-8DA1-54F850A2E52D", 71, 1447950184, "857768", 1447950184, "857768", null, "21", "2001", "Massachusetts", "10402", "162.5", "26", "44", "3214", "50.2", "26", "36", "46", "0.7", "25", "20" ]
+, [ 72, "8EB6D005-D226-41E7-9ABF-1EAA2137BDC2", 72, 1447950184, "857768", 1447950184, "857768", null, "22", "2001", "Michigan", "31090", "310.7", "8", "13", "17120", "171.1", "8", "12", "428", "4.3", "5", "4" ]
+, [ 73, "847E3550-B925-4C0D-B5B1-DF48FD49F0E8", 73, 1447950184, "857768", 1447950184, "857768", null, "23", "2001", "Minnesota", "8323", "167.0", "28", "42", "2701", "54.2", "29", "35", "33", "0.7", "26", "20" ]
+, [ 74, "451F02C8-766B-43AA-A843-6678B5053CE4", 74, 1447950184, "857768", 1447950184, "857768", null, "24", "2001", "Mississippi", "11793", "412.4", "24", "2", "7759", "271.3", "19", "2", "140", "4.9", "16", "3" ]
+, [ 75, "6BDE07E4-6625-4FCC-B66B-99F6441D2014", 75, 1447950184, "857768", 1447950184, "857768", null, "25", "2001", "Missouri", "13949", "247.4", "21", "26", "8723", "154.7", "18", "14", "26", "0.5", "27", "22" ]
+, [ 76, "655FE73E-1E2E-49F5-ADE7-364BB4A2C884", 76, 1447950184, "857768", 1447950184, "857768", null, "26", "2001", "Montana", "1919", "212.0", "44", "37", "104", "11.5", "46", "46", "0", "0.0", "42", null ]
+, [ 77, "0C51F9AC-4883-489E-8EEA-03C253DDEF77", 77, 1447950184, "857768", 1447950184, "857768", null, "27", "2001", "Nebraska", "3206", "186.4", "37", "40", "1189", "69.1", "35", "32", "10", "0.6", "36", "21" ]
+, [ 78, "D363544D-4593-495F-AF54-9D18BA089D6B", 78, 1447950184, "857768", 1447950184, "857768", null, "28", "2001", "Nevada", "4831", "230.3", "35", "30", "1756", "83.7", "32", "26", "8", "0.4", "38", "23" ]
+, [ 79, "535B4FCB-2EF3-4021-AAC9-3A715D59DA5F", 79, 1447950184, "857768", 1447950184, "857768", null, "29", "2001", "New Hampshire", "1383", "109.8", "46", "48", "176", "14.0", "44", "44", "1", "0.1", "41", "26" ]
+, [ 80, "16EE0E96-1575-4C47-B7B5-04D070D750F5", 80, 1447950184, "857768", 1447950184, "857768", null, "30", "2001", "New Jersey", "16312", "191.7", "13", "39", "8921", "104.8", "17", "23", "137", "1.6", "17", "14" ]
+, [ 81, "CF2B16B4-3102-4484-A0F6-D85E484628A0", 81, 1447950184, "857768", 1447950184, "857768", null, "31", "2001", "New Mexico", "6254", "341.6", "32", "8", "1040", "56.8", "37", "34", "19", "1.0", "31", "17" ]
+, [ 82, "41BAB961-5EE1-472C-B770-C97A0FBE9D7C", 82, 1447950184, "857768", 1447950184, "857768", null, "32", "2001", "New York", "46393", "243.1", "3", "27", "22299", "116.8", "4", "19", "304", "1.6", "9", "14" ]
+, [ 83, "D77922E9-EC54-4F66-8084-23D94BD21348", 83, 1447950184, "857768", 1447950184, "857768", null, "33", "2001", "North Carolina", "22101", "269.3", "10", "23", "16583", "202.1", "9", "7", "445", "5.4", "4", "2" ]
+, [ 84, "53735146-94D7-4966-BA15-AD252621925A", 84, 1447950184, "857768", 1447950184, "857768", null, "34", "2001", "North Dakota", "1062", "166.8", "48", "43", "56", "8.8", "50", "49", "0", "0.0", "42", null ]
+, [ 85, "C5874598-68BA-42F4-8985-B70E35DBB8EE", 85, 1447950184, "857768", 1447950184, "857768", null, "35", "2001", "Ohio", "37653", "330.6", "5", "9", "21163", "185.8", "6", "9", "81", "0.7", "20", "20" ]
+, [ 86, "B7FA1846-29B5-4B67-BBE3-C0A75C89B976", 86, 1447950184, "857768", 1447950184, "857768", null, "36", "2001", "Oklahoma", "10478", "302.0", "25", "14", "4784", "137.9", "22", "17", "60", "1.7", "21", "13" ]
+, [ 87, "184E5B5B-5FAC-49AA-A8EC-0F53C4939B99", 87, 1447950184, "857768", 1447950184, "857768", null, "37", "2001", "Oregon", "7454", "214.6", "30", "36", "1144", "32.9", "36", "42", "13", "0.4", "33", "23" ]
+, [ 88, "C2DB5A3A-E28F-4F50-9BA7-DC5917617BC0", 88, 1447950184, "857768", 1447950184, "857768", null, "38", "2001", "Pennsylvania", "28371", "230.6", "9", "29", "14244", "115.8", "10", "20", "100", "0.8", "19", "19" ]
+, [ 89, "6E1016CB-DDE2-41E9-9DF1-438290102752", 89, 1447950184, "857768", 1447950184, "857768", null, "39", "2001", "Rhode Island", "2912", "274.8", "39", "19", "830", "78.3", "38", "27", "9", "0.8", "37", "19" ]
+, [ 90, "E27DF790-2613-4812-AF95-03744F5C0513", 90, 1447950184, "857768", 1447950184, "857768", null, "40", "2001", "South Carolina", "15329", "377.4", "17", "5", "10805", "266.0", "14", "3", "235", "5.8", "11", "1" ]
+, [ 91, "1315C529-C7B8-484C-9897-288A0CDE1507", 91, 1447950184, "857768", 1447950184, "857768", null, "41", "2001", "South Dakota", "1821", "240.1", "45", "28", "289", "38.1", "42", "41", "1", "0.1", "41", "26" ]
+, [ 92, "24474A5D-6FFE-4C27-A0B7-3AF56A2F825B", 92, 1447950184, "857768", 1447950184, "857768", null, "42", "2001", "Tennessee", "15560", "270.6", "16", "20", "10145", "176.5", "15", "10", "331", "5.8", "8", "1" ]
+, [ 93, "118FC1F7-B1B9-4927-B491-2AE6C996FCCA", 93, 1447950184, "857768", 1447950184, "857768", null, "43", "2001", "Texas", "69752", "326.4", "2", "11", "30024", "140.5", "1", "16", "478", "2.2", "3", "11" ]
+, [ 94, "040DF2FA-A5CE-459A-B9E1-1E38D332A920", 94, 1447950184, "857768", 1447950184, "857768", null, "44", "2001", "Utah", "3004", "131.8", "38", "46", "219", "9.6", "43", "48", "11", "0.5", "35", "22" ]
+, [ 95, "012A83A2-EFCF-4B11-8929-9BF28B07E4EF", 95, 1447950184, "857768", 1447950184, "857768", null, "45", "2001", "Vermont", "638", "104.1", "50", "50", "76", "12.4", "49", "45", "3", "0.5", "40", "22" ]
+, [ 96, "2641BA4A-7792-4C11-BB4F-138A564D9858", 96, 1447950184, "857768", 1447950184, "857768", null, "46", "2001", "Virginia", "18337", "254.8", "11", "24", "11095", "154.2", "13", "15", "102", "1.4", "18", "15" ]
+, [ 97, "963B558F-667A-46C6-A7B1-1ECC83227DDC", 97, 1447950184, "857768", 1447950184, "857768", null, "47", "2001", "Washington", "13631", "227.4", "22", "32", "2991", "49.9", "28", "37", "57", "1.0", "22", "17" ]
+, [ 98, "8ACB7C6B-79C3-4CCE-8951-B24F1A3EE58E", 98, 1447950184, "857768", 1447950184, "857768", null, "48", "2001", "West Virginia", "2346", "130.3", "42", "47", "732", "40.6", "39", "40", "5", "0.3", "39", "24" ]
+, [ 99, "033F7117-10C1-45D8-977E-A19B9E5832E1", 99, 1447950184, "857768", 1447950184, "857768", null, "49", "2001", "Wisconsin", "16284", "301.2", "14", "15", "6011", "111.2", "21", "22", "22", "0.4", "30", "23" ]
+, [ 100, "47392505-69EB-4D6B-87E1-9D8AE4A2ED0B", 100, 1447950184, "857768", 1447950184, "857768", null, "50", "2001", "Wyoming", "839", "169.9", "49", "41", "77", "15.6", "47", "43", "1", "0.2", "41", "25" ]
+, [ 101, "1F707BD8-C205-43E7-932F-942B822C29E4", 101, 1447950184, "857768", 1447950184, "857768", null, "1", "2002", "Alabama", "15611", "348.0", "18", "9", "10118", "225.5", "13", "3", "149", "3.3", "15", "7" ]
+, [ 102, "AB0C78B2-6821-4EDD-AB2C-B4D1F78ECEA9", 102, 1447950184, "857768", 1447950184, "857768", null, "2", "2002", "Alaska", "3806", "591.2", "38", "1", "641", "99.6", "41", "24", "0", "0.0", "39", null ]
+, [ 103, "7B60E103-FFFE-44B8-B5FA-70D7C3307B79", 103, 1447950184, "857768", 1447950184, "857768", null, "3", "2002", "Arizona", "14973", "274.4", "19", "26", "3795", "69.6", "24", "34", "200", "3.7", "10", "5" ]
+, [ 104, "C7E6BD0D-87F3-4FB5-B9B7-81FE47BD1DB4", 104, 1447950184, "857768", 1447950184, "857768", null, "4", "2002", "Arkansas", "7312", "269.8", "31", "29", "4584", "169.1", "23", "11", "34", "1.3", "28", "17" ]
+, [ 105, "8D0EC1C8-33AF-443E-BDE7-440CDD3BFAFC", 105, 1447950184, "857768", 1447950184, "857768", null, "5", "2002", "California", "110288", "314.1", "1", "14", "24606", "70.1", "2", "33", "1033", "2.9", "1", "8" ]
+, [ 106, "C4A000ED-A113-4129-AE49-A5E45FB1504D", 106, 1447950184, "857768", 1447950184, "857768", null, "6", "2002", "Colorado", "14028", "311.3", "23", "16", "3511", "77.9", "26", "32", "64", "1.4", "23", "16" ]
+, [ 107, "F5F3DACF-68A4-451C-A9FA-935BE796D1FB", 107, 1447950184, "857768", 1447950184, "857768", null, "7", "2002", "Connecticut", "9808", "283.4", "28", "22", "3241", "93.7", "28", "25", "28", "0.8", "30", "21" ]
+, [ 108, "1AFA842F-739B-41E7-A610-FEA179FE0FF1", 108, 1447950184, "857768", 1447950184, "857768", null, "8", "2002", "Delaware", "2649", "328.1", "41", "11", "1576", "195.2", "33", "6", "11", "1.4", "34", "16" ]
+, [ 109, "3D69AACC-9FCE-4F54-AB32-57000E477DA1", 109, 1447950184, "857768", 1447950184, "857768", null, "9", "2002", "Florida", "42058", "251.6", "5", "34", "21348", "127.7", "6", "17", "617", "3.7", "2", "5" ]
+, [ 110, "6F18F8A0-565A-4BC4-BCBF-C008D4660BEC", 110, 1447950184, "857768", 1447950184, "857768", null, "10", "2002", "Georgia", "33998", "397.2", "7", "5", "18383", "214.7", "7", "5", "439", "5.1", "7", "1" ]
+, [ 111, "25988921-E08C-463F-BB98-128BD7FA77B0", 111, 1447950184, "857768", 1447950184, "857768", null, "11", "2002", "Hawaii", "4521", "363.2", "37", "7", "740", "59.4", "40", "36", "11", "0.9", "34", "20" ]
+, [ 112, "268353B7-F169-40B0-BF52-B369DC77CFB1", 112, 1447950184, "857768", 1447950184, "857768", null, "12", "2002", "Idaho", "2503", "186.6", "42", "43", "94", "7.0", "48", "49", "8", "0.6", "35", "23" ]
+, [ 113, "9FBA91B4-B624-4DCD-9339-392F23FD8783", 113, 1447950184, "857768", 1447950184, "857768", null, "13", "2002", "Illinois", "48101", "381.7", "4", "6", "24026", "190.7", "3", "8", "479", "3.8", "5", "4" ]
+, [ 114, "56A4F45B-BFFA-4745-9B7B-31AD8A9E1525", 114, 1447950184, "857768", 1447950184, "857768", null, "14", "2002", "Indiana", "17100", "277.6", "13", "23", "7395", "120.1", "19", "19", "62", "1.0", "24", "19" ]
+, [ 115, "E62F599B-1AC5-4C96-8619-63369F109120", 115, 1447950184, "857768", 1447950184, "857768", null, "15", "2002", "Iowa", "6195", "210.9", "34", "38", "1480", "50.4", "35", "38", "8", "0.3", "35", "24" ]
+, [ 116, "7B68ED02-495F-4EC2-82C4-65BBAE01FEFA", 116, 1447950184, "857768", 1447950184, "857768", null, "16", "2002", "Kansas", "6784", "249.8", "33", "35", "2744", "101.0", "31", "23", "20", "0.7", "31", "22" ]
+, [ 117, "C2DFEA6F-63A0-4B93-9AB4-E6140E559D92", 117, 1447950184, "857768", 1447950184, "857768", null, "17", "2002", "Kentucky", "8756", "213.9", "29", "37", "3772", "92.2", "25", "26", "88", "2.2", "19", "11" ]
+, [ 118, "C5D1BBF6-AC99-4BC5-9B92-E09CE43273A0", 118, 1447950184, "857768", 1447950184, "857768", null, "18", "2002", "Louisiana", "18442", "411.4", "12", "2", "11387", "254.0", "11", "1", "152", "3.4", "14", "6" ]
+, [ 119, "E2FB5C06-D31A-4A31-965A-9A077B4EAEFD", 119, 1447950184, "857768", 1447950184, "857768", null, "19", "2002", "Maine", "1805", "139.4", "46", "48", "142", "11.0", "44", "47", "2", "0.2", "38", "25" ]
+, [ 120, "C548CD8A-B650-4A42-ABA9-1AF96415A867", 120, 1447950184, "857768", 1447950184, "857768", null, "20", "2002", "Maryland", "16891", "309.5", "15", "17", "9355", "171.4", "14", "10", "228", "4.2", "9", "3" ]
+, [ 121, "13D24B9D-78FD-423F-836D-F220F9432F0B", 121, 1447950184, "857768", 1447950184, "857768", null, "21", "2002", "Massachusetts", "10914", "169.8", "25", "44", "3242", "50.4", "27", "38", "99", "1.5", "18", "15" ]
+, [ 122, "B3DC2A92-5EC1-4147-B04B-BF52A7D23611", 122, 1447950184, "857768", 1447950184, "857768", null, "22", "2002", "Michigan", "32272", "321.1", "8", "12", "14770", "147.0", "9", "14", "486", "4.8", "4", "2" ]
+, [ 123, "839178EC-E0D3-4AD7-94AA-50BF8F586FB4", 123, 1447950184, "857768", 1447950184, "857768", null, "23", "2002", "Minnesota", "10107", "201.3", "27", "39", "3049", "60.7", "29", "35", "59", "1.2", "25", "18" ]
+, [ 124, "BBCA4BF2-5B21-4995-B125-B69D18CB86C1", 124, 1447950184, "857768", 1447950184, "857768", null, "24", "2002", "Mississippi", "11800", "410.9", "24", "3", "6875", "239.4", "20", "2", "49", "1.7", "26", "17" ]
+, [ 125, "FDCF8502-A183-4670-B797-8206D963ED32", 125, 1447950184, "857768", 1447950184, "857768", null, "25", "2002", "Missouri", "16181", "285.2", "16", "21", "8952", "157.8", "17", "13", "34", "0.6", "28", "23" ]
+, [ 126, "FB1E2BDD-DFF9-4591-949C-3B9D96E9E0A1", 126, 1447950184, "857768", 1447950184, "857768", null, "26", "2002", "Montana", "2475", "272.1", "43", "28", "123", "13.5", "45", "44", "0", "0.0", "39", null ]
+, [ 127, "E1AB0F74-AF2E-4811-96C7-951CD98D8BF4", 127, 1447950184, "857768", 1447950184, "857768", null, "27", "2002", "Nebraska", "4779", "276.4", "36", "25", "1564", "90.4", "34", "29", "6", "0.3", "37", "24" ]
+, [ 128, "2BF1BC5A-BB5C-4E96-B96F-F5DF97DA7955", 128, 1447950184, "857768", 1447950184, "857768", null, "28", "2002", "Nevada", "5936", "273.1", "35", "27", "1988", "91.5", "32", "28", "15", "0.7", "32", "22" ]
+, [ 129, "0678868F-F290-49BB-8558-E1611CDE648C", 129, 1447950184, "857768", 1447950184, "857768", null, "29", "2002", "New Hampshire", "1557", "122.1", "47", "50", "120", "9.4", "46", "48", "8", "0.6", "35", "23" ]
+, [ 130, "D5250855-1C92-41BB-B7C8-3D13CD59187C", 130, 1447950184, "857768", 1447950184, "857768", null, "30", "2002", "New Jersey", "14164", "164.9", "22", "45", "7894", "91.9", "18", "27", "169", "2.0", "11", "13" ]
+, [ 131, "05C7D460-DDF9-437A-AF6E-E88863FA8B90", 131, 1447950184, "857768", 1447950184, "857768", null, "31", "2002", "New Mexico", "7417", "399.8", "30", "4", "1462", "78.8", "36", "31", "39", "2.1", "27", "12" ]
+, [ 132, "C3B05576-1CE1-427A-AA8C-FCA21C83C7AD", 132, 1447950184, "857768", 1447950184, "857768", null, "32", "2002", "New York", "51123", "266.9", "3", "30", "21841", "114.0", "5", "21", "478", "2.5", "6", "10" ]
+, [ 133, "63D24D08-9D69-4B7C-B745-A94120E864CF", 133, 1447950184, "857768", 1447950184, "857768", null, "33", "2002", "North Carolina", "24726", "297.2", "10", "19", "15531", "186.7", "8", "9", "279", "3.4", "8", "6" ]
+, [ 134, "025CCF6F-F495-4436-B465-083279500456", 134, 1447950184, "857768", 1447950184, "857768", null, "34", "2002", "North Dakota", "1256", "198.1", "48", "41", "72", "11.4", "49", "46", "0", "0.0", "39", null ]
+, [ 135, "7D58D8FC-AA99-4FC5-9BC0-FE73FC33AFE8", 135, 1447950184, "857768", 1447950184, "857768", null, "35", "2002", "Ohio", "38032", "333.0", "6", "10", "22008", "192.7", "4", "7", "159", "1.4", "13", "16" ]
+, [ 136, "C9CC2D18-8A90-4CD2-ADFC-4859A025012F", 136, 1447950184, "857768", 1447950184, "857768", null, "36", "2002", "Oklahoma", "10804", "309.2", "26", "18", "4661", "133.4", "22", "16", "72", "2.1", "20", "12" ]
+, [ 137, "C8C42C20-6C50-45B9-8756-1D2458DD139F", 137, 1447950184, "857768", 1447950184, "857768", null, "37", "2002", "Oregon", "7009", "199.0", "32", "40", "909", "25.8", "38", "41", "28", "0.8", "30", "21" ]
+, [ 138, "01781631-9839-49B9-8ED2-0B25B781357F", 138, 1447950184, "857768", 1447950184, "857768", null, "38", "2002", "Pennsylvania", "31791", "257.7", "9", "32", "13294", "107.8", "10", "22", "105", "0.9", "17", "20" ]
+, [ 139, "167B0722-857A-47BF-BA31-389713565502", 139, 1447950184, "857768", 1447950184, "857768", null, "39", "2002", "Rhode Island", "2832", "264.7", "40", "31", "900", "84.1", "39", "30", "13", "1.2", "33", "18" ]
+, [ 140, "E8FC2640-9713-4F36-B03E-BD13527BB6E3", 140, 1447950184, "857768", 1447950184, "857768", null, "40", "2002", "South Carolina", "14314", "348.5", "21", "8", "9152", "222.8", "16", "4", "134", "3.3", "16", "7" ]
+, [ 141, "AFD52C39-8058-4C99-83FC-CE0BE339E8C2", 141, 1447950184, "857768", 1447950184, "857768", null, "41", "2002", "South Dakota", "2215", "291.0", "45", "20", "263", "34.6", "43", "40", "0", "0.0", "39", null ]
+, [ 142, "CA1E1217-5859-4D06-B9EE-E8DEE382CEE3", 142, 1447950184, "857768", 1447950184, "857768", null, "42", "2002", "Tennessee", "16042", "276.7", "17", "24", "9348", "161.2", "15", "12", "168", "2.9", "12", "8" ]
+, [ 143, "5B2C91EE-6441-48B2-A21D-2FEFF8B181F0", 143, 1447950184, "857768", 1447950184, "857768", null, "43", "2002", "Texas", "69521", "319.2", "2", "13", "26988", "123.9", "1", "18", "589", "2.7", "3", "9" ]
+, [ 144, "05D5A0B3-7412-40E5-962A-FC0755845840", 144, 1447950184, "857768", 1447950184, "857768", null, "44", "2002", "Utah", "3540", "152.8", "39", "47", "374", "16.1", "42", "42", "7", "0.3", "36", "24" ]
+, [ 145, "3E21A581-F62C-4FE3-B3BF-7F64B8ADAB95", 145, 1447950184, "857768", 1447950184, "857768", null, "45", "2002", "Vermont", "954", "154.7", "49", "46", "98", "15.9", "47", "43", "2", "0.3", "38", "24" ]
+, [ 146, "2F09AD69-6A12-4359-8A40-1369FBB982A6", 146, 1447950184, "857768", 1447950184, "857768", null, "46", "2002", "Virginia", "18518", "253.9", "11", "33", "10462", "143.4", "12", "15", "71", "1.0", "21", "19" ]
+, [ 147, "049FF061-5D88-4E05-AD34-5EB04E4452D2", 147, 1447950184, "857768", 1447950184, "857768", null, "47", "2002", "Washington", "14934", "246.1", "20", "36", "2925", "48.2", "30", "39", "70", "1.2", "22", "18" ]
+, [ 148, "BB79FB53-3512-40A9-9829-136ADA360F9E", 148, 1447950184, "857768", 1447950184, "857768", null, "48", "2002", "West Virginia", "2464", "136.7", "44", "49", "974", "54.1", "37", "37", "2", "0.1", "38", "26" ]
+, [ 149, "887D7A21-ED5D-487A-8FC5-B0A5AE069FCE", 149, 1447950184, "857768", 1447950184, "857768", null, "49", "2002", "Wisconsin", "17000", "312.4", "14", "15", "6341", "116.5", "21", "20", "30", "0.6", "29", "23" ]
+, [ 150, "6BDE2F68-6805-4BE7-B16E-2C0B48D7F0C6", 150, 1447950184, "857768", 1447950184, "857768", null, "50", "2002", "Wyoming", "944", "189.3", "50", "42", "65", "13.0", "50", "45", "0", "0.0", "39", null ]
+, [ 151, "7935241E-02C9-484C-B042-056BEEE6DD93", 151, 1447950184, "857768", 1447950184, "857768", null, "1", "2003", "Alabama", "14209", "315.7", "21", "17", "9303", "206.7", "12", "3", "114", "2.5", "17", "10" ]
+, [ 152, "14EBABC1-FFA1-435A-B527-6856A7E680C0", 152, 1447950184, "857768", 1447950184, "857768", null, "2", "2003", "Alaska", "3900", "601.1", "38", "1", "573", "88.3", "41", "29", "1", "0.2", "42", "27" ]
+, [ 153, "99A4E0DC-4B85-4796-B465-CD62E8A9037C", 153, 1447950184, "857768", 1447950184, "857768", null, "3", "2003", "Arizona", "12819", "229.7", "23", "37", "3580", "64.1", "24", "32", "186", "3.3", "10", "7" ]
+, [ 154, "E523EB0C-2A58-4C1A-8B4B-F5B5CFD0EAC8", 154, 1447950184, "857768", 1447950184, "857768", null, "4", "2003", "Arkansas", "7856", "288.2", "30", "24", "4251", "156.0", "23", "9", "51", "1.9", "24", "14" ]
+, [ 155, "739677BD-3C25-40EA-90EA-A1721A120D3F", 155, 1447950184, "857768", 1447950184, "857768", null, "5", "2003", "California", "117428", "330.9", "1", "13", "25963", "73.2", "1", "31", "1299", "3.7", "1", "6" ]
+, [ 156, "882FF763-9F23-4A74-8EBB-7C9046815760", 156, 1447950184, "857768", 1447950184, "857768", null, "6", "2003", "Colorado", "13039", "286.5", "22", "25", "2854", "62.7", "29", "34", "39", "0.9", "29", "21" ]
+, [ 157, "5F962A21-2170-4C27-98FA-1D2CB5738544", 157, 1447950184, "857768", 1447950184, "857768", null, "7", "2003", "Connecticut", "9393", "269.7", "28", "31", "3114", "89.4", "27", "28", "30", "0.9", "31", "21" ]
+, [ 158, "421CAE26-7011-4260-99F4-CE948D168C1D", 158, 1447950184, "857768", 1447950184, "857768", null, "8", "2003", "Delaware", "3035", "371.3", "40", "9", "1128", "138.0", "37", "13", "7", "0.9", "40", "21" ]
+, [ 159, "113C84CC-3C1E-4610-9447-2837EB563F1E", 159, 1447950184, "857768", 1447950184, "857768", null, "9", "2003", "Florida", "42382", "249.0", "6", "36", "18974", "111.5", "6", "17", "658", "3.9", "2", "4" ]
+, [ 160, "502DF3A4-5BEC-47CF-90C8-82922F58EEF3", 160, 1447950184, "857768", 1447950184, "857768", null, "10", "2003", "Georgia", "35686", "410.9", "8", "5", "17686", "203.6", "7", "5", "585", "6.7", "4", "1" ]
+, [ 161, "5FDE8821-322F-4EF4-BB02-F16C6F248FBB", 161, 1447950184, "857768", 1447950184, "857768", null, "11", "2003", "Hawaii", "5480", "435.7", "36", "3", "1263", "100.4", "35", "21", "14", "1.1", "36", "20" ]
+, [ 162, "71B3DE24-5E72-4A17-A6ED-CD22A757C1C6", 162, 1447950184, "857768", 1447950184, "857768", null, "12", "2003", "Idaho", "2366", "173.2", "45", "45", "68", "5.0", "49", "49", "15", "1.1", "35", "20" ]
+, [ 163, "C0609E50-11D0-4B6F-AE3F-40F16DCE8D07", 163, 1447950184, "857768", 1447950184, "857768", null, "13", "2003", "Illinois", "48294", "381.7", "4", "7", "21817", "172.4", "5", "8", "374", "3.0", "6", "9" ]
+, [ 164, "71532A33-DE18-4CC4-8585-4317DC639019", 164, 1447950184, "857768", 1447950184, "857768", null, "14", "2003", "Indiana", "17075", "275.6", "16", "28", "6681", "107.8", "19", "19", "50", "0.8", "25", "22" ]
+, [ 165, "AF77D869-D925-4850-8155-7197844D551C", 165, 1447950184, "857768", 1447950184, "857768", null, "15", "2003", "Iowa", "6491", "220.5", "34", "38", "1554", "52.8", "34", "36", "12", "0.4", "37", "25" ]
+, [ 166, "E4DD5FAB-7823-496D-9078-024A4519D1C2", 166, 1447950184, "857768", 1447950184, "857768", null, "16", "2003", "Kansas", "7249", "266.2", "33", "32", "2647", "97.2", "31", "23", "25", "0.9", "32", "21" ]
+, [ 167, "6FFDBB92-0224-483E-A30F-AA14F70929F6", 167, 1447950184, "857768", 1447950184, "857768", null, "17", "2003", "Kentucky", "7981", "193.8", "29", "41", "3578", "86.9", "25", "30", "33", "0.8", "30", "22" ]
+, [ 168, "F57DC537-5B26-4845-825F-B6E4092A1039", 168, 1447950184, "857768", 1447950184, "857768", null, "18", "2003", "Louisiana", "20970", "466.4", "11", "2", "11850", "263.5", "11", "1", "183", "4.1", "11", "3" ]
+, [ 169, "16388BEF-4C34-4D55-BBB6-2F159D0E7BDD", 169, 1447950184, "857768", 1447950184, "857768", null, "19", "2003", "Maine", "2030", "155.5", "46", "48", "233", "17.8", "43", "42", "8", "0.6", "39", "23" ]
+, [ 170, "16052EA9-E601-4453-8DD7-D348C742B26D", 170, 1447950184, "857768", 1447950184, "857768", null, "20", "2003", "Maryland", "16831", "305.5", "17", "21", "8032", "145.8", "17", "11", "312", "5.7", "7", "2" ]
+, [ 171, "AE54C7D8-3FD5-49C1-84B3-1FDDF8FE053C", 171, 1447950184, "857768", 1447950184, "857768", null, "21", "2003", "Massachusetts", "11301", "175.7", "25", "44", "2901", "45.1", "28", "38", "133", "2.1", "16", "12" ]
+, [ 172, "55853932-DE6C-4E72-A0C2-D47A64A0F4A5", 172, 1447950184, "857768", 1447950184, "857768", null, "22", "2003", "Michigan", "32572", "323.1", "9", "16", "13965", "138.5", "9", "12", "249", "2.5", "8", "10" ]
+, [ 173, "BA87CA1F-305B-4E83-93C8-3D25E361CC1D", 173, 1447950184, "857768", 1447950184, "857768", null, "23", "2003", "Minnesota", "10714", "211.8", "27", "40", "3202", "63.3", "26", "33", "47", "0.9", "27", "21" ]
+, [ 174, "D3F68989-ED4B-4109-BDAB-BFA93529A414", 174, 1447950184, "857768", 1447950184, "857768", null, "24", "2003", "Mississippi", "12193", "423.2", "24", "4", "6328", "219.6", "20", "2", "40", "1.4", "28", "18" ]
+, [ 175, "618CBAFE-1596-4C9E-8D6E-58EDF3774626", 175, 1447950184, "857768", 1447950184, "857768", null, "25", "2003", "Missouri", "18570", "325.5", "14", "15", "8792", "154.1", "14", "10", "61", "1.1", "23", "20" ]
+, [ 176, "C9872AF8-AA6E-4894-AF09-EDF9E486225D", 176, 1447950184, "857768", 1447950184, "857768", null, "26", "2003", "Montana", "2547", "277.6", "44", "27", "122", "13.3", "46", "46", "0", "0.0", "43", null ]
+, [ 177, "D76BCD36-1E7C-4A46-960A-57F63D8291C0", 177, 1447950184, "857768", 1447950184, "857768", null, "27", "2003", "Nebraska", "4739", "272.5", "37", "30", "1623", "93.3", "33", "25", "10", "0.6", "38", "23" ]
+, [ 178, "459D6300-2D98-45CF-AACE-3A4091E9415D", 178, 1447950184, "857768", 1447950184, "857768", null, "28", "2003", "Nevada", "5830", "260.1", "35", "35", "2221", "99.1", "32", "22", "12", "0.5", "37", "24" ]
+, [ 179, "B0BA7C9D-AF1A-4247-8723-92508DDF2E4D", 179, 1447950184, "857768", 1447950184, "857768", null, "29", "2003", "New Hampshire", "1616", "125.5", "48", "50", "125", "9.7", "45", "47", "19", "1.5", "33", "17" ]
+, [ 180, "26DE2855-17BE-46DA-B9A4-C8F20450DEA2", 180, 1447950184, "857768", 1447950184, "857768", null, "30", "2003", "New Jersey", "16169", "187.2", "19", "43", "7944", "92.0", "18", "26", "170", "2.0", "12", "13" ]
+, [ 181, "4913D0FF-24F1-43C3-8333-48E3E7206514", 181, 1447950184, "857768", 1447950184, "857768", null, "31", "2003", "New Mexico", "7480", "399.0", "32", "6", "1169", "62.4", "36", "35", "71", "3.8", "21", "5" ]
+, [ 182, "AC05897D-1DCD-4414-92A9-9497146421C1", 182, 1447950184, "857768", 1447950184, "857768", null, "32", "2003", "New York", "57222", "298.2", "3", "23", "22166", "115.5", "4", "16", "584", "3.0", "5", "9" ]
+, [ 183, "C3E150AD-51D8-4F7C-86F4-8EAAFC97A657", 183, 1447950184, "857768", 1447950184, "857768", null, "33", "2003", "North Carolina", "26187", "311.5", "10", "20", "15116", "179.8", "8", "7", "152", "1.8", "14", "15" ]
+, [ 184, "53A82291-B5D9-47DE-91EE-658BFAF3CEC2", 184, 1447950184, "857768", 1447950184, "857768", null, "34", "2003", "North Dakota", "1655", "261.1", "47", "34", "103", "16.3", "47", "44", "2", "0.3", "41", "26" ]
+, [ 185, "ECCBDE17-CA15-4A59-8AF1-48CEBAD4686B", 185, 1447950184, "857768", 1447950184, "857768", null, "35", "2003", "Ohio", "42522", "371.8", "5", "8", "22537", "197.1", "3", "6", "197", "1.7", "9", "16" ]
+, [ 186, "DA1633C7-0CDC-490E-97E9-E5FEA2F4BF3B", 186, 1447950184, "857768", 1447950184, "857768", null, "36", "2003", "Oklahoma", "11013", "313.6", "26", "18", "4552", "129.6", "22", "14", "64", "1.8", "22", "15" ]
+, [ 187, "EDAD8F67-7758-49C0-9F2E-59ECA08EC426", 187, 1447950184, "857768", 1447950184, "857768", null, "37", "2003", "Oregon", "7688", "216.0", "31", "39", "1000", "28.1", "38", "41", "48", "1.3", "26", "19" ]
+, [ 188, "68C402CB-8509-4AEB-B0D0-6BCB16B12D16", 188, 1447950184, "857768", 1447950184, "857768", null, "38", "2003", "Pennsylvania", "37291", "301.6", "7", "22", "11866", "96.0", "10", "24", "159", "1.3", "13", "19" ]
+, [ 189, "8AB94AB6-B938-485A-8BAD-897CB7B959A1", 189, 1447950184, "857768", 1447950184, "857768", null, "39", "2003", "Rhode Island", "3000", "278.8", "41", "26", "973", "90.4", "39", "27", "33", "3.1", "30", "8" ]
+, [ 190, "AB67C9FE-CB9D-4E06-8FA0-B82188AA1D26", 190, 1447950184, "857768", 1447950184, "857768", null, "40", "2003", "South Carolina", "14623", "352.6", "20", "10", "8518", "205.4", "16", "4", "94", "2.3", "18", "11" ]
+, [ 191, "1B89DB5F-ABFE-4EC6-BF17-D39C7B47C164", 191, 1447950184, "857768", 1447950184, "857768", null, "41", "2003", "South Dakota", "2608", "341.2", "42", "12", "226", "29.6", "44", "40", "2", "0.3", "41", "26" ]
+, [ 192, "25F7583E-3CC4-4FEE-976B-46EC9F39A8F9", 192, 1447950184, "857768", 1447950184, "857768", null, "42", "2003", "Tennessee", "20380", "348.9", "12", "11", "8519", "145.8", "15", "11", "135", "2.3", "15", "11" ]
+, [ 193, "63CCC55C-6DB0-447F-849C-85CE2F8B0AD3", 193, 1447950184, "857768", 1447950184, "857768", null, "43", "2003", "Texas", "69200", "312.9", "2", "19", "24595", "111.2", "2", "18", "654", "3.0", "3", "9" ]
+, [ 194, "E7C73B14-471B-4535-94B0-94F64A5FF6E7", 194, 1447950184, "857768", 1447950184, "857768", null, "44", "2003", "Utah", "3893", "165.6", "39", "47", "412", "17.5", "42", "43", "14", "0.6", "36", "23" ]
+, [ 195, "C0FC4B8B-A6D6-44FC-AA53-589BEE6731F5", 195, 1447950184, "857768", 1447950184, "857768", null, "45", "2003", "Vermont", "1060", "171.2", "49", "46", "97", "15.7", "48", "45", "1", "0.2", "42", "27" ]
+, [ 196, "BC59AE67-FED0-477E-866C-3833021E2206", 196, 1447950184, "857768", 1447950184, "857768", null, "46", "2003", "Virginia", "19439", "263.2", "13", "33", "9066", "122.7", "13", "15", "82", "1.1", "19", "20" ]
+, [ 197, "53ACB2CA-FA1F-441B-B746-286C41A2E62B", 197, 1447950184, "857768", 1447950184, "857768", null, "47", "2003", "Washington", "16797", "273.9", "18", "29", "2753", "44.9", "30", "39", "82", "1.3", "20", "19" ]
+, [ 198, "E1AC9603-0C2F-45B3-9F1C-BE71B2EB25E0", 198, 1447950184, "857768", 1447950184, "857768", null, "48", "2003", "West Virginia", "2585", "142.8", "43", "49", "847", "46.8", "40", "37", "2", "0.1", "41", "28" ]
+, [ 199, "1F3F2242-EEDA-4DC8-9FC1-CDBDC302F545", 199, 1447950184, "857768", 1447950184, "857768", null, "49", "2003", "Wisconsin", "17942", "327.9", "15", "14", "5663", "103.5", "21", "20", "16", "0.3", "34", "26" ]
+, [ 200, "C32F9554-F85C-4454-92FE-8859A8DC1AD6", 200, 1447950184, "857768", 1447950184, "857768", null, "50", "2003", "Wyoming", "960", "191.5", "50", "42", "46", "9.2", "50", "48", "0", "0.0", "43", null ]
+, [ 201, "EA17CF98-65B4-4D86-A5A3-7FECCFEA42D7", 201, 1447950184, "857768", 1447950184, "857768", null, "1", "2004", "Alabama", "13314", "295.8", "24", "28", "8206", "182.3", "17", "4", "165", "3.7", "11", "9" ]
+, [ 202, "16F58E30-D926-4971-A4DD-2FED20D78429", 202, 1447950184, "857768", 1447950184, "857768", null, "2", "2004", "Alaska", "3954", "609.4", "38", "2", "567", "87.4", "42", "26", "8", "1.2", "33", "29" ]
+, [ 203, "E78C16BB-5FF3-4AC7-9720-5E9005D68318", 203, 1447950184, "857768", 1447950184, "857768", null, "3", "2004", "Arizona", "16786", "300.8", "22", "25", "4065", "72.8", "24", "31", "157", "2.8", "12", "11" ]
+, [ 204, "5A6621A2-E51E-49F0-81B4-D8C8408185AD", 204, 1447950184, "857768", 1447950184, "857768", null, "4", "2004", "Arkansas", "7864", "288.5", "31", "31", "4137", "151.8", "23", "11", "47", "1.7", "23", "24" ]
+, [ 205, "94DE3AEC-CE06-4DE8-8C22-77A819DDE629", 205, 1447950184, "857768", 1447950184, "857768", null, "5", "2004", "California", "122197", "344.4", "1", "16", "30155", "85.0", "1", "27", "1356", "3.8", "1", "6" ]
+, [ 206, "51E2FB17-FE5D-405C-8AF1-2690EB93A50E", 206, 1447950184, "857768", 1447950184, "857768", null, "6", "2004", "Colorado", "14151", "311.0", "23", "21", "3054", "67.1", "27", "33", "63", "1.4", "20", "27" ]
+, [ 207, "C3CC79A4-D0FB-4CFA-8F47-E5ED8A86303A", 207, 1447950184, "857768", 1447950184, "857768", null, "7", "2004", "Connecticut", "9552", "274.2", "28", "36", "2862", "82.2", "29", "28", "45", "1.3", "24", "28" ]
+, [ 208, "ED53C241-1BAF-40AF-8506-F33647DC6775", 208, 1447950184, "857768", 1447950184, "857768", null, "8", "2004", "Delaware", "2954", "361.3", "41", "13", "894", "109.4", "38", "19", "9", "1.1", "32", "31" ]
+, [ 209, "8EAA9665-CCEB-4591-B08C-D06A17D160FA", 209, 1447950184, "857768", 1447950184, "857768", null, "9", "2004", "Florida", "42554", "250.0", "5", "37", "18580", "109.2", "6", "20", "728", "4.3", "3", "5" ]
+, [ 210, "1CCB5C52-F053-42EF-9A31-C69C1BA64091", 210, 1447950184, "857768", 1447950184, "857768", null, "10", "2004", "Georgia", "34280", "394.7", "9", "8", "15783", "181.7", "8", "5", "549", "6.3", "5", "3" ]
+, [ 211, "A15B06F6-819E-4CCC-ABB8-272C20D06113", 211, 1447950184, "857768", 1447950184, "857768", null, "11", "2004", "Hawaii", "5307", "422.0", "36", "6", "1193", "94.9", "36", "22", "8", "0.6", "33", "37" ]
+, [ 212, "F11FE138-554D-4A54-8FD5-25994F1F8629", 212, 1447950184, "857768", 1447950184, "857768", null, "12", "2004", "Idaho", "2784", "203.8", "42", "43", "103", "7.5", "47", "50", "24", "1.8", "30", "22" ]
+, [ 213, "E17FC351-96E9-46DF-BF6A-0079015FF077", 213, 1447950184, "857768", 1447950184, "857768", null, "13", "2004", "Illinois", "47185", "372.9", "4", "11", "20597", "162.8", "3", "9", "386", "3.1", "6", "10" ]
+, [ 214, "3C06BEA6-98C2-452E-8739-55A29FD6C23D", 214, 1447950184, "857768", 1447950184, "857768", null, "14", "2004", "Indiana", "18440", "297.6", "18", "27", "6851", "110.6", "19", "17", "60", "1.0", "21", "32" ]
+, [ 215, "BD6B51C4-244E-47F5-BE9B-5248ED6EBF38", 215, 1447950184, "857768", 1447950184, "857768", null, "15", "2004", "Iowa", "6956", "236.3", "33", "39", "1249", "42.4", "35", "40", "5", "0.2", "35", "45" ]
+, [ 216, "EF63ED6D-F4FE-4660-8919-757F32226EF2", 216, 1447950184, "857768", 1447950184, "857768", null, "16", "2004", "Kansas", "7493", "275.1", "32", "35", "2542", "93.3", "32", "23", "24", "0.9", "30", "34" ]
+, [ 217, "1ED88C66-D5E7-45EF-9774-D519B8CF842B", 217, 1447950184, "857768", 1447950184, "857768", null, "17", "2004", "Kentucky", "6470", "157.1", "35", "48", "2758", "67.0", "31", "34", "47", "1.1", "23", "30" ]
+, [ 218, "88D2DA90-CF38-49FA-A5E2-FC2559801AAA", 218, 1447950184, "857768", 1447950184, "857768", null, "18", "2004", "Louisiana", "21837", "485.7", "12", "3", "10538", "234.4", "11", "2", "332", "7.4", "8", "1" ]
+, [ 219, "861439DD-0D6D-4E5E-86FB-F67325E3B27B", 219, 1447950184, "857768", 1447950184, "857768", null, "19", "2004", "Maine", "2113", "161.8", "46", "47", "210", "16.1", "44", "45", "2", "0.2", "38", "48" ]
+, [ 220, "A2D281D2-1638-4D93-9CE7-900312DD4699", 220, 1447950184, "857768", 1447950184, "857768", null, "20", "2004", "Maryland", "19952", "362.2", "15", "12", "8297", "150.6", "16", "12", "380", "6.9", "7", "2" ]
+, [ 221, "A338CAA1-9212-4FBB-B8B7-63CE9B61BDD2", 221, 1447950184, "857768", 1447950184, "857768", null, "21", "2004", "Massachusetts", "13242", "205.8", "25", "42", "3057", "47.5", "26", "38", "114", "1.8", "17", "21" ]
+, [ 222, "F511FE13-AC98-4F59-BF50-2BFA8862898C", 222, 1447950184, "857768", 1447950184, "857768", null, "22", "2004", "Michigan", "41246", "409.2", "6", "7", "17376", "172.4", "7", "8", "192", "1.9", "10", "19" ]
+, [ 223, "A0CA8800-5A56-4523-9A16-8782598BA281", 223, 1447950184, "857768", 1447950184, "857768", null, "23", "2004", "Minnesota", "11602", "229.3", "26", "40", "2957", "58.4", "28", "36", "27", "0.5", "27", "40" ]
+, [ 224, "264E14C4-3493-48D3-AA85-7D577287A8CA", 224, 1447950184, "857768", 1447950184, "857768", null, "24", "2004", "Mississippi", "18863", "654.7", "17", "1", "7163", "248.6", "18", "1", "59", "2.0", "22", "18" ]
+, [ 225, "4E52DF52-73F9-4523-A4FA-38AAB52E1BE1", 225, 1447950184, "857768", 1447950184, "857768", null, "25", "2004", "Missouri", "21319", "373.7", "14", "10", "9218", "161.6", "12", "10", "94", "1.6", "18", "25" ]
+, [ 226, "BCA569FB-9833-48B5-A88A-EEAAD6DEA138", 226, 1447950184, "857768", 1447950184, "857768", null, "26", "2004", "Montana", "2608", "284.2", "44", "34", "88", "9.6", "48", "49", "4", "0.4", "36", "42" ]
+, [ 227, "DD2E7EC8-7327-4E43-A6A6-652DB1635385", 227, 1447950184, "857768", 1447950184, "857768", null, "27", "2004", "Nebraska", "5238", "301.2", "37", "24", "1147", "65.9", "37", "35", "7", "0.4", "34", "43" ]
+, [ 228, "D54DBEB9-05C9-4465-8DEE-1E4A07ECA7D9", 228, 1447950184, "857768", 1447950184, "857768", null, "28", "2004", "Nevada", "6690", "298.5", "34", "26", "3078", "137.3", "25", "14", "40", "1.8", "25", "20" ]
+, [ 229, "6CF1F2F3-3224-4C98-AEF5-ABE3AE099A9B", 229, 1447950184, "857768", 1447950184, "857768", null, "29", "2004", "New Hampshire", "1736", "134.8", "48", "50", "133", "10.3", "45", "48", "5", "0.4", "35", "44" ]
+, [ 230, "33A718B7-8FC5-4461-BC9B-9165287096D4", 230, 1447950184, "857768", 1447950184, "857768", null, "30", "2004", "New Jersey", "17448", "202.0", "21", "44", "6696", "77.5", "20", "29", "150", "1.7", "13", "23" ]
+, [ 231, "E39E2B71-97F8-48FF-8428-672929DB450A", 231, 1447950184, "857768", 1447950184, "857768", null, "31", "2004", "New Mexico", "9035", "482.0", "29", "4", "1306", "69.7", "33", "32", "82", "4.4", "19", "4" ]
+, [ 232, "EF031700-B3E6-45A4-AE85-B7EAC1132108", 232, 1447950184, "857768", 1447950184, "857768", null, "32", "2004", "New York", "59097", "308.0", "3", "22", "18737", "97.6", "5", "21", "727", "3.8", "4", "7" ]
+, [ 233, "7A18182A-A9CB-44D7-B093-2FF40820557A", 233, 1447950184, "857768", 1447950184, "857768", null, "33", "2004", "North Carolina", "28967", "344.5", "10", "15", "15194", "180.7", "9", "6", "192", "2.3", "10", "15" ]
+, [ 234, "A6B985A3-D8AA-49DA-A31E-BA483C4C0708", 234, 1447950184, "857768", 1447950184, "857768", null, "34", "2004", "North Dakota", "1810", "285.6", "47", "33", "110", "17.4", "46", "44", "0", "0.0", "40", null ]
+, [ 235, "1FF52F74-23D5-4AC7-8708-2B7D279E0B2B", 235, 1447950184, "857768", 1447950184, "857768", null, "35", "2004", "Ohio", "39379", "344.3", "7", "17", "20467", "179.0", "4", "7", "237", "2.1", "9", "17" ]
+, [ 236, "9D7A58E4-8220-4AAD-AF33-1573F6FEBD3A", 236, 1447950184, "857768", 1447950184, "857768", null, "36", "2004", "Oklahoma", "10366", "295.2", "27", "29", "4453", "126.8", "22", "15", "25", "0.7", "29", "36" ]
+, [ 237, "CC0F53A9-D2A6-4980-8E5C-2866CCF77BA5", 237, 1447950184, "857768", 1447950184, "857768", null, "37", "2004", "Oregon", "8690", "244.1", "30", "38", "1302", "36.6", "34", "42", "29", "0.8", "26", "35" ]
+, [ 238, "9DD1E36A-0A4B-496E-9A90-618E3DE84E01", 238, 1447950184, "857768", 1447950184, "857768", null, "38", "2004", "Pennsylvania", "38025", "307.5", "8", "23", "11236", "90.9", "10", "25", "118", "1.0", "15", "33" ]
+, [ 239, "1F54D38A-AABB-4230-81AF-404F39507C0B", 239, 1447950184, "857768", 1447950184, "857768", null, "39", "2004", "Rhode Island", "3442", "319.8", "40", "19", "816", "75.8", "40", "30", "26", "2.4", "28", "14" ]
+, [ 240, "69C7ADDE-E0CB-455C-9678-BE6771E9C0AF", 240, 1447950184, "857768", 1447950184, "857768", null, "40", "2004", "South Carolina", "18423", "444.2", "19", "5", "9171", "221.1", "13", "3", "116", "2.8", "16", "12" ]
+, [ 241, "B550FCCD-7C78-4268-BED6-80D8FE88952B", 241, 1447950184, "857768", 1447950184, "857768", null, "41", "2004", "South Dakota", "2532", "331.3", "45", "18", "304", "39.8", "43", "41", "0", "0.0", "40", null ]
+, [ 242, "D0482BCD-C49A-455D-9074-0629573174A3", 242, 1447950184, "857768", 1447950184, "857768", null, "42", "2004", "Tennessee", "22515", "385.4", "11", "9", "8475", "145.1", "15", "13", "130", "2.2", "14", "16" ]
+, [ 243, "0966EC9E-C4AA-4AF3-8364-E8E9F70F7C3D", 243, 1447950184, "857768", 1447950184, "857768", null, "43", "2004", "Texas", "70232", "317.5", "2", "20", "24371", "110.2", "2", "18", "827", "3.7", "2", "8" ]
+, [ 244, "C6E9F524-D975-43A4-BD6A-E25E3EBD242F", 244, 1447950184, "857768", 1447950184, "857768", null, "44", "2004", "Utah", "3857", "164.0", "39", "46", "603", "25.6", "41", "43", "13", "0.6", "31", "39" ]
+, [ 245, "995C3891-CCD6-44B4-9B44-0356C4B85315", 245, 1447950184, "857768", 1447950184, "857768", null, "45", "2004", "Vermont", "1137", "183.6", "49", "45", "86", "13.9", "49", "46", "1", "0.2", "39", "47" ]
+, [ 246, "D2F3C7C9-9D90-4771-B2E8-A235D52DEFE1", 246, 1447950184, "857768", 1447950184, "857768", null, "46", "2004", "Virginia", "21635", "292.9", "13", "30", "8565", "116.0", "14", "16", "116", "1.6", "16", "26" ]
+, [ 247, "9A5C8518-6CFB-4D49-A6AC-583999A5EC06", 247, 1447950184, "857768", 1447950184, "857768", null, "47", "2004", "Washington", "17635", "287.6", "20", "32", "2810", "45.8", "30", "39", "150", "2.4", "13", "13" ]
+, [ 248, "8DB2B90D-49F1-4EC7-A40B-5FCD590D945D", 248, 1447950184, "857768", 1447950184, "857768", null, "48", "2004", "West Virginia", "2758", "152.3", "43", "49", "892", "49.3", "39", "37", "3", "0.2", "37", "46" ]
+, [ 249, "9E1771E6-AC6C-41B0-8D71-2ABF23A4204C", 249, 1447950184, "857768", 1447950184, "857768", null, "49", "2004", "Wisconsin", "19217", "351.2", "16", "14", "5053", "92.3", "21", "24", "29", "0.5", "26", "41" ]
+, [ 250, "F70E8E28-3868-4D90-A665-997F1972F331", 250, 1447950184, "857768", 1447950184, "857768", null, "50", "2004", "Wyoming", "1082", "215.9", "50", "41", "59", "11.8", "50", "47", "3", "0.6", "37", "38" ]
+, [ 251, "057CA494-63DF-4C55-9C9B-C90881A0564E", 251, 1447950184, "857768", 1447950184, "857768", null, "1", "2005", "Alabama", "17109", "377.7", "23", "15", "9406", "207.6", "13", "3", "169", "3.7", "14", "9" ]
+, [ 252, "91D498D1-2A07-4367-A553-15CD978C75FE", 252, 1447950184, "857768", 1447950184, "857768", null, "2", "2005", "Alaska", "4355", "664.4", "39", "2", "600", "91.5", "41", "25", "9", "1.4", "38", "28" ]
+, [ 253, "C53D1DF5-6E22-4717-A226-F1CF05D6AC7F", 253, 1447950184, "857768", 1447950184, "857768", null, "3", "2005", "Arizona", "21264", "370.2", "15", "17", "4951", "86.2", "23", "27", "175", "3.0", "13", "13" ]
+, [ 254, "96F2AD02-F306-4D92-89D7-3E72BC8085C4", 254, 1447950184, "857768", 1447950184, "857768", null, "4", "2005", "Arkansas", "8507", "309.1", "30", "28", "4476", "162.6", "24", "10", "52", "1.9", "27", "21" ]
+, [ 255, "62854E78-43DA-41B4-B719-EE3C5A65122B", 255, 1447950184, "857768", 1447950184, "857768", null, "5", "2005", "California", "130716", "364.2", "1", "19", "34338", "95.7", "1", "22", "1585", "4.4", "1", "5" ]
+, [ 256, "B390391A-6A0E-48BB-A2CC-057B0EFECCEF", 256, 1447950184, "857768", 1447950184, "857768", null, "6", "2005", "Colorado", "15432", "335.4", "24", "21", "3224", "70.1", "27", "32", "46", "1.0", "29", "36" ]
+, [ 257, "BBAAB60F-64D2-4327-B77F-1CBBC7B4F8B4", 257, 1447950184, "857768", 1447950184, "857768", null, "7", "2005", "Connecticut", "11039", "315.1", "28", "26", "2750", "78.5", "30", "30", "58", "1.7", "25", "24" ]
+, [ 258, "58BBF7BD-AD27-457D-94C4-9FD40EB7051A", 258, 1447950184, "857768", 1447950184, "857768", null, "8", "2005", "Delaware", "3392", "408.5", "40", "6", "913", "110.0", "38", "20", "11", "1.3", "36", "30" ]
+, [ 259, "2680644F-3FDA-4450-9CA3-1210009F58A9", 259, 1447950184, "857768", 1447950184, "857768", null, "9", "2005", "Florida", "43372", "249.3", "6", "39", "20225", "116.3", "4", "17", "724", "4.2", "3", "6" ]
+, [ 260, "2360AA22-AE52-4DF6-A041-0E1C3DF5C94A", 260, 1447950184, "857768", 1447950184, "857768", null, "10", "2005", "Georgia", "33562", "380.1", "9", "14", "15860", "179.6", "8", "6", "645", "7.3", "5", "1" ]
+, [ 261, "69EF8C7F-191F-44AF-9962-3A3C519C6E51", 261, 1447950184, "857768", 1447950184, "857768", null, "11", "2005", "Hawaii", "5489", "434.7", "36", "5", "1024", "81.1", "37", "29", "11", "0.9", "36", "38" ]
+, [ 262, "CB06B5D7-7D8B-4414-99A4-AE7E37E86B0D", 262, 1447950184, "857768", 1447950184, "857768", null, "12", "2005", "Idaho", "2799", "200.9", "43", "45", "119", "8.5", "48", "50", "20", "1.4", "33", "27" ]
+, [ 263, "39433291-0552-4F33-A7ED-29ADE6CFF24E", 263, 1447950184, "857768", 1447950184, "857768", null, "13", "2005", "Illinois", "50559", "397.7", "4", "7", "20019", "157.5", "5", "11", "525", "4.1", "6", "7" ]
+, [ 264, "AE3D72E9-CF62-43A6-A143-C7DE54EE89FE", 264, 1447950184, "857768", 1447950184, "857768", null, "14", "2005", "Indiana", "20063", "321.6", "17", "24", "8094", "129.8", "17", "14", "62", "1.0", "24", "37" ]
+, [ 265, "8DEE6291-64F9-4219-82F5-54FC8CDF55B6", 265, 1447950184, "857768", 1447950184, "857768", null, "15", "2005", "Iowa", "7390", "250.1", "34", "38", "1606", "54.4", "33", "37", "9", "0.3", "38", "43" ]
+, [ 266, "8F7979BF-4ED5-48DF-8916-2185653430EE", 266, 1447950184, "857768", 1447950184, "857768", null, "16", "2005", "Kansas", "7419", "271.2", "33", "34", "2605", "95.2", "31", "23", "19", "0.7", "34", "41" ]
+, [ 267, "51804DE9-6616-4281-AEA6-061864BB9AE4", 267, 1447950184, "857768", 1447950184, "857768", null, "17", "2005", "Kentucky", "8351", "201.4", "32", "44", "2935", "70.8", "28", "31", "52", "1.3", "27", "31" ]
+, [ 268, "458662A3-93D3-4E90-B7CA-5B370873ABE6", 268, 1447950184, "857768", 1447950184, "857768", null, "18", "2005", "Louisiana", "17227", "381.5", "22", "12", "9572", "212.0", "11", "2", "278", "6.2", "8", "2" ]
+, [ 269, "3130E2B5-B010-4362-8F5B-7EF8078D6C67", 269, 1447950184, "857768", 1447950184, "857768", null, "19", "2005", "Maine", "2254", "171.1", "46", "47", "142", "10.8", "46", "48", "1", "0.1", "43", "49" ]
+, [ 270, "4F731EDE-7001-4322-B614-8E88DDD39EAA", 270, 1447950184, "857768", 1447950184, "857768", null, "20", "2005", "Maryland", "18291", "329.1", "21", "23", "7035", "126.6", "19", "15", "313", "5.6", "7", "3" ]
+, [ 271, "A4714B79-967F-4C45-A66C-47D14B104EB6", 271, 1447950184, "857768", 1447950184, "857768", null, "21", "2005", "Massachusetts", "14411", "224.6", "25", "42", "2537", "39.5", "32", "42", "125", "1.9", "19", "19" ]
+, [ 272, "996CF15C-5002-42AE-BAA9-193BEDDE685E", 272, 1447950184, "857768", 1447950184, "857768", null, "22", "2005", "Michigan", "38730", "383.0", "7", "10", "17684", "174.9", "7", "8", "105", "1.0", "21", "35" ]
+, [ 273, "B7347043-268F-4998-A015-AA99794CE11B", 273, 1447950184, "857768", 1447950184, "857768", null, "23", "2005", "Minnesota", "12189", "239.0", "27", "40", "3482", "68.3", "26", "33", "70", "1.4", "23", "29" ]
+, [ 274, "3FB2BFB7-1A8B-4989-9197-8835FF0EBC08", 274, 1447950184, "857768", 1447950184, "857768", null, "24", "2005", "Mississippi", "21268", "732.6", "14", "1", "7171", "247.0", "18", "1", "49", "1.7", "28", "23" ]
+, [ 275, "45FFBE6D-D680-459B-B964-313972E7DD7E", 275, 1447950184, "857768", 1447950184, "857768", null, "25", "2005", "Missouri", "22371", "388.7", "13", "9", "9455", "164.3", "12", "9", "147", "2.6", "16", "15" ]
+, [ 276, "40754454-33D7-4B61-AA59-2EBC34F2748C", 276, 1447950184, "857768", 1447950184, "857768", null, "26", "2005", "Montana", "2400", "258.9", "45", "36", "158", "17.0", "45", "46", "7", "0.8", "39", "39" ]
+, [ 277, "5D5EEAA3-63DE-405E-9D93-BA00F92BDCC8", 277, 1447950184, "857768", 1447950184, "857768", null, "27", "2005", "Nebraska", "5098", "291.8", "37", "33", "1158", "66.3", "36", "34", "4", "0.2", "40", "45" ]
+, [ 278, "4E6C35F9-AC04-40C2-B480-E242EAAC9EA0", 278, 1447950184, "857768", 1447950184, "857768", null, "28", "2005", "Nevada", "7321", "313.6", "35", "27", "2880", "123.4", "29", "16", "109", "4.7", "20", "4" ]
+, [ 279, "FA3260C3-50E1-4A79-840D-7ED1F21EBE94", 279, 1447950184, "857768", 1447950184, "857768", null, "29", "2005", "New Hampshire", "1842", "141.7", "47", "50", "177", "13.6", "44", "47", "16", "1.2", "35", "33" ]
+, [ 280, "5158A30C-431D-4378-A797-B38334052915", 280, 1447950184, "857768", 1447950184, "857768", null, "30", "2005", "New Jersey", "19152", "220.2", "18", "43", "5722", "65.8", "21", "35", "133", "1.5", "18", "26" ]
+, [ 281, "32256AAA-80D5-41F1-A074-0BA8E78B4A68", 281, 1447950184, "857768", 1447950184, "857768", null, "31", "2005", "New Mexico", "8456", "444.3", "31", "3", "1552", "81.5", "35", "28", "56", "2.9", "26", "14" ]
+, [ 282, "84391F9C-4118-4EBB-B891-448A7EA72889", 282, 1447950184, "857768", 1447950184, "857768", null, "32", "2005", "New York", "63966", "332.7", "3", "22", "17717", "92.1", "6", "24", "705", "3.7", "4", "11" ]
+, [ 283, "FD360E10-36C0-4E06-BE22-5A4223A2379A", 283, 1447950184, "857768", 1447950184, "857768", null, "33", "2005", "North Carolina", "31183", "365.1", "10", "18", "15072", "176.5", "9", "7", "274", "3.2", "9", "12" ]
+, [ 284, "766F7CB7-874F-4582-AFC9-E5F912312388", 284, 1447950184, "857768", 1447950184, "857768", null, "34", "2005", "North Dakota", "1667", "262.8", "48", "35", "128", "20.2", "47", "44", "1", "0.2", "43", "48" ]
+, [ 285, "D975FB2B-E624-412D-9EB6-364874DD66F3", 285, 1447950184, "857768", 1447950184, "857768", null, "35", "2005", "Ohio", "43806", "382.3", "5", "11", "20985", "183.1", "3", "5", "211", "1.8", "11", "22" ]
+, [ 286, "798EFFDC-EDDE-4FF7-A635-2BFBA5605B1E", 286, 1447950184, "857768", 1447950184, "857768", null, "36", "2005", "Oklahoma", "13407", "380.5", "26", "13", "5228", "148.4", "22", "12", "44", "1.2", "30", "32" ]
+, [ 287, "730BDA4B-DBE4-49AB-9F6F-A715974B7A3C", 287, 1447950184, "857768", 1447950184, "857768", null, "37", "2005", "Oregon", "9018", "250.9", "29", "37", "1562", "43.5", "34", "39", "41", "1.1", "31", "34" ]
+, [ 288, "2B5EB61E-0E3D-471A-A2DF-CA68E5B49FC0", 288, 1447950184, "857768", 1447950184, "857768", null, "38", "2005", "Pennsylvania", "37261", "300.3", "8", "31", "11222", "90.5", "10", "26", "199", "1.6", "12", "25" ]
+, [ 289, "31AEFF54-2EB1-4080-8571-D52364730428", 289, 1447950184, "857768", 1447950184, "857768", null, "39", "2005", "Rhode Island", "3269", "302.5", "41", "30", "438", "40.5", "42", "41", "24", "2.2", "32", "17" ]
+, [ 290, "6B06BF17-3206-48BA-9375-DD5B927E6CCA", 290, 1447950184, "857768", 1447950184, "857768", null, "40", "2005", "South Carolina", "18296", "435.8", "20", "4", "8561", "203.9", "15", "4", "84", "2.0", "22", "18" ]
+, [ 291, "C463366A-26C5-45BF-A707-C14B7941E0FD", 291, 1447950184, "857768", 1447950184, "857768", null, "41", "2005", "South Dakota", "2701", "350.4", "44", "20", "351", "45.5", "43", "38", "2", "0.3", "42", "44" ]
+, [ 292, "E9D43527-AD55-4975-A35B-248E26F82265", 292, 1447950184, "857768", 1447950184, "857768", null, "42", "2005", "Tennessee", "23084", "391.2", "11", "8", "8605", "145.8", "14", "13", "217", "3.7", "10", "10" ]
+, [ 293, "29C1DA29-1419-4933-8A11-2ED929586D65", 293, 1447950184, "857768", 1447950184, "857768", null, "43", "2005", "Texas", "71860", "319.5", "2", "25", "26110", "116.1", "2", "18", "873", "3.9", "2", "8" ]
+, [ 294, "7109EC04-2F5D-415E-97C1-4F374233E29D", 294, 1447950184, "857768", 1447950184, "857768", null, "44", "2005", "Utah", "4602", "192.6", "38", "46", "727", "30.4", "40", "43", "10", "0.4", "37", "42" ]
+, [ 295, "6816E2BB-786C-4E8E-9B82-8E0659B6473B", 295, 1447950184, "857768", 1447950184, "857768", null, "45", "2005", "Vermont", "957", "154.0", "50", "49", "60", "9.7", "50", "49", "1", "0.2", "43", "47" ]
+, [ 296, "FEF50FB8-DDD0-4251-A106-76A2785B00A8", 296, 1447950184, "857768", 1447950184, "857768", null, "46", "2005", "Virginia", "22668", "303.9", "12", "29", "8346", "111.9", "16", "19", "143", "1.9", "17", "20" ]
+, [ 297, "9EC10AF9-F563-4316-BC64-5DBF670DA568", 297, 1447950184, "857768", 1447950184, "857768", null, "47", "2005", "Washington", "18616", "300.1", "19", "32", "3739", "60.3", "25", "36", "152", "2.5", "15", "16" ]
+, [ 298, "7205DDC4-7A7C-4E7A-B0D9-90B89A76C8A7", 298, 1447950184, "857768", 1447950184, "857768", null, "48", "2005", "West Virginia", "2944", "162.2", "42", "48", "770", "42.4", "39", "40", "3", "0.2", "41", "46" ]
+, [ 299, "766AEE0F-964F-45E9-9E4C-53C6E542FE22", 299, 1447950184, "857768", 1447950184, "857768", null, "49", "2005", "Wisconsin", "20461", "371.4", "16", "16", "5869", "106.5", "20", "21", "41", "0.7", "31", "40" ]
+, [ 300, "8B2046B0-E38A-44D3-8768-A191BE2013A6", 300, 1447950184, "857768", 1447950184, "857768", null, "50", "2005", "Wyoming", "1173", "231.6", "49", "41", "87", "17.2", "49", "45", "0", "0.0", "44", null ]
+, [ 301, "C9DEB19A-7A1F-4DC1-BCE1-7F339A7BC2F0", 301, 1447950184, "857768", 1447950184, "857768", null, "1", "2006", "Alabama", "22915", "498.3", "15", "5", "10665", "231.9", "12", "4", "319", "6.9", "8", "2" ]
+, [ 302, "A1828934-84DD-4E3E-B153-175F4BC6C298", 302, 1447950184, "857768", 1447950184, "857768", null, "2", "2006", "Alaska", "4525", "675.3", "39", "1", "630", "94.0", "41", "21", "11", "1.6", "41", "25" ]
+, [ 303, "AE1ACE9B-3835-44C6-86EC-A45AA8C83A95", 303, 1447950184, "857768", 1447950184, "857768", null, "3", "2006", "Arizona", "24090", "390.7", "12", "13", "5949", "96.5", "21", "20", "203", "3.3", "13", "13" ]
+, [ 304, "0F7FB658-0253-4E5B-A17E-6C81D8C425D3", 304, 1447950184, "857768", 1447950184, "857768", null, "4", "2006", "Arkansas", "8259", "293.8", "34", "32", "4306", "153.2", "24", "13", "77", "2.7", "25", "17" ]
+, [ 305, "2858C458-2BC3-4BB5-83EB-3A41FBC40740", 305, 1447950184, "857768", 1447950184, "857768", null, "5", "2006", "California", "135827", "372.6", "1", "16", "33740", "92.5", "1", "22", "1835", "5.0", "1", "6" ]
+, [ 306, "34C20DD0-2405-42AE-9813-7D1A747419C1", 306, 1447950184, "857768", 1447950184, "857768", null, "6", "2006", "Colorado", "16313", "343.2", "24", "22", "3695", "77.7", "26", "30", "69", "1.5", "28", "26" ]
+, [ 307, "C86B4C9C-9B15-465B-AB45-CA76EC1A5F60", 307, 1447950184, "857768", 1447950184, "857768", null, "7", "2006", "Connecticut", "10946", "312.3", "28", "29", "2610", "74.5", "30", "31", "64", "1.8", "31", "23" ]
+, [ 308, "EC416D16-D42A-4E76-98A7-231038C5DA68", 308, 1447950184, "857768", 1447950184, "857768", null, "8", "2006", "Delaware", "3615", "423.6", "40", "7", "1485", "174.0", "35", "8", "20", "2.3", "36", "19" ]
+, [ 309, "09D1118D-4872-49B6-B502-32FA578A233E", 309, 1447950184, "857768", 1447950184, "857768", null, "9", "2006", "Florida", "48955", "270.6", "5", "39", "23976", "132.5", "3", "15", "719", "4.0", "4", "9" ]
+, [ 310, "06913EE8-EBBF-41AD-8CA3-32884C80D691", 310, 1447950184, "857768", 1447950184, "857768", null, "10", "2006", "Georgia", "38972", "416.2", "8", "11", "19669", "210.1", "5", "5", "581", "6.2", "5", "3" ]
+, [ 311, "6C203707-4017-4FE8-8601-CCBEDCFC2568", 311, 1447950184, "857768", 1447950184, "857768", null, "11", "2006", "Hawaii", "5548", "431.6", "36", "6", "885", "68.8", "40", "32", "18", "1.4", "38", "27" ]
+, [ 312, "AA3312E4-BC00-44A9-9C5B-7C4E9D2A7A48", 312, 1447950184, "857768", 1447950184, "857768", null, "12", "2006", "Idaho", "3345", "228.1", "41", "44", "206", "14.0", "44", "46", "3", "0.2", "44", "37" ]
+, [ 313, "B486E5DD-FDB5-4774-BB1F-1757A911650C", 313, 1447950184, "857768", 1447950184, "857768", null, "13", "2006", "Illinois", "53586", "417.6", "4", "9", "20186", "157.3", "4", "11", "431", "3.4", "6", "12" ]
+, [ 314, "6C980ABA-CF46-4234-8A18-C6301B6476E6", 314, 1447950184, "857768", 1447950184, "857768", null, "14", "2006", "Indiana", "19859", "314.5", "20", "28", "8732", "138.3", "16", "14", "93", "1.5", "22", "26" ]
+, [ 315, "5039C322-618E-4FD3-989E-45DA82D8F9DE", 315, 1447950184, "857768", 1447950184, "857768", null, "15", "2006", "Iowa", "8390", "281.3", "33", "35", "1966", "65.9", "33", "34", "19", "0.6", "37", "34" ]
+, [ 316, "C64B9ED8-11A1-4E18-B512-4C8DF0CD980F", 316, 1447950184, "857768", 1447950184, "857768", null, "16", "2006", "Kansas", "7829", "283.2", "35", "34", "2210", "80.0", "32", "28", "27", "1.0", "34", "30" ]
+, [ 317, "46AD04F2-0B6F-429E-9A8D-A4FD19F07549", 317, 1447950184, "857768", 1447950184, "857768", null, "17", "2006", "Kentucky", "8940", "212.5", "31", "45", "3277", "77.9", "28", "29", "73", "1.7", "26", "24" ]
+, [ 318, "5442EFA8-A058-414A-8BB5-45CAC7DA8582", 318, 1447950184, "857768", 1447950184, "857768", null, "18", "2006", "Louisiana", "17885", "417.1", "22", "10", "10883", "253.8", "11", "2", "342", "8.0", "7", "1" ]
+, [ 319, "7AFE0AF1-4204-4CB3-9E3C-865981EB0BA2", 319, 1447950184, "857768", 1447950184, "857768", null, "19", "2006", "Maine", "2306", "174.5", "46", "48", "137", "10.4", "48", "49", "9", "0.7", "42", "33" ]
+, [ 320, "450B7A7F-2EE8-4CE9-8188-FE1922F867A4", 320, 1447950184, "857768", 1447950184, "857768", null, "20", "2006", "Maryland", "21859", "389.2", "17", "14", "7328", "130.5", "18", "16", "300", "5.3", "10", "5" ]
+, [ 321, "BFD41BA7-D817-4F5B-9628-CF0C0A416F3C", 321, 1447950184, "857768", 1447950184, "857768", null, "21", "2006", "Massachusetts", "15394", "239.1", "25", "42", "2429", "37.7", "31", "41", "124", "1.9", "20", "22" ]
+, [ 322, "34E764C8-9A98-43AC-AE3F-C495E53C3D20", 322, 1447950184, "857768", 1447950184, "857768", null, "22", "2006", "Michigan", "36753", "364.0", "9", "17", "15677", "155.3", "9", "12", "118", "1.2", "21", "29" ]
+, [ 323, "91FF12B7-B171-4717-A5C6-B78B5EEA9533", 323, 1447950184, "857768", 1447950184, "857768", null, "23", "2006", "Minnesota", "12935", "250.3", "27", "41", "3303", "63.9", "27", "35", "47", "0.9", "32", "31" ]
+, [ 324, "43A86D9A-FEA0-4E1F-A26B-64FFD3E35C3F", 324, 1447950184, "857768", 1447950184, "857768", null, "24", "2006", "Mississippi", "19002", "652.9", "21", "2", "7511", "258.1", "17", "1", "86", "3.0", "23", "14" ]
+, [ 325, "CCF8CDE1-572E-485D-9E87-5F86806A6A88", 325, 1447950184, "857768", 1447950184, "857768", null, "25", "2006", "Missouri", "22982", "393.3", "14", "12", "10204", "174.6", "14", "7", "168", "2.9", "18", "15" ]
+, [ 326, "C7DF477A-A88E-4424-8371-E920CC35C2F0", 326, 1447950184, "857768", 1447950184, "857768", null, "26", "2006", "Montana", "2650", "280.5", "44", "36", "194", "20.5", "45", "45", "1", "0.1", "45", "38" ]
+, [ 327, "E621D6FB-C782-45AB-B076-5E6BA12A1BED", 327, 1447950184, "857768", 1447950184, "857768", null, "27", "2006", "Nebraska", "5428", "307.0", "37", "30", "1433", "81.0", "37", "27", "7", "0.4", "43", "36" ]
+, [ 328, "5E6DB793-30F7-4657-8429-A7F86451F930", 328, 1447950184, "857768", 1447950184, "857768", null, "28", "2006", "Nevada", "8398", "336.5", "32", "24", "2791", "111.8", "29", "19", "137", "5.5", "19", "4" ]
+, [ 329, "921A331F-9E59-4833-AB8A-AF9981338023", 329, 1447950184, "857768", 1447950184, "857768", null, "29", "2006", "New Hampshire", "1997", "151.9", "47", "50", "180", "13.7", "46", "47", "13", "1.0", "40", "30" ]
+, [ 330, "EB0F97EF-37F4-4AF8-B902-AE7FCF07180D", 330, 1447950184, "857768", 1447950184, "857768", null, "30", "2006", "New Jersey", "20194", "231.5", "18", "43", "5492", "62.9", "22", "36", "173", "2.0", "17", "21" ]
+, [ 331, "A3AD476A-5688-4089-A4A3-83DA9856446F", 331, 1447950184, "857768", 1447950184, "857768", null, "31", "2006", "New Mexico", "9829", "502.9", "29", "4", "1733", "88.7", "34", "25", "79", "4.0", "24", "9" ]
+, [ 332, "364E1E19-257F-4A0A-83D9-64A1D5981E6F", 332, 1447950184, "857768", 1447950184, "857768", null, "32", "2006", "New York", "68720", "355.9", "3", "20", "17459", "90.4", "7", "24", "736", "3.8", "3", "10" ]
+, [ 333, "7BA232D7-9849-4BE0-B6E3-EAB5FDB029E4", 333, 1447950184, "857768", 1447950184, "857768", null, "33", "2006", "North Carolina", "33615", "379.6", "10", "15", "17312", "195.5", "8", "6", "309", "3.5", "9", "11" ]
+, [ 334, "C5C1E56B-2C9D-479B-812D-5340082AD5E6", 334, 1447950184, "857768", 1447950184, "857768", null, "34", "2006", "North Dakota", "1820", "286.2", "48", "33", "153", "24.1", "47", "43", "1", "0.2", "45", "37" ]
+, [ 335, "04062F0D-A689-4B7E-B44E-8357AACE2592", 335, 1447950184, "857768", 1447950184, "857768", null, "35", "2006", "Ohio", "40106", "349.4", "6", "21", "19190", "167.2", "6", "9", "184", "1.6", "15", "25" ]
+, [ 336, "02E06559-256F-44D4-835B-7BC766756241", 336, 1447950184, "857768", 1447950184, "857768", null, "36", "2006", "Oklahoma", "12992", "363.0", "26", "19", "4951", "138.3", "23", "14", "70", "2.0", "27", "21" ]
+, [ 337, "6B04F8B0-6F5D-43F3-8FD8-60D23A3FAFC3", 337, 1447950184, "857768", 1447950184, "857768", null, "37", "2006", "Oregon", "9577", "258.8", "30", "40", "1461", "39.5", "36", "40", "29", "0.8", "33", "32" ]
+, [ 338, "C4A7E722-3E73-45E5-9C5F-248C759DE801", 338, 1447950184, "857768", 1447950184, "857768", null, "38", "2006", "Pennsylvania", "39487", "317.4", "7", "26", "11466", "92.2", "10", "23", "264", "2.1", "11", "20" ]
+, [ 339, "16B919DD-00A3-4952-9FD5-647DBB207607", 339, 1447950184, "857768", 1447950184, "857768", null, "39", "2006", "Rhode Island", "3142", "294.3", "42", "31", "508", "47.6", "42", "38", "14", "1.3", "39", "28" ]
+, [ 340, "67831C0B-FF65-473F-A1C8-06BECEAA5FF8", 340, 1447950184, "857768", 1447950184, "857768", null, "40", "2006", "South Carolina", "22351", "517.2", "16", "3", "10320", "238.8", "13", "3", "66", "1.5", "30", "26" ]
+, [ 341, "5A6B7818-ACDB-401F-9961-1FDE341DF631", 341, 1447950184, "857768", 1447950184, "857768", null, "41", "2006", "South Dakota", "2633", "336.7", "45", "23", "367", "46.9", "43", "39", "13", "1.7", "40", "24" ]
+, [ 342, "2F8C9E11-3305-442E-871A-EC3A51722D31", 342, 1447950184, "857768", 1447950184, "857768", null, "42", "2006", "Tennessee", "25320", "419.3", "11", "8", "9694", "160.5", "15", "10", "249", "4.1", "12", "8" ]
+, [ 343, "0B94523F-8E82-4A7A-B2DC-45DE1B1E0284", 343, 1447950184, "857768", 1447950184, "857768", null, "43", "2006", "Texas", "75543", "321.4", "2", "25", "30449", "129.5", "2", "17", "1064", "4.5", "2.0", "7" ]
+, [ 344, "503555A0-228F-4C01-937C-BC57BF418F2D", 344, 1447950184, "857768", 1447950184, "857768", null, "44", "2006", "Utah", "5092", "199.7", "38", "46", "888", "34.8", "39", "42", "21", "0.8", "35", "32" ]
+, [ 345, "38FABAEB-F614-476B-81D8-52B95BEE05F0", 345, 1447950184, "857768", 1447950184, "857768", null, "45", "2006", "Vermont", "1191", "190.9", "50", "47", "72", "11.5", "50", "48", "3", "0.5", "44", "35" ]
+, [ 346, "CBBC6CBF-DDB0-4D5E-9B0A-97796A0CB901", 346, 1447950184, "857768", 1447950184, "857768", null, "46", "2006", "Virginia", "24087", "315.2", "13", "27", "6476", "84.7", "20", "26", "190", "2.5", "14", "18" ]
+, [ 347, "3BB8F3BE-67B5-4E74-9350-1771561D6A17", 347, 1447950184, "857768", 1447950184, "857768", null, "47", "2006", "Washington", "17819", "278.6", "23", "37", "4231", "66.2", "25", "33", "182", "2.8", "16", "16" ]
+, [ 348, "11A9A74D-B876-43C8-8BCE-1CFC5850CF74", 348, 1447950184, "857768", 1447950184, "857768", null, "48", "2006", "West Virginia", "2910", "160.0", "43", "49", "953", "52.4", "38", "37", "11", "0.6", "41", "34" ]
+, [ 349, "C586080F-059A-4159-B748-9890B7188BEA", 349, 1447950184, "857768", 1447950184, "857768", null, "49", "2006", "Wisconsin", "20190", "363.4", "19", "18", "6927", "124.7", "19", "18", "68", "1.2", "29", "29" ]
+, [ 350, "07DD4E76-7D1B-46BB-8944-AC10DB246FA6", 350, 1447950184, "857768", 1447950184, "857768", null, "50", "2006", "Wyoming", "1422", "276.1", "49", "38", "120", "23.3", "49", "44", "0", "0.0", "46", null ]
+, [ 351, "00E0FB04-DF04-408A-A7A0-E7D702805AA9", 351, 1447950184, "857768", 1447950184, "857768", null, "1", "2007", "Alabama", "25153", "543.5", "13", "4", "10885", "235.2", "12", "3", "380", "8.2", "8", "2" ]
+, [ 352, "9852080D-70AD-4242-85DE-1D18F0CEA99D", 352, 1447950184, "857768", 1447950184, "857768", null, "2", "2007", "Alaska", "4911", "718.5", "39", "2", "579", "84.7", "41", "24", "7", "1.0", "42", "27" ]
+, [ 353, "E6B0CFD2-8DBB-49C2-8FCC-E2473D810095", 353, 1447950184, "857768", 1447950184, "857768", null, "3", "2007", "Arizona", "24866", "392.3", "14", "16", "5062", "79.9", "22", "28", "296", "4.7", "12", "10" ]
+, [ 354, "7169C28E-8416-4FE9-BF90-8D143B6D7ED3", 354, 1447950184, "857768", 1447950184, "857768", null, "4", "2007", "Arkansas", "9954", "351.1", "29", "21", "4168", "147.0", "24", "13", "122", "4.3", "22", "12" ]
+, [ 355, "17AC88B1-BE3F-49B4-B446-E45B114C4C97", 355, 1447950184, "857768", 1447950184, "857768", null, "5", "2007", "California", "141928", "388.3", "1", "17", "31294", "85.6", "2", "23", "2038", "5.6", "1", "6" ]
+, [ 356, "81A1F654-CE04-4410-B2F1-633AA084D4AB", 356, 1447950184, "857768", 1447950184, "857768", null, "6", "2007", "Colorado", "17186", "353.5", "24", "20", "3376", "69.4", "28", "30", "57", "1.2", "28", "25" ]
+, [ 357, "306E015E-6A6F-4479-9B2D-AB45B3BD2C45", 357, 1447950184, "857768", 1447950184, "857768", null, "7", "2007", "Connecticut", "11454", "327.0", "28", "27", "2327", "66.4", "31", "32", "39", "1.1", "32", "26" ]
+, [ 358, "325C2AF7-699A-45E6-8F87-F303FA3CB14D", 358, 1447950184, "857768", 1447950184, "857768", null, "8", "2007", "Delaware", "3479", "402.3", "41", "14", "1293", "149.5", "36", "12", "18", "2.1", "38", "20" ]
+, [ 359, "B45BBFA0-B39E-46BE-961B-5CFAF8EFD6E0", 359, 1447950184, "857768", 1447950184, "857768", null, "9", "2007", "Florida", "57575", "315.5", "4", "30", "23327", "127.8", "3", "17", "913", "5.0", "4", "8" ]
+, [ 360, "4A6026BA-2C51-40E9-BE9C-C6E0F4915C29", 360, 1447950184, "857768", 1447950184, "857768", null, "10", "2007", "Georgia", "42913", "449.6", "7", "7", "17835", "186.9", "6", "5", "680", "7.1", "5", "3" ]
+, [ 361, "EB09407B-8D52-4774-95C6-0EAFFB0F7A62", 361, 1447950184, "857768", 1447950184, "857768", null, "11", "2007", "Hawaii", "5659", "440.9", "37", "8", "659", "51.3", "40", "35", "9", "0.7", "40", "30" ]
+, [ 362, "FABF30C1-225D-48D8-99B1-61B756FD88C9", 362, 1447950184, "857768", 1447950184, "857768", null, "12", "2007", "Idaho", "3722", "248.2", "40", "41", "269", "17.9", "43", "42", "1", "0.1", "45", "34" ]
+, [ 363, "042DEC0D-76E1-48CD-8CAD-DD4552536A19", 363, 1447950184, "857768", 1447950184, "857768", null, "13", "2007", "Illinois", "55470", "431.6", "5", "10", "20813", "161.9", "5", "9", "464", "3.6", "7", "14" ]
+, [ 364, "54BF7CE4-47B1-45E3-8A15-E42268E5C929", 364, 1447950184, "857768", 1447950184, "857768", null, "14", "2007", "Indiana", "20712", "326.4", "20", "28", "8790", "138.5", "16", "14", "54", "0.9", "30", "28" ]
+, [ 365, "1E984B33-24D6-4154-95E8-DF929EC703B7", 365, 1447950184, "857768", 1447950184, "857768", null, "15", "2007", "Iowa", "8643", "289.3", "34", "34", "1928", "64.5", "33", "33", "21", "0.7", "36", "30" ]
+, [ 366, "0ACDC8CB-EE6C-4C45-B218-2C04AEA6AA5E", 366, 1447950184, "857768", 1447950184, "857768", null, "16", "2007", "Kansas", "8180", "294.7", "35", "32", "2282", "82.2", "32", "25", "28", "1.0", "35", "27" ]
+, [ 367, "9B0541FC-C1D2-4793-9396-E7E851840356", 367, 1447950184, "857768", 1447950184, "857768", null, "17", "2007", "Kentucky", "8798", "207.4", "33", "45", "3449", "81.3", "27", "26", "56", "1.3", "29", "24" ]
+, [ 368, "0679DF07-FEBE-4CBF-A4E7-5E01F77ECE8F", 368, 1447950184, "857768", 1447950184, "857768", null, "18", "2007", "Louisiana", "19362", "451.0", "22", "6", "11137", "259.4", "11", "2", "533", "12.4", "6", "1" ]
+, [ 369, "3CB25E7C-A71E-476C-959A-905EA0899CEB", 369, 1447950184, "857768", 1447950184, "857768", null, "19", "2007", "Maine", "2541", "192.9", "46", "46", "118", "9.0", "47", "47", "9", "0.7", "40", "30" ]
+, [ 370, "B9C3A15D-48ED-4F3E-9010-0C84C3865C08", 370, 1447950184, "857768", 1447950184, "857768", null, "20", "2007", "Maryland", "23150", "412.0", "17", "13", "6768", "120.5", "18", "18", "345", "6.1", "10", "4" ]
+, [ 371, "C7313349-B137-462E-A624-29CED9F4531A", 371, 1447950184, "857768", 1447950184, "857768", null, "21", "2007", "Massachusetts", "16145", "250.3", "25", "40", "2695", "41.8", "29", "36", "155", "2.4", "18", "18" ]
+, [ 372, "CE4A26EE-575A-406F-A800-B8A57D8ECF60", 372, 1447950184, "857768", 1447950184, "857768", null, "22", "2007", "Michigan", "37353", "370.9", "9", "18", "15482", "153.7", "9", "11", "123", "1.2", "21", "25" ]
+, [ 373, "446816D1-469C-4BF2-B06F-293B5E900BE2", 373, 1447950184, "857768", 1447950184, "857768", null, "23", "2007", "Minnesota", "13413", "258.1", "26", "39", "3459", "66.5", "26", "31", "59", "1.1", "27", "26" ]
+, [ 374, "95AD9F60-3C54-4F6F-A030-7092E1D9544E", 374, 1447950184, "857768", 1447950184, "857768", null, "24", "2007", "Mississippi", "21686", "743.0", "18", "1", "8314", "284.8", "17", "1", "133", "4.6", "20", "11" ]
+, [ 375, "C7245174-ED37-4A14-A4B0-5DADC2B3A129", 375, 1447950184, "857768", 1447950184, "857768", null, "25", "2007", "Missouri", "23308", "396.5", "16", "15", "9876", "168.0", "14", "8", "239", "4.1", "14", "13" ]
+, [ 376, "77E2AEFD-7F51-4810-9B9B-4380C9B28843", 376, 1447950184, "857768", 1447950184, "857768", null, "26", "2007", "Montana", "2748", "286.9", "44", "36", "122", "12.7", "46", "44", "8", "0.8", "41", "29" ]
+, [ 377, "E65F421A-B6C4-4077-A70D-EB44E87293F3", 377, 1447950184, "857768", 1447950184, "857768", null, "27", "2007", "Nebraska", "5132", "289.2", "38", "35", "1434", "80.8", "35", "27", "4", "0.2", "44", "33" ]
+, [ 378, "8AEEB2CD-A934-48DF-9A10-6A8EF5B3879B", 378, 1447950184, "857768", 1447950184, "857768", null, "28", "2007", "Nevada", "9514", "370.9", "31", "18", "2357", "91.9", "30", "20", "111", "4.3", "23", "12" ]
+, [ 379, "999A138A-D844-43CC-8698-5DE5CA6B87AE", 379, 1447950184, "857768", 1447950184, "857768", null, "29", "2007", "New Hampshire", "2055", "156.2", "47", "49", "138", "10.5", "45", "45", "30", "2.3", "34", "19" ]
+, [ 380, "399BD8B4-18F4-411E-9347-7607874C4344", 380, 1447950184, "857768", 1447950184, "857768", null, "30", "2007", "New Jersey", "21536", "247.9", "19", "42", "6076", "70.0", "21", "29", "227", "2.6", "16", "17" ]
+, [ 381, "20807848-B98E-4164-A6B7-9ACD31ABA36E", 381, 1447950184, "857768", 1447950184, "857768", null, "31", "2007", "New Mexico", "9460", "480.2", "32", "5", "1796", "91.2", "34", "22", "46", "2.3", "31", "19" ]
+, [ 382, "D5826720-379B-4A7D-8E15-23D7E0C48695", 382, 1447950184, "857768", 1447950184, "857768", null, "32", "2007", "New York", "80717", "418.3", "3", "11", "17697", "91.7", "7", "21", "1068", "5.5", "3", "7" ]
+, [ 383, "3AF138F8-0F84-4A0A-9003-A6175889BD55", 383, 1447950184, "857768", 1447950184, "857768", null, "33", "2007", "North Carolina", "30611", "337.8", "10", "25", "16666", "183.9", "8", "6", "323", "3.6", "11", "14" ]
+, [ 384, "5C2FF922-D887-41A0-8728-043B27E588C4", 384, 1447950184, "857768", 1447950184, "857768", null, "34", "2007", "North Dakota", "1789", "279.7", "48", "37", "116", "18.1", "48", "41", "1", "0.2", "45", "33" ]
+, [ 385, "410E0E5F-D775-4A0F-A6B9-EB97B7F406AD", 385, 1447950184, "857768", 1447950184, "857768", null, "35", "2007", "Ohio", "47434", "413.7", "6", "12", "21066", "183.7", "4", "7", "194", "1.7", "17", "22" ]
+, [ 386, "ACBC7C70-11F4-43CD-9423-26CB35E9B5CB", 386, 1447950184, "857768", 1447950184, "857768", null, "36", "2007", "Oklahoma", "12529", "346.4", "27", "23", "4827", "133.4", "23", "16", "65", "1.8", "26", "21" ]
+, [ 387, "DB80B776-0B40-40CF-A00C-08D5EFFA29A9", 387, 1447950184, "857768", 1447950184, "857768", null, "37", "2007", "Oregon", "9849", "262.8", "30", "38", "1236", "33.0", "37", "38", "18", "0.5", "38", "31" ]
+, [ 388, "7B28F608-F15A-4B45-89AF-C4331590E8A5", 388, 1447950184, "857768", 1447950184, "857768", null, "38", "2007", "Pennsylvania", "42469", "341.6", "8", "24", "12706", "102.2", "10", "19", "263", "2.1", "13", "20" ]
+, [ 389, "B847A92A-C66D-44BF-A8FB-A5AD499D3393", 389, 1447950184, "857768", 1447950184, "857768", null, "39", "2007", "Rhode Island", "3177", "300.3", "42", "31", "402", "38.0", "42", "37", "36", "3.4", "33", "15" ]
+, [ 390, "DE087699-89E8-4160-8EA2-1C8F1715E938", 390, 1447950184, "857768", 1447950184, "857768", null, "40", "2007", "South Carolina", "26431", "599.7", "12", "3", "10326", "234.3", "13", "4", "91", "2.1", "24", "20" ]
+, [ 391, "2334F9AB-5885-4366-A8A4-81D691644700", 391, 1447950184, "857768", 1447950184, "857768", null, "41", "2007", "South Dakota", "2620", "329.1", "45", "26", "261", "32.8", "44", "39", "7", "0.9", "42", "28" ]
+, [ 392, "9B48CD00-5A09-4848-80C9-1F7B116FE61A", 392, 1447950184, "857768", 1447950184, "857768", null, "42", "2007", "Tennessee", "26866", "436.4", "11", "9", "9564", "155.3", "15", "10", "367", "6.0", "9", "5" ]
+, [ 393, "0925331A-88DE-4654-B832-FA4114587EE9", 393, 1447950184, "857768", 1447950184, "857768", null, "43", "2007", "Texas", "85786", "358.9", "2", "19", "32073", "134.2", "1", "15", "1160", "4.9", "2", "9" ]
+, [ 394, "6D539FF0-1EFE-4462-BB69-6BF314589A2C", 394, 1447950184, "857768", 1447950184, "857768", null, "44", "2007", "Utah", "5721", "216.3", "36", "44", "821", "31.0", "39", "40", "20", "0.8", "37", "29" ]
+, [ 395, "095C8C50-0890-4730-96F2-BC15EF16B310", 395, 1447950184, "857768", 1447950184, "857768", null, "45", "2007", "Vermont", "1057", "170.1", "50", "48", "64", "10.3", "50", "46", "10", "1.6", "39", "23" ]
+, [ 396, "32C14295-5FA6-4625-A405-E936BDC24FBF", 396, 1447950184, "857768", 1447950184, "857768", null, "46", "2007", "Virginia", "24579", "318.7", "15", "29", "6269", "81.3", "20", "26", "230", "3.0", "15", "16" ]
+, [ 397, "8DA6FE82-A298-4F83-9186-B861CEE7E53E", 397, 1447950184, "857768", 1447950184, "857768", null, "47", "2007", "Washington", "18784", "290.4", "23", "33", "3653", "56.5", "25", "34", "154", "2.4", "19", "18" ]
+, [ 398, "00C9C010-41B2-48D0-B113-7436E850E6C2", 398, 1447950184, "857768", 1447950184, "857768", null, "48", "2007", "West Virginia", "3168", "174.8", "43", "47", "930", "51.3", "38", "35", "6", "0.3", "43", "32" ]
+, [ 399, "542ED29D-46E8-4CB3-BE8C-A7AE72FF00FE", 399, 1447950184, "857768", 1447950184, "857768", null, "49", "2007", "Wisconsin", "19555", "349.1", "21", "22", "6752", "120.5", "19", "18", "66", "1.2", "25", "25" ]
+, [ 400, "C73BB32E-DFA0-4DDC-B47E-E851969E61D4", 400, 1447950184, "857768", 1447950184, "857768", null, "50", "2007", "Wyoming", "1197", "228.9", "49", "43", "81", "15.5", "49", "43", "4", "0.8", "44", "29" ]
+, [ 401, "648052FE-2CE2-4931-88C6-4AB55C719678", 401, 1447950184, "857768", 1447950184, "857768", null, "1", "2008", "Alabama", "24760", "531.1", "16", "4", "9740", "208.9", "12", "4", "449", "9.6", "8", "2" ]
+, [ 402, "2D02F5BB-83C1-48A5-BA26-51BF29604C82", 402, 1447950184, "857768", 1447950184, "857768", null, "2", "2008", "Alaska", "4861", "708.3", "39", "2", "578", "84.2", "40", "24", "1", "0.1", "46", "36" ]
+, [ 403, "7E23381F-C8A1-4E4C-9CE8-4E2F46A1310A", 403, 1447950184, "857768", 1447950184, "857768", null, "3", "2008", "Arizona", "24769", "381.1", "15", "25", "3449", "53.1", "26", "35", "317", "4.9", "12", "12" ]
+, [ 404, "DD1E67B7-950D-46CD-B6FE-29F57DF9553E", 404, 1447950184, "857768", 1447950184, "857768", null, "4", "2008", "Arkansas", "14136", "495.1", "28", "6", "4514", "158.1", "24", "9", "206", "7.2", "20", "4" ]
+, [ 405, "F658953D-0E25-46B8-A510-470FB5EC51AB", 405, 1447950184, "857768", 1447950184, "857768", null, "5", "2008", "California", "148798", "404.8", "1", "21", "25787", "70.2", "2", "31", "2204", "6.0", "1", "9" ]
+, [ 406, "C9E54A1D-8E5D-4A5D-9280-12BE17847572", 406, 1447950184, "857768", 1447950184, "857768", null, "6", "2008", "Colorado", "19180", "388.3", "24", "23", "3757", "76.1", "25", "29", "128", "2.6", "24", "20" ]
+, [ 407, "A56DBC01-6B7E-413A-B60F-6AF81038A964", 407, 1447950184, "857768", 1447950184, "857768", null, "7", "2008", "Connecticut", "12519", "357.6", "29", "29", "2801", "80.0", "29", "28", "34", "1.0", "32", "30" ]
+, [ 408, "05ABFFFA-CB9C-4481-8A4E-CD5C8B93C58F", 408, 1447950184, "857768", 1447950184, "857768", null, "8", "2008", "Delaware", "3868", "443.0", "41", "13", "1045", "119.7", "37", "18", "16", "1.8", "39", "25" ]
+, [ 409, "635003EE-4346-46BC-84C1-E7F03CE9EA8F", 409, 1447950184, "857768", 1447950184, "857768", null, "9", "2008", "Florida", "71017", "387.5", "4", "24", "23326", "127.3", "3", "17", "1044", "5.7", "4", "11" ]
+, [ 410, "38E9503A-7626-4060-B32C-517D6F01F7B3", 410, 1447950184, "857768", 1447950184, "857768", null, "10", "2008", "Georgia", "42629", "440.1", "8", "14", "16272", "168.0", "8", "7", "914", "9.4", "5", "3" ]
+, [ 411, "4D4C04F8-C9A5-4F67-95DA-D15BA627F8AC", 411, 1447950184, "857768", 1447950184, "857768", null, "11", "2008", "Hawaii", "5982", "464.4", "37", "8", "610", "47.4", "39", "37", "29", "2.3", "34", "22" ]
+, [ 412, "5A6B8051-87A2-4534-8032-76F5F15C4262", 412, 1447950184, "857768", 1447950184, "857768", null, "12", "2008", "Idaho", "4194", "275.2", "40", "42", "187", "12.3", "44", "47", "7", "0.5", "44", "35" ]
+, [ 413, "66CB2A3C-902C-4D91-9BAF-F971E19FE42F", 413, 1447950184, "857768", 1447950184, "857768", null, "13", "2008", "Illinois", "59169", "458.6", "5", "9", "20674", "160.2", "4", "8", "554", "4.3", "7", "13" ]
+, [ 414, "155BB1C2-C269-4CEC-970D-D82388E7927B", 414, 1447950184, "857768", 1447950184, "857768", null, "14", "2008", "Indiana", "22154", "347.4", "20", "30", "8769", "137.5", "16", "13", "140", "2.2", "23", "23" ]
+, [ 415, "23ABD40A-76A0-41F5-AA8D-7CA0ECB2F41D", 415, 1447950184, "857768", 1447950184, "857768", null, "15", "2008", "Iowa", "9372", "312.1", "33", "37", "1700", "56.6", "33", "34", "16", "0.5", "39", "35" ]
+, [ 416, "3B097139-9FAA-45F9-B9DD-CA340F107570", 416, 1447950184, "857768", 1447950184, "857768", null, "16", "2008", "Kansas", "9208", "328.6", "35", "32", "2274", "81.2", "30", "27", "30", "1.1", "33", "29" ]
+, [ 417, "5DA24002-2204-43F7-8A30-6EE1DF4E7711", 417, 1447950184, "857768", 1447950184, "857768", null, "17", "2008", "Kentucky", "12163", "284.9", "30", "40", "4548", "106.5", "23", "21", "93", "2.2", "27", "23" ]
+, [ 418, "C26D771C-9C1D-4F92-A321-0A7AD09CEA2C", 418, 1447950184, "857768", 1447950184, "857768", null, "18", "2008", "Louisiana", "22659", "513.7", "18", "5", "9455", "214.4", "13", "2", "707", "16.0", "6", "1" ]
+, [ 419, "2CA06CD3-33C1-460B-9F42-E32EEC15FF4B", 419, 1447950184, "857768", 1447950184, "857768", null, "19", "2008", "Maine", "2608", "198.1", "46", "47", "96", "7.3", "49", "49", "10", "0.8", "43", "32" ]
+, [ 420, "012FE0AE-358B-42DF-B66C-28F9688CAE45", 420, 1447950184, "857768", 1447950184, "857768", null, "20", "2008", "Maryland", "24669", "437.9", "17", "15", "6666", "118.3", "19", "19", "378", "6.7", "10", "5" ]
+, [ 421, "8EE25D62-9568-4F17-A97E-4E87E4D531A2", 421, 1447950184, "857768", 1447950184, "857768", null, "21", "2008", "Massachusetts", "17503", "269.4", "25", "44", "2129", "32.8", "32", "40", "216", "3.3", "18", "16" ]
+, [ 422, "9BC9B6B1-387D-470F-9C19-5645CF0F7789", 422, 1447950184, "857768", 1447950184, "857768", null, "22", "2008", "Michigan", "44923", "449.1", "7", "12", "17064", "170.6", "6", "6", "210", "2.1", "19", "24" ]
+, [ 423, "B54D1FC0-DF2E-4CA8-871C-9E3BAF930A9D", 423, 1447950184, "857768", 1447950184, "857768", null, "23", "2008", "Minnesota", "14351", "274.9", "27", "43", "3037", "58.2", "28", "33", "116", "2.2", "25", "23" ]
+, [ 424, "F5691F12-B840-4E32-B91F-B735EDD2E32C", 424, 1447950184, "857768", 1447950184, "857768", null, "24", "2008", "Mississippi", "21253", "723.2", "22", "1", "7494", "255.0", "18", "1", "184", "6.3", "21", "7" ]
+, [ 425, "6173AAFB-34AE-43CC-82C2-15476642CCAC", 425, 1447950184, "857768", 1447950184, "857768", null, "25", "2008", "Missouri", "24817", "419.8", "14", "16", "8014", "135.6", "17", "14", "224", "3.8", "17", "14" ]
+, [ 426, "CBC0589D-442D-465D-87EF-D6B2898E48E2", 426, 1447950184, "857768", 1447950184, "857768", null, "26", "2008", "Montana", "3101", "320.5", "44", "34", "122", "12.6", "47", "46", "7", "0.7", "44", "33" ]
+, [ 427, "722720A5-7EB6-4704-AEC3-1E83D3F66107", 427, 1447950184, "857768", 1447950184, "857768", null, "27", "2008", "Nebraska", "5573", "312.5", "38", "36", "1460", "81.9", "34", "26", "15", "0.8", "40", "32" ]
+, [ 428, "8483AB98-1E62-44B3-AB15-0533039FE471", 428, 1447950184, "857768", 1447950184, "857768", null, "28", "2008", "Nevada", "9670", "371.9", "32", "27", "2172", "83.5", "31", "25", "77", "3.0", "29", "18" ]
+, [ 429, "71D138FB-A432-47F2-9C19-16A42C9A7A43", 429, 1447950184, "857768", 1447950184, "857768", null, "29", "2008", "New Hampshire", "2109", "160.3", "47", "50", "100", "7.6", "48", "48", "20", "1.5", "37", "27" ]
+, [ 430, "ADE67E34-8177-4A7C-B26E-B568704DA325", 430, 1447950184, "857768", 1447950184, "857768", null, "30", "2008", "New Jersey", "22405", "258.0", "19", "45", "5298", "61.0", "21", "32", "226", "2.6", "16", "20" ]
+, [ 431, "0B1FEF6C-CC52-4370-9E1F-61937737C3A4", 431, 1447950184, "857768", 1447950184, "857768", null, "31", "2008", "New Mexico", "9262", "466.8", "34", "7", "1403", "70.7", "35", "30", "44", "2.2", "31", "23" ]
+, [ 432, "07404147-889A-4199-9A12-62B162A88AB4", 432, 1447950184, "857768", 1447950184, "857768", null, "32", "2008", "New York", "88359", "453.3", "3", "10", "17108", "87.8", "5", "23", "1217", "6.2", "3", "8" ]
+, [ 433, "7428D6D5-D28C-4519-8B3F-2EBDC13DA7BD", 433, 1447950184, "857768", 1447950184, "857768", null, "33", "2008", "North Carolina", "37516", "406.8", "10", "19", "15972", "173.2", "9", "5", "287", "3.1", "13", "17" ]
+, [ 434, "C01DB348-26EB-4AF4-8C97-00812CA8176D", 434, 1447950184, "857768", 1447950184, "857768", null, "34", "2008", "North Dakota", "1921", "299.5", "48", "38", "143", "22.3", "45", "44", "0", "0.0", "47", null ]
+, [ 435, "088DAB14-B71D-4BDF-8BDF-848E4496EA67", 435, 1447950184, "857768", 1447950184, "857768", null, "35", "2008", "Ohio", "47117", "410.2", "6", "18", "16803", "146.3", "7", "10", "351", "3.1", "11", "17" ]
+, [ 436, "573AC899-B0F3-4FF0-B32A-282893E603CE", 436, 1447950184, "857768", 1447950184, "857768", null, "36", "2008", "Oklahoma", "14803", "406.4", "26", "20", "5185", "142.4", "22", "11", "86", "2.4", "28", "21" ]
+, [ 437, "FD9EABF9-8E38-4016-B608-32BBC14D22C2", 437, 1447950184, "857768", 1447950184, "857768", null, "37", "2008", "Oregon", "10744", "283.5", "31", "41", "1225", "32.3", "36", "41", "26", "0.7", "35", "33" ]
+, [ 438, "FB349966-ADAE-4B89-99AC-5FE6415EE0DE", 438, 1447950184, "857768", 1447950184, "857768", null, "38", "2008", "Pennsylvania", "42233", "339.3", "9", "31", "11071", "88.9", "10", "22", "272", "2.2", "14", "23" ]
+, [ 439, "48959115-E9A2-4D7B-8FC7-159CAB7EE2E2", 439, 1447950184, "857768", 1447950184, "857768", null, "39", "2008", "Rhode Island", "3317", "315.7", "42", "35", "307", "29.2", "43", "42", "18", "1.7", "38", "26" ]
+, [ 440, "15AFE7F7-3964-48B4-9401-698FEE7A31F8", 440, 1447950184, "857768", 1447950184, "857768", null, "40", "2008", "South Carolina", "26323", "587.6", "13", "3", "9442", "210.8", "14", "3", "98", "2.2", "26", "23" ]
+, [ 441, "654685DA-47B6-477C-AC05-DDFB1D48DF66", 441, 1447950184, "857768", 1447950184, "857768", null, "41", "2008", "South Dakota", "2956", "367.6", "45", "28", "375", "46.6", "42", "38", "1", "0.1", "46", "36" ]
+, [ 442, "95C732A6-6CFA-4C46-9BE7-CD4617752102", 442, 1447950184, "857768", 1447950184, "857768", null, "42", "2008", "Tennessee", "28038", "451.1", "12", "11", "8780", "141.3", "15", "12", "413", "6.6", "9", "6" ]
+, [ 443, "0B4E01E1-7AD7-47A0-AC3B-9D14DFB4FB86", 443, 1447950184, "857768", 1447950184, "857768", null, "43", "2008", "Texas", "100870", "414.6", "2", "17", "32199", "132.4", "1", "16", "1405", "5.8", "2", "10" ]
+, [ 444, "A53E00AD-3DD1-4248-B588-8B3CB77842A7", 444, 1447950184, "857768", 1447950184, "857768", null, "44", "2008", "Utah", "6021", "220.0", "36", "46", "477", "17.4", "41", "45", "25", "0.9", "36", "31" ]
+, [ 445, "D4E02C48-EDCC-415F-956B-A8168D527DF3", 445, 1447950184, "857768", 1447950184, "857768", null, "45", "2008", "Vermont", "1190", "191.5", "50", "48", "37", "6.0", "50", "50", "11", "1.8", "42", "25" ]
+, [ 446, "E72F68EB-99E9-48D5-822A-78A0B9261424", 446, 1447950184, "857768", 1447950184, "857768", null, "46", "2008", "Virginia", "31218", "401.8", "11", "22", "10337", "133.1", "11", "15", "266", "3.4", "15", "15" ]
+, [ 447, "36E0094E-CA68-489D-8603-4AC518A96DB8", 447, 1447950184, "857768", 1447950184, "857768", null, "47", "2008", "Washington", "21402", "326.8", "21", "33", "3127", "47.7", "27", "36", "181", "2.8", "22", "19" ]
+, [ 448, "E0AE8B14-2AC3-43EF-BF24-9BFF4116F5BC", 448, 1447950184, "857768", 1447950184, "857768", null, "48", "2008", "West Virginia", "3316", "182.8", "43", "49", "746", "41.1", "38", "39", "13", "0.7", "41", "33" ]
+, [ 449, "D1FE3ECE-74EC-4957-8281-2C6C7A649FAB", 449, 1447950184, "857768", 1447950184, "857768", null, "49", "2008", "Wisconsin", "20996", "373.1", "23", "26", "6087", "108.2", "20", "20", "65", "1.2", "30", "28" ]
+, [ 450, "0328D298-C103-49B8-825E-3A42D9A043FA", 450, 1447950184, "857768", 1447950184, "857768", null, "50", "2008", "Wyoming", "1577", "296.1", "49", "39", "124", "23.3", "46", "43", "3", "0.6", "45", "34" ]
+, [ 451, "F17D2EE0-7BBC-4FE5-8500-65909516E1FA", 451, 1447950184, "857768", 1447950184, "857768", null, "1", "2009", "Alabama", "25929", "550.7", "16", "5", "7498", "159.2", "15", "4", "417", "8.9", "9", "4" ]
+, [ 452, "B1527C6B-8C7A-4012-89B3-30B472E037F6", 452, 1447950184, "857768", 1447950184, "857768", null, "2", "2009", "Alaska", "5166", "739.6", "39", "2", "990", "141.7", "37", "9", "0", "0.0", "45", null ]
+, [ 453, "E4E7D478-5209-4A2E-B457-FB9BC21C074B", 453, 1447950184, "857768", 1447950184, "857768", null, "3", "2009", "Arizona", "26002", "394.2", "15", "23", "3250", "49.3", "25", "34", "231", "3.5", "18", "16" ]
+, [ 454, "885161B9-E1CD-42DC-A0AA-9C25442D8C08", 454, 1447950184, "857768", 1447950184, "857768", null, "4", "2009", "Arkansas", "14354", "496.8", "27", "7", "4460", "154.4", "23", "6", "275", "9.5", "15", "3" ]
+, [ 455, "80171E77-47A1-4CE3-B362-B44E86DE9C55", 455, 1447950184, "857768", 1447950184, "857768", null, "5", "2009", "California", "146796", "397.2", "1", "22", "23228", "62.8", "2", "29", "1900", "5.1", "1", "13" ]
+, [ 456, "C149A25A-B2FD-4625-94F8-21372EAC4B02", 456, 1447950184, "857768", 1447950184, "857768", null, "6", "2009", "Colorado", "19998", "398.0", "24", "21", "2823", "56.2", "26", "30", "105", "2.1", "25", "26" ]
+, [ 457, "ACE4BF44-BE73-43A1-A402-B619E7CC0FD4", 457, 1447950184, "857768", 1447950184, "857768", null, "7", "2009", "Connecticut", "12127", "344.7", "30", "31", "2558", "72.7", "27", "27", "65", "1.8", "30", "28" ]
+, [ 458, "42FE0B77-B401-4D65-AA13-0205C53C0668", 458, 1447950184, "857768", 1447950184, "857768", null, "8", "2009", "Delaware", "4718", "533.0", "40", "6", "971", "109.7", "38", "17", "27", "3.1", "37", "18" ]
+, [ 459, "A7510561-AF4D-4D2C-9BC1-931EEB22F57F", 459, 1447950184, "857768", 1447950184, "857768", null, "9", "2009", "Florida", "72931", "393.4", "4", "24", "20878", "112.6", "3", "15", "1041", "5.6", "4", "11" ]
+, [ 460, "0E32D6E7-8C6C-4CDA-BCDA-9694B98B4AE4", 460, 1447950184, "857768", 1447950184, "857768", null, "10", "2009", "Georgia", "39828", "405.2", "10", "20", "13687", "139.2", "9", "10", "953", "9.7", "5", "2" ]
+, [ 461, "D701133A-EC80-423B-9C30-151A1C04E2F0", 461, 1447950184, "857768", 1447950184, "857768", null, "11", "2009", "Hawaii", "6026", "465.3", "37", "12", "631", "48.7", "39", "35", "33", "2.5", "34", "23" ]
+, [ 462, "D693FA61-F46E-42DA-8D36-E812DA88FD91", 462, 1447950184, "857768", 1447950184, "857768", null, "12", "2009", "Idaho", "3842", "248.5", "41", "45", "110", "7.1", "47", "50", "3", "0.2", "44", "36" ]
+, [ 463, "48D3754D-0826-4B73-ABE4-29E89FF49CAE", 463, 1447950184, "857768", 1447950184, "857768", null, "13", "2009", "Illinois", "60542", "468.9", "5", "11", "19962", "154.6", "4", "5", "750", "5.8", "6", "10" ]
+, [ 464, "FB10C35D-B045-4C06-B674-357B320E2A55", 464, 1447950184, "857768", 1447950184, "857768", null, "14", "2009", "Indiana", "21732", "338.3", "21", "34", "6835", "106.4", "17", "19", "158", "2.5", "22", "23" ]
+, [ 465, "8367E3ED-D9CA-46E3-A80E-7AABE7B29377", 465, 1447950184, "857768", 1447950184, "857768", null, "15", "2009", "Iowa", "9406", "312.7", "35", "36", "1658", "55.1", "33", "31", "23", "0.8", "38", "32" ]
+, [ 466, "B8697D21-61A2-438C-B229-D1546AE3BF96", 466, 1447950184, "857768", 1447950184, "857768", null, "16", "2009", "Kansas", "10510", "372.9", "32", "27", "2505", "88.9", "28", "22", "32", "1.1", "35", "31" ]
+, [ 467, "19BABEB6-3762-4C1C-8446-55CF89417BD5", 467, 1447950184, "857768", 1447950184, "857768", null, "17", "2009", "Kentucky", "13293", "308.1", "29", "37", "3827", "88.7", "24", "23", "92", "2.1", "27", "26" ]
+, [ 468, "7C16E8D9-A7EB-4A56-AF1E-1BAD616C6DA9", 468, 1447950184, "857768", 1447950184, "857768", null, "18", "2009", "Louisiana", "27628", "615.0", "13", "3", "8996", "200.3", "11", "2", "741", "16.5", "7", "1" ]
+, [ 469, "2286BB15-AD4D-439A-B51A-6ADB6577708A", 469, 1447950184, "857768", 1447950184, "857768", null, "19", "2009", "Maine", "2431", "184.4", "46", "49", "143", "10.8", "45", "46", "4", "0.3", "43", "35" ]
+, [ 470, "16597D39-A98B-4BEB-8E0A-2200F685B65E", 470, 1447950184, "857768", 1447950184, "857768", null, "20", "2009", "Maryland", "23747", "416.7", "19", "18", "6395", "112.2", "19", "16", "314", "5.5", "13", "12" ]
+, [ 471, "4DF164DE-63F8-474D-B4CF-FA4A486FA6C2", 471, 1447950184, "857768", 1447950184, "857768", null, "21", "2009", "Massachusetts", "19315", "292.9", "25", "42", "1976", "30.0", "31", "40", "238", "3.6", "16", "15" ]
+, [ 472, "DADC5822-AAB5-4528-BC90-172519EC52E8", 472, 1447950184, "857768", 1447950184, "857768", null, "22", "2009", "Michigan", "45714", "458.5", "7", "13", "14704", "147.5", "7", "8", "230", "2.3", "19", "25" ]
+, [ 473, "1584B167-A927-42CF-81A4-DEC29BB64D96", 473, 1447950184, "857768", 1447950184, "857768", null, "23", "2009", "Minnesota", "14197", "269.6", "28", "44", "2303", "43.7", "29", "36", "71", "1.3", "29", "30" ]
+, [ 474, "CD6C2452-A9B8-4756-8BC1-8110EDE1AB5E", 474, 1447950184, "857768", 1447950184, "857768", null, "24", "2009", "Mississippi", "23589", "799.1", "20", "1", "7241", "245.3", "16", "1", "237", "8.0", "17", "5" ]
+, [ 475, "DCD6A437-042D-4B93-B107-3700990F29ED", 475, 1447950184, "857768", 1447950184, "857768", null, "25", "2009", "Missouri", "25868", "432.0", "17", "15", "6488", "108.4", "18", "18", "173", "2.9", "21", "20" ]
+, [ 476, "C4C7DB98-6308-44E5-A5DA-763204D0BC8A", 476, 1447950184, "857768", 1447950184, "857768", null, "26", "2009", "Montana", "2988", "306.5", "45", "38", "80", "8.2", "48", "48", "4", "0.4", "43", "34" ]
+, [ 477, "78532139-D78E-4E21-B2C6-64DF7794C652", 477, 1447950184, "857768", 1447950184, "857768", null, "27", "2009", "Nebraska", "5443", "303.0", "38", "39", "1376", "76.6", "34", "26", "5", "0.3", "42", "35" ]
+, [ 478, "013BBD53-706E-41EC-8D17-A6470EE9328D", 478, 1447950184, "857768", 1447950184, "857768", null, "28", "2009", "Nevada", "10045", "380.0", "33", "26", "1726", "65.3", "32", "28", "91", "3.4", "28", "17" ]
+, [ 479, "7F391447-8887-4910-9800-169670D85968", 479, 1447950184, "857768", 1447950184, "857768", null, "29", "2009", "New Hampshire", "2102", "158.7", "47", "50", "113", "8.5", "46", "47", "14", "1.1", "40", "31" ]
+, [ 480, "BFCF458C-2A6A-4F4B-B072-833D14A632CD", 480, 1447950184, "857768", 1447950184, "857768", null, "30", "2009", "New Jersey", "23974", "275.3", "18", "43", "4762", "54.7", "21", "32", "212", "2.4", "20", "24" ]
+, [ 481, "0790AE08-45CF-4D90-B08F-7128EEDA5AA0", 481, 1447950184, "857768", 1447950184, "857768", null, "31", "2009", "New Mexico", "9493", "472.4", "34", "8", "1082", "53.8", "36", "33", "61", "3.0", "31", "19" ]
+, [ 482, "42BA6D6D-6DF7-4070-9880-BD0CE40869D4", 482, 1447950184, "857768", 1447950184, "857768", null, "32", "2009", "New York", "92069", "471.1", "3", "10", "17004", "87.0", "5", "24", "1182", "6.0", "3", "9" ]
+, [ 483, "62DC41A5-E33A-47A6-80DD-5B56703028CC", 483, 1447950184, "857768", 1447950184, "857768", null, "33", "2009", "North Carolina", "41045", "437.5", "9", "14", "13870", "147.9", "8", "7", "579", "6.2", "8", "8" ]
+, [ 484, "FA2C9405-2CDE-4AE0-873F-DC1326BA6348", 484, 1447950184, "857768", 1447950184, "857768", null, "34", "2009", "North Dakota", "1957", "302.5", "49", "40", "151", "23.3", "44", "43", "4", "0.6", "43", "33" ]
+, [ 485, "BD2069B0-9E7A-4D3B-BC9E-36A9AC71F32C", 485, 1447950184, "857768", 1447950184, "857768", null, "35", "2009", "Ohio", "48239", "417.9", "6", "17", "15988", "138.5", "6", "11", "360", "3.1", "11", "18" ]
+, [ 486, "96363B3E-88D0-4718-AED3-8019426BE830", 486, 1447950184, "857768", 1447950184, "857768", null, "36", "2009", "Oklahoma", "15023", "407.5", "26", "19", "4673", "126.7", "22", "12", "97", "2.6", "26", "22" ]
+, [ 487, "D668EA93-3EF2-44C0-9C27-D7D0BD41B1EC", 487, 1447950184, "857768", 1447950184, "857768", null, "37", "2009", "Oregon", "11497", "300.5", "31", "41", "1113", "29.1", "35", "41", "57", "1.5", "32", "29" ]
+, [ 488, "7FA189BA-1408-4ED4-BDE6-DEE72FD0C84C", 488, 1447950184, "857768", 1447950184, "857768", null, "38", "2009", "Pennsylvania", "43068", "341.7", "8", "33", "10138", "80.4", "10", "25", "341", "2.7", "12", "21" ]
+, [ 489, "743E35F1-E271-4E21-89FC-7DE8D54A1BEF", 489, 1447950184, "857768", 1447950184, "857768", null, "39", "2009", "Rhode Island", "3615", "343.2", "42", "32", "322", "30.6", "43", "39", "20", "1.9", "39", "27" ]
+, [ 490, "C7B5EE4B-1C7C-417A-B313-2A86EA56F502", 490, 1447950184, "857768", 1447950184, "857768", null, "40", "2009", "South Carolina", "26654", "584.4", "14", "4", "8318", "182.4", "12", "3", "123", "2.7", "24", "21" ]
+, [ 491, "1A78754A-DB3E-4141-BD59-F45852C95090", 491, 1447950184, "857768", 1447950184, "857768", null, "41", "2009", "South Dakota", "3015", "371.1", "44", "28", "344", "42.3", "41", "37", "0", "0.0", "45", null ]
+, [ 492, "B0F71E62-1822-494E-926A-AE98F760988E", 492, 1447950184, "857768", 1447950184, "857768", null, "42", "2009", "Tennessee", "29711", "471.9", "12", "9", "7926", "125.9", "13", "13", "403", "6.4", "10", "7" ]
+, [ 493, "69D19B6D-4CCD-40D6-A9EC-86D97497F859", 493, 1447950184, "857768", 1447950184, "857768", null, "43", "2009", "Texas", "105910", "427.4", "2", "16", "29295", "118.2", "1", "14", "1644", "6.6", "2", "6" ]
+, [ 494, "3873A2B1-98E7-4FCB-B7AA-C3F14CE8D1AB", 494, 1447950184, "857768", 1447950184, "857768", null, "44", "2009", "Utah", "6145", "220.7", "36", "46", "341", "12.2", "42", "45", "31", "1.1", "36", "31" ]
+, [ 495, "BC955F70-1FAF-48AF-B51A-7E2E58598E03", 495, 1447950184, "857768", 1447950184, "857768", null, "45", "2009", "Vermont", "1186", "190.7", "50", "48", "50", "8.0", "50", "49", "0", "0.0", "45", null ]
+, [ 496, "813185B6-7399-4001-B4E6-CE248D2482FE", 496, 1447950184, "857768", 1447950184, "857768", null, "46", "2009", "Virginia", "30903", "392.0", "11", "25", "7789", "98.8", "14", "20", "299", "3.8", "14", "14" ]
+, [ 497, "A3B0D012-58B5-4D99-87DC-0075516D40B9", 497, 1447950184, "857768", 1447950184, "857768", null, "47", "2009", "Washington", "21387", "320.9", "22", "35", "2285", "34.3", "30", "38", "139", "2.1", "23", "26" ]
+, [ 498, "45702ECC-8EF0-46C6-A896-DE4356CC6F2F", 498, 1447950184, "857768", 1447950184, "857768", null, "48", "2009", "West Virginia", "3604", "198.0", "43", "47", "475", "26.1", "40", "42", "8", "0.4", "41", "34" ]
+, [ 499, "06A57ACD-5597-4D05-89C6-C19EFD085033", 499, 1447950184, "857768", 1447950184, "857768", null, "49", "2009", "Wisconsin", "20906", "369.7", "23", "29", "5201", "92.0", "20", "21", "44", "0.8", "33", "32" ]
+, [ 500, "2EE19305-ECC4-47B1-8709-C93502E8B8E3", 500, 1447950184, "857768", 1447950184, "857768", null, "50", "2009", "Wyoming", "1963", "360.7", "48", "30", "74", "13.6", "49", "44", "3", "0.6", "44", "33" ]
+, [ 501, "9B997E72-AD30-4DE6-A0D6-7D354A25BD02", 501, 1447950184, "857768", 1447950184, "857768", null, "1", "2010", "Alabama", "27041", "574.3", "14", "6", "7933", "168.5", "13", "5", "260", "5.5", "16", "10" ]
+, [ 502, "DD722A28-92FE-47ED-A920-FD0456DAA081", 502, 1447950184, "857768", 1447950184, "857768", null, "2", "2010", "Alaska", "6019", "861.7", "37", "1", "1273", "182.3", "34", "3", "3", "0.4", "44", "46" ]
+, [ 503, "07B8930F-3E69-459B-8E60-CD3D094A1770", 503, 1447950184, "857768", 1447950184, "857768", null, "3", "2010", "Arizona", "26861", "407.2", "15", "21", "3249", "49.3", "25", "36", "230", "3.5", "19", "20" ]
+, [ 504, "C30E550A-45FF-43EC-9032-54B9F9EB9858", 504, 1447950184, "857768", 1447950184, "857768", null, "4", "2010", "Arkansas", "15424", "533.8", "27", "7", "4769", "165.0", "22", "6", "205", "7.1", "21", "4" ]
+, [ 505, "3D1E5DB0-8A6C-4C09-944E-5624FF33B3E7", 505, 1447950184, "857768", 1447950184, "857768", null, "5", "2010", "California", "150443", "407.0", "1", "22", "26441", "71.5", "2", "27", "2065", "5.6", "1", "9" ]
+, [ 506, "E378AF15-2649-4682-A418-FB22F915A563", 506, 1447950184, "857768", 1447950184, "857768", null, "6", "2010", "Colorado", "19447", "387.0", "25", "28", "2787", "55.5", "27", "35", "138", "2.7", "27", "27" ]
+, [ 507, "9FD29C0E-D104-42E6-A6D0-EDFEF9E475D7", 507, 1447950184, "857768", 1447950184, "857768", null, "7", "2010", "Connecticut", "12649", "359.5", "30", "33", "2569", "73.0", "28", "26", "98", "2.8", "29", "26" ]
+, [ 508, "BCD97B2A-490B-4DF2-BE68-ED3E9F16C10B", 508, 1447950184, "857768", 1447950184, "857768", null, "8", "2010", "Delaware", "4464", "504.3", "40", "9", "1010", "114.1", "38", "16", "9", "1.0", "41", "38" ]
+, [ 509, "EFEE4ACE-C653-413F-A8A0-1CB2C347E750", 509, 1447950184, "857768", 1447950184, "857768", null, "9", "2010", "Florida", "74744", "403.2", "4", "23", "20163", "108.8", "3", "18", "1184", "6.4", "3", "6" ]
+, [ 510, "CC88EF5C-49CB-47AA-938B-5CEF6EEB242B", 510, 1447950184, "857768", 1447950184, "857768", null, "10", "2010", "Georgia", "45147", "459.3", "9", "15", "15852", "161.3", "6", "7", "795", "8.1", "6", "2" ]
+, [ 511, "BE9679D5-F23D-44FD-9644-E6E8748FB3C0", 511, 1447950184, "857768", 1447950184, "857768", null, "11", "2010", "Hawaii", "6015", "464.4", "38", "13", "759", "58.6", "39", "33", "35", "2.7", "36", "29" ]
+, [ 512, "84575AF7-633D-4D27-9C29-0333670F5FB1", 512, 1447950184, "857768", 1447950184, "857768", null, "12", "2010", "Idaho", "4208", "272.2", "41", "45", "147", "9.5", "47", "48", "6", "0.4", "42", "47" ]
+, [ 513, "58C898CE-88F6-4E00-989E-C60ED4284FB4", 513, 1447950184, "857768", 1447950184, "857768", null, "13", "2010", "Illinois", "60672", "469.9", "5", "12", "15777", "122.2", "7", "13", "908", "7.0", "5", "5" ]
+, [ 514, "86502CE4-5238-4050-9EEE-0CF551086846", 514, 1447950184, "857768", 1447950184, "857768", null, "14", "2010", "Indiana", "22825", "355.4", "21", "34", "6496", "101.1", "18", "20", "175", "2.7", "22", "28" ]
+, [ 515, "7CDFB637-1053-4A82-AE71-00D79B3EA693", 515, 1447950184, "857768", 1447950184, "857768", null, "15", "2010", "Iowa", "10542", "350.5", "33", "35", "1803", "59.9", "32", "32", "19", "0.6", "39", "43" ]
+, [ 516, "8974C96B-57F3-4D87-8D46-224B05971B39", 516, 1447950184, "857768", 1447950184, "857768", null, "16", "2010", "Kansas", "9601", "340.6", "35", "36", "2084", "73.9", "31", "25", "19", "0.7", "39", "40" ]
+, [ 517, "2BF8B657-E1E2-4876-8AB5-E92268E355E2", 517, 1447950184, "857768", 1447950184, "857768", null, "17", "2010", "Kentucky", "16376", "379.6", "26", "29", "4345", "100.7", "24", "21", "139", "3.2", "26", "22" ]
+, [ 518, "6E34CC04-564C-4746-92B1-D62A14416757", 518, 1447950184, "857768", 1447950184, "857768", null, "18", "2010", "Louisiana", "29151", "648.9", "12", "3", "8912", "198.4", "11", "2", "546", "12.2", "7", "1" ]
+, [ 519, "9304B3DF-F5B5-4D73-BD7C-FD655D0C45B1", 519, 1447950184, "857768", 1447950184, "857768", null, "19", "2010", "Maine", "2586", "196.2", "46", "49", "162", "12.3", "45", "44", "32", "2.4", "37", "33" ]
+, [ 520, "DFAB8427-E65B-4566-A52B-7B8164C31E73", 520, 1447950184, "857768", 1447950184, "857768", null, "20", "2010", "Maryland", "26192", "459.6", "17", "14", "7413", "130.1", "14", "11", "328", "5.8", "11", "7" ]
+, [ 521, "413DC028-96FD-479A-A4E6-FC6D9D1A29D0", 521, 1447950184, "857768", 1447950184, "857768", null, "21", "2010", "Massachusetts", "21080", "319.7", "24", "40", "2483", "37.7", "29", "39", "285", "4.3", "12", "15" ]
+, [ 522, "3D952D36-0DB6-4620-90C6-5100D92C627A", 522, 1447950185, "857768", 1447950185, "857768", null, "22", "2010", "Michigan", "49478", "496.3", "7", "10", "13627", "136.7", "9", "10", "235", "2.4", "18", "34" ]
+, [ 523, "8010B1A2-A769-4CCE-AF4D-19A9E9BBE571", 523, 1447950185, "857768", 1447950185, "857768", null, "23", "2010", "Minnesota", "15294", "290.4", "28", "43", "2119", "40.2", "30", "38", "149", "2.8", "25", "24" ]
+, [ 524, "9A6452E3-DDDC-4619-A67B-85A0B5BCF0E9", 524, 1447950185, "857768", 1447950185, "857768", null, "24", "2010", "Mississippi", "21417", "725.5", "22", "2", "6195", "209.9", "19", "1", "228", "7.7", "20", "3" ]
+, [ 525, "3FAFDC4D-F43F-4AC1-B7F1-4A7BEB4AB9A6", 525, 1447950185, "857768", 1447950185, "857768", null, "25", "2010", "Missouri", "26049", "435.1", "19", "19", "7159", "119.6", "16", "14", "152", "2.5", "24", "31" ]
+, [ 526, "F720BB0F-9F1F-471A-9145-930384C72360", 526, 1447950185, "857768", 1447950185, "857768", null, "26", "2010", "Montana", "3082", "316.1", "45", "41", "102", "10.5", "48", "47", "3", "0.3", "44", "49" ]
+, [ 527, "046533A1-9CE4-49FA-A317-457F1CB63443", 527, 1447950185, "857768", 1447950185, "857768", null, "27", "2010", "Nebraska", "5114", "284.6", "39", "44", "1187", "66.1", "36", "29", "12", "0.7", "40", "41" ]
+, [ 528, "79D1CA14-41AB-472B-B073-9DC98307AA94", 528, 1447950185, "857768", 1447950185, "857768", null, "28", "2010", "Nevada", "9666", "365.7", "34", "32", "1728", "65.4", "33", "30", "130", "4.9", "28", "12" ]
+, [ 529, "F7C2EBA5-846E-46E7-92DB-D546065C37AC", 529, 1447950185, "857768", 1447950185, "857768", null, "29", "2010", "New Hampshire", "2462", "185.9", "47", "50", "151", "11.4", "46", "45", "22", "1.7", "38", "37" ]
+, [ 530, "58AEB41D-3ADE-4282-BABF-57C47E3326BD", 530, 1447950185, "857768", 1447950185, "857768", null, "30", "2010", "New Jersey", "26142", "300.2", "18", "42", "5872", "67.4", "20", "28", "244", "2.8", "17", "25" ]
+, [ 531, "F13FDEDE-9DC7-4324-8D73-FBA9067A4F22", 531, 1447950185, "857768", 1447950185, "857768", null, "31", "2010", "New Mexico", "11706", "582.5", "32", "4", "1229", "61.2", "35", "31", "53", "2.6", "33", "30" ]
+, [ 532, "13CBF96E-EA71-44EF-A13C-53182EF90747", 532, 1447950185, "857768", 1447950185, "857768", null, "32", "2010", "New York", "99920", "511.3", "3", "8", "18320", "93.7", "4", "23", "1098", "5.6", "4", "8" ]
+, [ 533, "E20F56A8-B000-4132-8207-1C7F191E01B6", 533, 1447950185, "857768", 1447950185, "857768", null, "33", "2010", "North Carolina", "42048", "448.2", "10", "17", "14111", "150.4", "8", "8", "396", "4.2", "9", "16" ]
+, [ 534, "351F1227-B48C-42B1-9BE3-FB3E21710EF1", 534, 1447950185, "857768", 1447950185, "857768", null, "34", "2010", "North Dakota", "2404", "371.7", "48", "31", "204", "31.5", "44", "41", "3", "0.5", "44", "45" ]
+, [ 535, "72E151FF-1F54-46FB-BD0F-96F9576A85D6", 535, 1447950185, "857768", 1447950185, "857768", null, "35", "2010", "Ohio", "51150", "443.1", "6", "18", "16496", "142.9", "5", "9", "528", "4.6", "8", "13" ]
+, [ 536, "CA0191B5-C278-474F-9DEC-686B76755DD9", 536, 1447950185, "857768", 1447950185, "857768", null, "36", "2010", "Oklahoma", "14302", "387.9", "29", "27", "4369", "118.5", "23", "15", "92", "2.5", "30", "32" ]
+, [ 537, "F256C3A1-12FB-479D-A608-542EE145EFA1", 537, 1447950185, "857768", 1447950185, "857768", null, "37", "2010", "Oregon", "12352", "322.9", "31", "38", "1076", "28.1", "37", "42", "71", "1.9", "31", "36" ]
+, [ 538, "66A72A1F-1501-49AE-93FD-BA17809F73B5", 538, 1447950185, "857768", 1447950185, "857768", null, "38", "2010", "Pennsylvania", "47518", "377.0", "8", "30", "12883", "102.2", "10", "19", "369", "2.9", "10", "23" ]
+, [ 539, "05C090A5-A568-4F9A-BAE2-B89C4FB989F5", 539, 1447950185, "857768", 1447950185, "857768", null, "39", "2010", "Rhode Island", "3480", "330.4", "43", "37", "291", "27.6", "43", "43", "41", "3.9", "35", "18" ]
+, [ 540, "B5046E6D-B604-4F88-91FF-44F6DD7850E7", 540, 1447950185, "857768", 1447950185, "857768", null, "40", "2010", "South Carolina", "26525", "581.5", "16", "5", "7970", "174.7", "12", "4", "155", "3.4", "23", "21" ]
+, [ 541, "FBD33E20-DEAF-48CA-813F-8EC77082F055", 541, 1447950185, "857768", 1447950185, "857768", null, "41", "2010", "South Dakota", "3192", "392.9", "44", "24", "468", "57.6", "41", "34", "4", "0.5", "43", "44" ]
+, [ 542, "3257B6FE-D273-404E-A381-1D2D6DF9AB2A", 542, 1447950185, "857768", 1447950185, "857768", null, "42", "2010", "Tennessee", "28327", "449.9", "13", "16", "7121", "113.1", "17", "17", "277", "4.4", "14", "14" ]
+, [ 543, "9A85BE71-4BE6-4EA2-A99D-74A51BA1B672", 543, 1447950185, "857768", 1447950185, "857768", null, "43", "2010", "Texas", "119872", "483.7", "2", "11", "31788", "128.3", "1", "12", "1230", "5.0", "2", "11" ]
+, [ 544, "100238FE-026B-42B0-86E7-49E1814B8590", 544, 1447950185, "857768", 1447950185, "857768", null, "44", "2010", "Utah", "6690", "240.3", "36", "46", "310", "11.1", "42", "46", "65", "2.3", "32", "35" ]
+, [ 545, "D8DC312A-F8A3-4413-AE86-06107D99B4C8", 545, 1447950185, "857768", 1447950185, "857768", null, "45", "2010", "Vermont", "1257", "202.2", "50", "48", "58", "9.3", "49", "49", "4", "0.6", "43", "42" ]
+, [ 546, "BA54637E-ACED-4D38-9BC0-1D9C7291ACF6", 546, 1447950185, "857768", 1447950185, "857768", null, "46", "2010", "Virginia", "30797", "390.7", "11", "25", "7402", "93.9", "15", "22", "279", "3.5", "13", "19" ]
+, [ 547, "58C77F7D-18FE-46E3-AB28-21C0DE86F6AD", 547, 1447950185, "857768", 1447950185, "857768", null, "47", "2010", "Washington", "21348", "320.3", "23", "39", "2864", "43.0", "26", "37", "266", "4.0", "15", "17" ]
+, [ 548, "AC87C0FF-5590-4C9A-8262-F617CC8B457A", 548, 1447950185, "857768", 1447950185, "857768", null, "48", "2010", "West Virginia", "3876", "213.0", "42", "47", "579", "31.8", "40", "40", "6", "0.3", "42", "48" ]
+, [ 549, "D7142481-56AD-453F-888B-A713CCE84ABA", 549, 1447950185, "857768", 1447950185, "857768", null, "49", "2010", "Wisconsin", "23236", "410.9", "20", "20", "5091", "90.0", "21", "24", "49", "0.9", "34", "39" ]
+, [ 550, "D066D32F-A541-4695-9F5D-1632D27422A5", 550, 1447950185, "857768", 1447950185, "857768", null, "50", "2010", "Wyoming", "2113", "388.2", "49", "26", "40", "7.3", "50", "50", "0", "0.0", "45", null ]
+, [ 551, "290E2CDA-7926-4829-85CA-3A3FFA4DE89B", 551, 1447950185, "857768", 1447950185, "857768", null, "1", "2011", "Alabama", "29626", "619.8", "14", "5", "9132", "191.1", "12", "3", "228", "4.8", "18", "13" ]
+, [ 552, "C05A62BB-EFCA-4D58-B8EE-96B7088E1A57", 552, 1447950185, "857768", 1447950185, "857768", null, "2", "2011", "Alaska", "5739", "808.0", "39", "1", "984", "138.5", "37", "9", "5", "0.7", "46", "43" ]
+, [ 553, "A50218DA-9D6C-4408-AA3D-53623589BB75", 553, 1447950185, "857768", 1447950185, "857768", null, "3", "2011", "Arizona", "29251", "457.6", "15", "18", "4564", "71.4", "23", "32", "274", "4.3", "15", "18" ]
+, [ 554, "1C4CC99F-ED24-4BA3-B672-599A342A66B7", 554, 1447950185, "857768", 1447950185, "857768", null, "4", "2011", "Arkansas", "16052", "550.5", "28", "9", "4687", "160.7", "22", "7", "182", "6.2", "22", "8" ]
+, [ 555, "F12D29CD-B76E-4175-863F-6FDCE6F9A55D", 555, 1447950185, "857768", 1447950185, "857768", null, "5", "2011", "California", "166773", "447.7", "1", "21", "27516", "73.9", "2", "31", "2443", "6.6", "1", "6" ]
+, [ 556, "0131E769-0CCF-4E19-B693-DBD4BE71912F", 556, 1447950185, "857768", 1447950185, "857768", null, "6", "2011", "Colorado", "21811", "433.7", "24", "23", "2363", "47.0", "28", "36", "133", "2.6", "27", "28" ]
+, [ 557, "11FB5960-D89F-4370-8109-59FC0BB61C24", 557, 1447950185, "857768", 1447950185, "857768", null, "7", "2011", "Connecticut", "13649", "381.9", "30", "33", "2449", "68.5", "27", "33", "65", "1.8", "32", "34" ]
+, [ 558, "2635BE59-0CB7-480A-8FB0-9B528F4BBCEF", 558, 1447950185, "857768", 1447950185, "857768", null, "8", "2011", "Delaware", "4508", "502.0", "41", "12", "827", "92.1", "38", "22", "27", "3.0", "35", "22" ]
+, [ 559, "00B18E92-D3F2-4554-8CA2-4D12767ED03D", 559, 1447950185, "857768", 1447950185, "857768", null, "9", "2011", "Florida", "76033", "404.4", "4", "28", "19689", "104.7", "4", "19", "1257", "6.7", "2", "5" ]
+, [ 560, "A677F593-52C9-411C-B4B2-F9ED99C9EE05", 560, 1447950185, "857768", 1447950185, "857768", null, "10", "2011", "Georgia", "54403", "561.6", "7", "7", "16428", "169.6", "8", "6", "678", "7.0", "6", "3" ]
+, [ 561, "1631BDEC-E4B3-44D7-9DAF-377FA20E9CF2", 561, 1447950185, "857768", 1447950185, "857768", null, "11", "2011", "Hawaii", "6001", "441.2", "38", "22", "685", "50.4", "40", "35", "14", "1.0", "39", "38" ]
+, [ 562, "5BC2CE60-07EC-45D2-B03D-6AC5E2C06515", 562, 1447950185, "857768", 1447950185, "857768", null, "12", "2011", "Idaho", "4699", "299.8", "40", "44", "162", "10.3", "46", "45", "13", "0.8", "41", "41" ]
+, [ 563, "35390C52-4C72-434C-8A1B-238E29BADFFF", 563, 1447950185, "857768", 1447950185, "857768", null, "13", "2011", "Illinois", "64939", "506.1", "5", "11", "17037", "132.8", "6", "10", "881", "6.9", "5", "4" ]
+, [ 564, "D971DB7F-400B-4406-AD38-A709DB1BE520", 564, 1447950185, "857768", 1447950185, "857768", null, "14", "2011", "Indiana", "27801", "428.8", "18", "25", "6569", "101.3", "17", "21", "173", "2.7", "23", "26" ]
+, [ 565, "E3383732-BE2D-47FF-8EBB-8DCEFA84772F", 565, 1447950185, "857768", 1447950185, "857768", null, "15", "2011", "Iowa", "10705", "351.4", "33", "39", "1920", "63.0", "33", "34", "20", "0.7", "37", "44" ]
+, [ 566, "1D3B169C-C55C-46FF-BF22-A3FB48FCFF7B", 566, 1447950185, "857768", 1447950185, "857768", null, "16", "2011", "Kansas", "10598", "371.5", "34", "34", "2209", "77.4", "31", "27", "24", "0.8", "36", "40" ]
+, [ 567, "F3DEFD71-77B0-41FC-B9FF-CFC4852A93FB", 567, 1447950185, "857768", 1447950185, "857768", null, "17", "2011", "Kentucky", "16629", "383.2", "27", "32", "4521", "104.2", "24", "20", "129", "3.0", "28", "23" ]
+, [ 568, "8AC0EF75-5D8D-44D4-8DA7-8801309A0D7E", 568, 1447950185, "857768", 1447950185, "857768", null, "18", "2011", "Louisiana", "31614", "697.4", "12", "3", "9169", "202.3", "11", "1", "447", "9.9", "8", "1" ]
+, [ 569, "7590572B-CE6E-44CF-A4D3-BEE36E33EC86", 569, 1447950185, "857768", 1447950185, "857768", null, "19", "2011", "Maine", "3094", "232.9", "46", "48", "272", "20.5", "44", "44", "12", "0.9", "42", "39" ]
+, [ 570, "70D85F5B-3687-45A3-96D6-7BC2D596FEBF", 570, 1447950185, "857768", 1447950185, "857768", null, "20", "2011", "Maryland", "27212", "471.3", "19", "16", "6458", "111.9", "19", "16", "452", "7.8", "7", "2" ]
+, [ 571, "93F9F3EC-BFD3-4F35-A207-4E8315893726", 571, 1447950185, "857768", 1447950185, "857768", null, "21", "2011", "Massachusetts", "22764", "347.7", "23", "40", "2353", "35.9", "29", "42", "266", "4.1", "16", "19" ]
+, [ 572, "D2F15DA3-46FB-4B48-9AFC-234DF21CC8AF", 572, 1447950185, "857768", 1447950185, "857768", null, "22", "2011", "Michigan", "49568", "501.5", "10", "13", "12901", "130.5", "10", "11", "286", "2.9", "13", "25" ]
+, [ 573, "89EEB8A4-44F9-4E36-8B24-6A2EDEBA59E4", 573, 1447950185, "857768", 1447950185, "857768", null, "23", "2011", "Minnesota", "16902", "318.7", "26", "43", "2284", "43.1", "30", "37", "139", "2.6", "24", "30" ]
+, [ 574, "743A0609-A4EA-4629-9339-3E87D03E1B6B", 574, 1447950185, "857768", 1447950185, "857768", null, "24", "2011", "Mississippi", "21216", "715.0", "25", "2", "5814", "195.9", "20", "2", "191", "6.4", "21", "7" ]
+, [ 575, "4CAAB97A-3EA3-42D6-AFBC-1B900C15B84A", 575, 1447950185, "857768", 1447950185, "857768", null, "25", "2011", "Missouri", "27887", "465.6", "17", "17", "7802", "130.3", "14", "12", "136", "2.3", "25", "32" ]
+, [ 576, "BF5F8531-A157-458B-9267-5E3E27111B72", 576, 1447950185, "857768", 1447950185, "857768", null, "26", "2011", "Montana", "3406", "344.2", "45", "42", "85", "8.6", "48", "48", "7", "0.7", "45", "42" ]
+, [ 577, "7D8265FC-6EB8-45B7-828D-DFAC9D322F71", 577, 1447950185, "857768", 1447950185, "857768", null, "27", "2011", "Nebraska", "6780", "371.2", "37", "35", "1352", "74.0", "36", "29", "10", "0.5", "43", "45" ]
+, [ 578, "4FA1E16E-95DB-49F0-93A9-293CDFC48D94", 578, 1447950185, "857768", 1447950185, "857768", null, "28", "2011", "Nevada", "10507", "389.1", "35", "31", "2000", "74.1", "32", "28", "136", "5.0", "26", "10" ]
+, [ 579, "95FC34BB-4C15-4953-9D21-0D9ACAAB00B0", 579, 1447950185, "857768", 1447950185, "857768", null, "29", "2011", "New Hampshire", "3010", "228.6", "47", "50", "130", "9.9", "47", "47", "18", "1.4", "38", "36" ]
+, [ 580, "A4DBD14C-5CC6-4CB2-9327-4F799AE453AA", 580, 1447950185, "857768", 1447950185, "857768", null, "30", "2011", "New Jersey", "26209", "298.1", "20", "45", "7348", "83.6", "16", "25", "232", "2.6", "17", "29" ]
+, [ 581, "60BC3C4E-6C46-49BE-BE16-06A47C0DE673", 581, 1447950185, "857768", 1447950185, "857768", null, "31", "2011", "New Mexico", "11374", "552.4", "32", "8", "1839", "89.3", "34", "23", "71", "3.4", "31", "21" ]
+, [ 582, "89505D3B-AF9F-421B-8850-3FD129B0D89D", 582, 1447950185, "857768", 1447950185, "857768", null, "32", "2011", "New York", "102763", "530.3", "3", "10", "20706", "106.9", "3", "18", "1083", "5.6", "4", "9" ]
+, [ 583, "F6591856-1AB0-488A-9C4C-DD70F6561A4B", 583, 1447950185, "857768", 1447950185, "857768", null, "33", "2011", "North Carolina", "54819", "574.9", "6", "6", "17454", "183.0", "5", "4", "431", "4.5", "10", "15" ]
+, [ 584, "3AADFE57-D3B2-4090-BC88-5CCC7C760A4E", 584, 1447950185, "857768", 1447950185, "857768", null, "34", "2011", "North Dakota", "2445", "363.5", "48", "37", "251", "37.3", "45", "41", "1", "0.1", "48", "48" ]
+, [ 585, "85950FFE-6969-4A39-9D95-A4B5B461D606", 585, 1447950185, "857768", 1447950185, "857768", null, "35", "2011", "Ohio", "52653", "456.4", "9", "19", "16726", "145.0", "7", "8", "440", "3.8", "9", "20" ]
+, [ 586, "A547ACC0-A920-42A0-AA4B-8B5B0B6979D6", 586, 1447950185, "857768", 1447950185, "857768", null, "36", "2011", "Oklahoma", "14596", "389.1", "29", "30", "4215", "112.4", "25", "15", "84", "2.2", "30", "33" ]
+, [ 587, "04BDD291-963F-4F26-BCE5-6DC6E70BF420", 587, 1447950185, "857768", 1447950185, "857768", null, "37", "2011", "Oregon", "13643", "356.1", "31", "38", "1489", "38.9", "35", "40", "97", "2.5", "29", "31" ]
+, [ 588, "8A30FB6E-F1E4-43C9-AF68-DB0A7975A9AA", 588, 1447950185, "857768", 1447950185, "857768", null, "38", "2011", "Pennsylvania", "52884", "416.3", "8", "27", "13770", "108.4", "9", "17", "373", "2.9", "11", "24" ]
+, [ 589, "640FF8C8-88A5-4304-8D51-62435B180C04", 589, 1447950185, "857768", 1447950185, "857768", null, "39", "2011", "Rhode Island", "4146", "393.9", "43", "29", "360", "34.2", "42", "43", "46", "4.4", "34", "17" ]
+, [ 590, "447A0CC6-76A5-4932-898D-CEEE336F76A4", 590, 1447950185, "857768", 1447950185, "857768", null, "40", "2011", "South Carolina", "28932", "625.5", "16", "4", "8350", "180.5", "13", "5", "221", "4.8", "19", "12" ]
+, [ 591, "47807E8F-9459-415C-A86C-5DF2B3A5FF4F", 591, 1447950185, "857768", 1447950185, "857768", null, "41", "2011", "South Dakota", "3409", "418.7", "44", "26", "602", "73.9", "41", "30", "0", "0.0", "49", null ]
+, [ 592, "8385BF22-92CE-493B-9536-E1940B917C4E", 592, 1447950185, "857768", 1447950185, "857768", null, "42", "2011", "Tennessee", "31105", "490.1", "13", "15", "7667", "120.8", "15", "14", "278", "4.4", "14", "16" ]
+, [ 593, "DF931E04-B6C2-4673-A481-46EF8ECFF7AD", 593, 1447950185, "857768", 1447950185, "857768", null, "43", "2011", "Texas", "124882", "496.6", "2", "14", "30930", "123.0", "1", "13", "1169", "4.6", "3", "14" ]
+, [ 594, "7435FDDC-68F3-4765-8306-8F4AC53A414D", 594, 1447950185, "857768", 1447950185, "857768", null, "44", "2011", "Utah", "7086", "256.4", "36", "46", "277", "10.0", "43", "46", "14", "0.5", "40", "46" ]
+, [ 595, "21F4B25B-9890-4D7D-AC16-95F0EDCC4A31", 595, 1447950185, "857768", 1447950185, "857768", null, "45", "2011", "Vermont", "1483", "237.0", "50", "47", "48", "7.7", "49", "50", "9", "1.4", "44", "35" ]
+, [ 596, "DCCD9742-6CC9-4A93-BEE5-F7FC97A8378B", 596, 1447950185, "857768", 1447950185, "857768", null, "46", "2011", "Virginia", "36314", "453.9", "11", "20", "6518", "81.5", "18", "26", "213", "2.7", "20", "27" ]
+, [ 597, "8D2E5785-A26C-4BD3-B78C-52A44B0A2D6D", 597, 1447950185, "857768", 1447950185, "857768", null, "47", "2011", "Washington", "23280", "346.2", "22", "41", "2737", "40.7", "26", "39", "328", "4.9", "12", "11" ]
+, [ 598, "38FDB370-B3BB-4C5B-88E9-47FB88C0B0A5", 598, 1447950185, "857768", 1447950185, "857768", null, "48", "2011", "West Virginia", "4295", "231.8", "42", "49", "796", "43.0", "39", "38", "4", "0.2", "47", "47" ]
+, [ 599, "06718098-4D1D-4A65-9D53-1FAE287DCBE3", 599, 1447950185, "857768", 1447950185, "857768", null, "49", "2011", "Wisconsin", "24619", "432.9", "21", "24", "4789", "84.2", "21", "24", "65", "1.1", "33", "37" ]
+, [ 600, "E37F96F8-FF13-4627-B3CA-94BCA08D0690", 600, 1447950185, "857768", 1447950185, "857768", null, "50", "2011", "Wyoming", "2092", "371.2", "49", "36", "46", "8.2", "50", "49", "0", "0.0", "50", null ]
+, [ 601, "9BBAD636-37CD-40F6-8532-38706BE1B0E3", 601, 1447950185, "857768", 1447950185, "857768", null, "1", "2012", "Alabama", "30621", "637.6", "13", "3", "9270", "193.0", "11", "3", "216", "4.5", "20", "15" ]
+, [ 602, "BA0C2AD6-E1FA-4B95-BA7E-74E848D6973C", 602, 1447950185, "857768", 1447950185, "857768", null, "2", "2012", "Alaska", "5462", "755.8", "39", "2", "726", "100.5", "40", "19", "11", "1.5", "43", "41" ]
+, [ 603, "B4749E59-B104-436F-A987-DD178455A436", 603, 1447950185, "857768", 1447950185, "857768", null, "3", "2012", "Arizona", "30444", "469.6", "14", "17", "5809", "89.6", "20", "24", "202", "3.1", "23", "28" ]
+, [ 604, "FB1DAAA6-1A0A-46F2-8F0C-A33D0E41D3A9", 604, 1447950185, "857768", 1447950185, "857768", null, "4", "2012", "Arkansas", "16611", "565.4", "29", "7", "4307", "146.6", "24", "7", "173", "5.9", "24", "9" ]
+, [ 605, "57C498C5-1BB7-42CF-9606-CAB07735D16E", 605, 1447950185, "857768", 1447950185, "857768", null, "5", "2012", "California", "167695", "444.9", "1", "23", "33579", "89.1", "1", "25", "2953", "7.8", "1", "2" ]
+, [ 606, "998A95FB-1690-4C77-876D-6FE5680957EA", 606, 1447950185, "857768", 1447950185, "857768", null, "6", "2012", "Colorado", "21631", "422.7", "25", "28", "2822", "55.2", "28", "37", "208", "4.1", "22", "21" ]
+, [ 607, "3FBF6F64-B4BC-4868-A518-FC2DCCF54D17", 607, 1447950185, "857768", 1447950185, "857768", null, "7", "2012", "Connecticut", "13065", "364.9", "31", "39", "2133", "59.6", "32", "34", "55", "1.5", "33", "40" ]
+, [ 608, "EA46C007-B8C9-4A60-ADF1-EF1FB7330066", 608, 1447950185, "857768", 1447950185, "857768", null, "8", "2012", "Delaware", "4438", "489.2", "42", "14", "899", "99.1", "37", "20", "38", "4.2", "36", "17" ]
+, [ 609, "16D87575-27E1-4AE6-ACF5-8E26C4DA9C6D", 609, 1447950185, "857768", 1447950185, "857768", null, "9", "2012", "Florida", "77644", "407.4", "4", "32", "19462", "102.1", "4", "18", "1369", "7.2", "3", "5" ]
+, [ 610, "0313C49D-D16E-40FC-A695-F1704399D1DA", 610, 1447950185, "857768", 1447950185, "857768", null, "10", "2012", "Georgia", "52418", "534.0", "8", "8", "15326", "156.1", "8", "5", "937", "9.5", "5", "1" ]
+, [ 611, "2C751513-A0C4-414C-A8AD-FA91ABB4B024", 611, 1447950185, "857768", 1447950185, "857768", null, "11", "2012", "Hawaii", "6340", "461.2", "38", "19", "815", "59.3", "39", "35", "23", "1.7", "40", "37" ]
+, [ 612, "90230828-1049-4618-95ED-21CE4F8BEB56", 612, 1447950185, "857768", 1447950185, "857768", null, "12", "2012", "Idaho", "4550", "287.1", "41", "45", "167", "10.5", "46", "49", "26", "1.6", "38", "38" ]
+, [ 613, "684B12F7-D5CA-4A78-80E9-9FA1B3A9728E", 613, 1447950185, "857768", 1447950185, "857768", null, "13", "2012", "Illinois", "67701", "526.1", "5", "9", "18149", "141.0", "5", "10", "804", "6.2", "6", "8" ]
+, [ 614, "469F4A42-F243-4E95-89CF-E9988B1968C8", 614, 1447950185, "857768", 1447950185, "857768", null, "14", "2012", "Indiana", "29505", "452.7", "15", "22", "7338", "112.6", "17", "17", "224", "3.4", "19", "26" ]
+, [ 615, "31FF4350-903A-42FD-81F7-C16A06BE93E9", 615, 1447950185, "857768", 1447950185, "857768", null, "15", "2012", "Iowa", "11377", "371.5", "33", "36", "2006", "65.5", "33", "33", "70", "2.3", "32", "33" ]
+, [ 616, "B74EFC20-A81F-4016-83DD-C21E6FCDBAE1", 616, 1447950185, "857768", 1447950185, "857768", null, "16", "2012", "Kansas", "11135", "387.8", "35", "34", "2228", "77.6", "31", "31", "24", "0.8", "39", "45" ]
+, [ 617, "CCA0280B-263C-4503-8AFC-064B2A10B3C5", 617, 1447950185, "857768", 1447950185, "857768", null, "17", "2012", "Kentucky", "17273", "395.3", "27", "33", "4283", "98.0", "25", "21", "150", "3.4", "26", "27" ]
+, [ 618, "435418CA-2A36-49FE-9475-F87F8F31E353", 618, 1447950185, "857768", 1447950185, "857768", null, "18", "2012", "Louisiana", "27353", "597.9", "17", "4", "8873", "194.0", "13", "2", "339", "7.4", "11", "3" ]
+, [ 619, "1FB302AD-3420-4905-A434-CBC3316D278C", 619, 1447950185, "857768", 1447950185, "857768", null, "19", "2012", "Maine", "3413", "257.0", "46", "49", "456", "34.3", "44", "44", "17", "1.3", "42", "43" ]
+, [ 620, "1B76AFA4-F253-4F27-BE91-36524453A685", 620, 1447950185, "857768", 1447950185, "857768", null, "20", "2012", "Maryland", "26534", "455.3", "20", "21", "5686", "97.6", "21", "22", "431", "7.4", "8", "4" ]
+, [ 621, "B7C1032E-A573-48F9-A99B-7DD5B2F838B2", 621, 1447950185, "857768", 1447950185, "857768", null, "21", "2012", "Massachusetts", "23550", "357.5", "23", "41", "2628", "39.9", "29", "42", "316", "4.8", "12", "14" ]
+, [ 622, "3920E2C0-7E55-4436-B24D-3B0B6577E1FD", 622, 1447950185, "857768", 1447950185, "857768", null, "22", "2012", "Michigan", "47566", "481.6", "10", "15", "12584", "127.4", "10", "12", "295", "3.0", "14", "29" ]
+, [ 623, "CCCB05B9-4D61-4A80-8225-B49028D8581A", 623, 1447950185, "857768", 1447950185, "857768", null, "23", "2012", "Minnesota", "18056", "337.8", "26", "43", "3082", "57.7", "27", "36", "118", "2.2", "27", "34" ]
+, [ 624, "75FE1C24-9EAA-4415-9DD8-486974D7D4BE", 624, 1447950185, "857768", 1447950185, "857768", null, "24", "2012", "Mississippi", "23054", "774.0", "24", "1", "6875", "230.8", "19", "1", "150", "5.0", "26", "11" ]
+, [ 625, "781F6979-AEFA-4DF2-9CE5-929F86ACFE71", 625, 1447950185, "857768", 1447950185, "857768", null, "25", "2012", "Missouri", "27835", "463.1", "16", "18", "7889", "131.2", "14", "11", "157", "2.6", "25", "31" ]
+, [ 626, "ECCABB5F-B493-4B84-9A97-5AD8A12DEC16", 626, 1447950185, "857768", 1447950185, "857768", null, "26", "2012", "Montana", "3827", "383.4", "45", "35", "108", "10.8", "48", "48", "2", "0.2", "47", "50" ]
+, [ 627, "4FF875BF-EDC1-4D36-A82C-ADEBCF520103", 627, 1447950185, "857768", 1447950185, "857768", null, "27", "2012", "Nebraska", "6748", "366.2", "37", "38", "1429", "77.6", "36", "32", "8", "0.4", "44", "48" ]
+, [ 628, "AEB906C3-486C-4094-B17A-02DC58821E5F", 628, 1447950185, "857768", 1447950185, "857768", null, "28", "2012", "Nevada", "11137", "408.9", "34", "31", "2264", "83.1", "30", "29", "113", "4.1", "28", "20" ]
+, [ 629, "6C88370E-420C-4F5A-A6CC-C9653B6EB37B", 629, 1447950185, "857768", 1447950185, "857768", null, "29", "2012", "New Hampshire", "3072", "233.0", "47", "50", "147", "11.2", "47", "47", "36", "2.7", "37", "30" ]
+, [ 630, "118C51BF-B32C-46C6-B18F-1469E1B22D39", 630, 1447950185, "857768", 1447950185, "857768", null, "30", "2012", "New Jersey", "27271", "309.2", "18", "44", "7486", "84.9", "16", "28", "229", "2.6", "17", "32" ]
+, [ 631, "C11A6666-EFD1-4ECF-9281-C54F67E8FCA0", 631, 1447950185, "857768", 1447950185, "857768", null, "31", "2012", "New Mexico", "11898", "571.4", "32", "6", "1883", "90.4", "34", "23", "101", "4.9", "29", "12" ]
+, [ 632, "AEA07D4A-68ED-498E-A547-85B00BD85BFD", 632, 1447950185, "857768", 1447950185, "857768", null, "32", "2012", "New York", "100546", "516.5", "3", "11", "22571", "116.0", "3", "16", "1224", "6.3", "4", "7" ]
+, [ 633, "B0F9F29A-6ED3-4E3E-A7DD-DD933A9AAE77", 633, 1447950185, "857768", 1447950185, "857768", null, "33", "2012", "North Carolina", "50596", "524.0", "9", "10", "14318", "148.3", "9", "6", "347", "3.6", "10", "24" ]
+, [ 634, "F0252157-4E46-4BDB-B249-41A045E60599", 634, 1447950185, "857768", 1447950185, "857768", null, "34", "2012", "North Dakota", "2908", "425.2", "48", "27", "335", "49.0", "45", "38", "4", "0.6", "46", "47" ]
+, [ 635, "4BCCB128-6C7F-4C22-B31C-3773C9048D16", 635, 1447950185, "857768", 1447950185, "857768", null, "35", "2012", "Ohio", "53141", "460.3", "7", "20", "16493", "142.9", "6", "8", "425", "3.7", "9", "23" ]
+, [ 636, "5C4F2996-8EEB-456C-989C-B4E3FF565920", 636, 1447950185, "857768", 1447950185, "857768", null, "36", "2012", "Oklahoma", "16843", "444.2", "28", "24", "4441", "117.1", "23", "15", "83", "2.2", "31", "35" ]
+, [ 637, "6FA97A70-F536-4614-99C4-612A056E4226", 637, 1447950185, "857768", 1447950185, "857768", null, "37", "2012", "Oregon", "13454", "347.5", "30", "42", "1464", "37.8", "35", "43", "212", "5.5", "21", "10" ]
+, [ 638, "A9ED79C5-B5A1-4ED1-8BE5-1F211ED396F9", 638, 1447950185, "857768", 1447950185, "857768", null, "38", "2012", "Pennsylvania", "54993", "431.6", "6", "26", "15390", "120.8", "7", "14", "494", "3.9", "7", "22" ]
+, [ 639, "8785C45B-1331-4915-8967-C812426B5CBB", 639, 1447950185, "857768", 1447950185, "857768", null, "39", "2012", "Rhode Island", "4313", "410.3", "43", "30", "507", "48.2", "42", "39", "44", "4.2", "34", "18" ]
+, [ 640, "5C05BD28-037C-47FB-A280-6057F8BA1470", 640, 1447950185, "857768", 1447950185, "857768", null, "40", "2012", "South Carolina", "27149", "580.2", "19", "5", "7638", "163.2", "15", "4", "225", "4.8", "18", "13" ]
+, [ 641, "480B66E6-249F-4F59-894A-D575CE0FC1CA", 641, 1447950185, "857768", 1447950185, "857768", null, "41", "2012", "South Dakota", "3924", "476.2", "44", "16", "707", "85.8", "41", "26", "18", "2.2", "41", "36" ]
+, [ 642, "497A6841-2189-4B93-94F6-8342BF2E348F", 642, 1447950185, "857768", 1447950185, "857768", null, "42", "2012", "Tennessee", "32525", "507.9", "12", "12", "9098", "142.1", "12", "9", "266", "4.2", "16", "19" ]
+, [ 643, "38D8EAA0-72F6-40BE-85EE-A81CC2CF3E78", 643, 1447950185, "857768", 1447950185, "857768", null, "43", "2012", "Texas", "127036", "494.8", "2", "13", "32473", "126.5", "2", "13", "1627", "6.3", "2", "6" ]
+, [ 644, "BE82E204-D94A-466E-999C-3E08A88203D2", 644, 1447950185, "857768", 1447950185, "857768", null, "44", "2012", "Utah", "7615", "270.3", "36", "47", "479", "17.0", "43", "45", "42", "1.5", "35", "42" ]
+, [ 645, "626E3EC7-D9F4-46A5-9F31-84DF95C4AF4D", 645, 1447950185, "857768", 1447950185, "857768", null, "45", "2012", "Vermont", "1724", "275.2", "50", "46", "99", "15.8", "49", "46", "6", "1.0", "45", "44" ]
+, [ 646, "4711FAF7-D596-4BD6-9C37-8C1BE05F2FEC", 646, 1447950185, "857768", 1447950185, "857768", null, "46", "2012", "Virginia", "34963", "431.8", "11", "25", "6885", "85.0", "18", "27", "285", "3.5", "15", "25" ]
+, [ 647, "65B7E72E-1F5F-4C96-84D4-BF8089AFC79B", 647, 1447950185, "857768", 1447950185, "857768", null, "47", "2012", "Washington", "24596", "360.1", "21", "40", "3238", "47.4", "26", "40", "302", "4.4", "13", "16" ]
+, [ 648, "A0CBD612-6D07-4296-8C92-D7944012DCB0", 648, 1447950185, "857768", 1447950185, "857768", null, "48", "2012", "West Virginia", "4790", "258.2", "40", "48", "831", "44.8", "38", "41", "8", "0.4", "44", "49" ]
+, [ 649, "BCAFBB2F-15EB-4DED-8101-FE410559FD86", 649, 1447950185, "857768", 1447950185, "857768", null, "49", "2012", "Wisconsin", "23726", "415.4", "22", "29", "4704", "82.4", "22", "30", "91", "1.6", "30", "39" ]
+, [ 650, "05F53FBB-AFC8-4E9F-BCCC-152DFF674C03", 650, 1447950185, "857768", 1447950185, "857768", null, "50", "2012", "Wyoming", "2102", "370.0", "49", "37", "44", "7.7", "50", "50", "4", "0.7", "46", "46" ]
+, [ 651, "2C32F45D-82B4-46E2-BBF9-26B7D339E308", 651, 1447950185, "857768", 1447950185, "857768", null, "1", "2013", "Alabama", "29464", "611.0", "14", "3", "8377", "173.7", "12", "2", "183", "3.8", "25", "19" ]
+, [ 652, "B086DAEE-135C-4534-9061-0E4D589E94DE", 652, 1447950185, "857768", 1447950185, "857768", null, "2", "2013", "Alaska", "5774", "789.4", "39", "1", "1128", "154.2", "38", "4", "23", "3.1", "42", "24" ]
+, [ 653, "DA68BB8F-D411-4648-BFEF-45BDA3759977", 653, 1447950185, "857768", 1447950185, "857768", null, "3", "2013", "Arizona", "30564", "466.4", "12", "18", "6412", "97.8", "19", "25", "287", "4.4", "15", "15" ]
+, [ 654, "CAD608DA-772A-40C9-9D1A-F329EAF9E474", 654, 1447950185, "857768", 1447950185, "857768", null, "4", "2013", "Arkansas", "15447", "523.8", "29", "8", "4007", "135.9", "26", "11", "177", "6.0", "26", "10" ]
+, [ 655, "E5C14A80-1218-4B73-A71B-6E84EA693892", 655, 1447950185, "857768", 1447950185, "857768", null, "5", "2013", "California", "167346", "439.9", "1", "23", "38166", "100.3", "1", "22", "3532", "9.3", "1", "2" ]
+, [ 656, "211CAF8A-1E0D-4390-B3DD-5D8615BBEF72", 656, 1447950185, "857768", 1447950185, "857768", null, "6", "2013", "Colorado", "20386", "393.0", "24", "33", "2820", "54.4", "30", "38", "163", "3.1", "27", "24" ]
+, [ 657, "55C4767E-D831-498D-B651-CD9DAAE02F04", 657, 1447950185, "857768", 1447950185, "857768", null, "7", "2013", "Connecticut", "12775", "355.8", "31", "40", "2860", "79.7", "29", "30", "56", "1.6", "34", "31" ]
+, [ 658, "3DA878A1-1800-472C-A02C-3A4880CC05FD", 658, 1447950185, "857768", 1447950185, "857768", null, "8", "2013", "Delaware", "5213", "568.4", "41", "6", "1390", "151.6", "36", "6", "52", "5.7", "35", "11" ]
+, [ 659, "E6464E21-CF45-44FF-8DA8-D75097EFD179", 659, 1447950185, "857768", 1447950185, "857768", null, "9", "2013", "Florida", "80182", "415.1", "4", "27", "20818", "107.8", "3", "18", "1513", "7.8", "2", "4" ]
+, [ 660, "9FDE96BB-A009-4B57-B25E-D15F2C2B6143", 660, 1447950185, "857768", 1447950185, "857768", null, "10", "2013", "Georgia", "51070", "514.8", "8", "9", "14252", "143.7", "7", "8", "1017", "10.3", "5", "1" ]
+, [ 661, "8C587092-B5F7-494D-A6EC-7EDE35820A38", 661, 1447950185, "857768", 1447950185, "857768", null, "11", "2013", "Hawaii", "6640", "476.9", "38", "15", "718", "51.6", "42", "39", "46", "3.3", "37", "23" ]
+, [ 662, "C61BF842-FA8F-4B94-8F09-599C00958805", 662, 1447950185, "857768", 1447950185, "857768", null, "12", "2013", "Idaho", "5428", "340.2", "40", "44", "211", "13.2", "47", "48", "15", "0.9", "43", "32" ]
+, [ 663, "B629D5DD-9A68-4F83-B428-8E6260DCF116", 663, 1447950185, "857768", 1447950185, "857768", null, "13", "2013", "Illinois", "63797", "495.5", "5", "12", "16464", "127.9", "6", "13", "798", "6.2", "6", "9" ]
+, [ 664, "0D5C3D88-7F43-4D1C-9FA6-8F965A9BA08F", 664, 1447950185, "857768", 1447950185, "857768", null, "14", "2013", "Indiana", "28023", "428.7", "17", "24", "7144", "109.3", "16", "16", "215", "3.3", "21", "23" ]
+, [ 665, "A2F6F87F-4E4F-41B9-B13D-0D1C7935A30B", 665, 1447950185, "857768", 1447950185, "857768", null, "15", "2013", "Iowa", "10953", "356.3", "35", "39", "1472", "47.9", "35", "40", "106", "3.4", "30", "22" ]
+, [ 666, "A45B5AD1-7D2B-43DB-9BB0-17582D117C57", 666, 1447950185, "857768", 1447950185, "857768", null, "16", "2013", "Kansas", "11012", "381.6", "34", "35", "2161", "74.9", "32", "32", "51", "1.8", "36", "29" ]
+, [ 667, "E71A4DC2-7E80-4408-9BF1-C4AA3C3B0A1F", 667, 1447950185, "857768", 1447950185, "857768", null, "17", "2013", "Kentucky", "17134", "391.2", "28", "34", "4315", "98.5", "25", "23", "122", "2.8", "28", "25" ]
+, [ 668, "40F2D6FD-4E37-4550-952A-DE08D1CA8A40", 668, 1447950185, "857768", 1447950185, "857768", null, "18", "2013", "Louisiana", "28739", "624.5", "15", "2", "8669", "188.4", "11", "1", "423", "9.2", "11", "3" ]
+, [ 669, "687AF00B-873E-413E-BFB9-5B98379E08BD", 669, 1447950185, "857768", 1447950185, "857768", null, "19", "2013", "Maine", "3438", "258.7", "46", "49", "245", "18.4", "45", "46", "10", "0.8", "45", "33" ]
+, [ 670, "436CDE73-A9F0-46FD-AC66-B60E4A5536EC", 670, 1447950185, "857768", 1447950185, "857768", null, "20", "2013", "Maryland", "26723", "454.1", "19", "20", "5989", "101.8", "20", "20", "456", "7.7", "9", "5" ]
+, [ 671, "11817003-54A7-457A-A232-E9AAE9CEE324", 671, 1447950185, "857768", 1447950185, "857768", null, "21", "2013", "Massachusetts", "23210", "349.2", "23", "41", "3106", "46.7", "28", "41", "360", "5.4", "13", "12" ]
+, [ 672, "6DEB8641-78E8-4C33-BCCF-02F979C363E9", 672, 1447950185, "857768", 1447950185, "857768", null, "22", "2013", "Michigan", "44835", "453.6", "10", "22", "10569", "106.9", "10", "19", "487", "4.9", "7", "14" ]
+, [ 673, "8826BFAA-7797-42F7-B77C-B171B6E647B2", 673, 1447950185, "857768", 1447950185, "857768", null, "23", "2013", "Minnesota", "18742", "348.4", "25", "42", "3873", "72.0", "27", "34", "193", "3.6", "24", "21" ]
+, [ 674, "58BC4730-1534-45AF-A423-0A504DB761F7", 674, 1447950185, "857768", 1447950185, "857768", null, "24", "2013", "Mississippi", "17464", "585.1", "27", "5", "5096", "170.7", "22", "3", "78", "2.6", "32", "26" ]
+, [ 675, "83E0BEF4-8F8E-462E-808C-46A0DC01481C", 675, 1447950185, "857768", 1447950185, "857768", null, "25", "2013", "Missouri", "27328", "453.8", "18", "21", "7546", "125.3", "13", "14", "251", "4.2", "19", "17" ]
+, [ 676, "39FCC62B-3679-42C2-8D8E-E610548C4257", 676, 1447950185, "857768", 1447950185, "857768", null, "26", "2013", "Montana", "3818", "379.8", "45", "36", "224", "22.3", "46", "45", "5", "0.5", "46", "34" ]
+, [ 677, "35242E71-84C7-47F4-9276-B273811042A4", 677, 1447950185, "857768", 1447950185, "857768", null, "27", "2013", "Nebraska", "7301", "393.5", "37", "32", "1385", "74.6", "37", "33", "41", "2.2", "40", "27" ]
+, [ 678, "A9A0D5BC-B4FE-40BF-B5EC-D69E9869D333", 678, 1447950185, "857768", 1447950185, "857768", null, "28", "2013", "Nevada", "11781", "427.0", "33", "25", "2714", "98.4", "31", "24", "205", "7.4", "23", "7" ]
+, [ 679, "CEF21124-1CED-4B56-A897-5B32DB432001", 679, 1447950185, "857768", 1447950185, "857768", null, "29", "2013", "New Hampshire", "3119", "236.2", "47", "50", "121", "9.2", "48", "50", "28", "2.1", "41", "28" ]
+, [ 680, "C682C328-160A-4BE1-A2F7-8F8907A8321C", 680, 1447950185, "857768", 1447950185, "857768", null, "30", "2013", "New Jersey", "28327", "319.6", "16", "45", "7014", "79.1", "17", "31", "233", "2.6", "20", "26" ]
+, [ 681, "0EEC9EDC-C21A-457B-9BD1-7A91BA421AFC", 681, 1447950185, "857768", 1447950185, "857768", null, "31", "2013", "New Mexico", "12249", "587.3", "32", "4", "1918", "92.0", "33", "27", "78", "3.7", "32", "20" ]
+, [ 682, "C2A1B031-8B36-4CF5-ADE3-8CEED373C51E", 682, 1447950185, "857768", 1447950185, "857768", null, "32", "2013", "New York", "95803", "489.5", "3", "13", "19919", "101.8", "4", "21", "1459", "7.5", "4", "6" ]
+, [ 683, "59C81F66-E0FC-4A82-B78C-6818F3537A0E", 683, 1447950185, "857768", 1447950185, "857768", null, "33", "2013", "North Carolina", "48416", "496.5", "9", "11", "13666", "140.1", "9", "9", "404", "4.1", "12", "18" ]
+, [ 684, "67149DBE-A897-4066-A4E1-163882263445", 684, 1447950185, "857768", 1447950185, "857768", null, "34", "2013", "North Dakota", "2932", "419.1", "48", "26", "492", "70.3", "43", "35", "12", "1.7", "44", "30" ]
+, [ 685, "8F058170-D351-4237-870F-B0941CED80A7", 685, 1447950185, "857768", 1447950185, "857768", null, "35", "2013", "Ohio", "53121", "460.2", "6", "19", "16619", "144.0", "5", "7", "436", "3.8", "10", "19" ]
+, [ 686, "78A55DB1-F2F6-42EF-B5C0-6275592018B0", 686, 1447950185, "857768", 1447950185, "857768", null, "36", "2013", "Oklahoma", "18278", "479.1", "26", "14", "5303", "139.0", "21", "10", "118", "3.1", "29", "24" ]
+, [ 687, "F46C90CD-F816-4E19-B1DE-0118A7C0C53A", 687, 1447950185, "857768", 1447950185, "857768", null, "37", "2013", "Oregon", "14181", "363.7", "30", "37", "1729", "44.3", "34", "42", "267", "6.8", "18", "8" ]
+, [ 688, "53364A57-586E-4F3C-A051-7D663CEA7A0D", 688, 1447950185, "857768", 1447950185, "857768", null, "38", "2013", "Pennsylvania", "52056", "407.8", "7", "30", "13874", "108.7", "8", "17", "471", "3.7", "8", "20" ]
+, [ 689, "54396C13-3606-4B1C-BA36-BA6991ECBF20", 689, 1447950185, "857768", 1447950185, "857768", null, "39", "2013", "Rhode Island", "4312", "410.6", "43", "29", "454", "43.2", "44", "43", "45", "4.3", "38", "16" ]
+, [ 690, "6CB835DB-52C0-4BA5-AF72-CADE52E95268", 690, 1447950185, "857768", 1447950185, "857768", null, "40", "2013", "South Carolina", "25594", "541.8", "20", "7", "7194", "152.3", "15", "5", "271", "5.7", "17", "11" ]
+, [ 691, "2E25CD15-1866-4ADC-9F35-090136686D1B", 691, 1447950185, "857768", 1447950185, "857768", null, "41", "2013", "South Dakota", "3927", "471.2", "44", "16", "784", "94.1", "41", "26", "44", "5.3", "39", "13" ]
+, [ 692, "E40A16C0-0D50-4797-8FB1-F2968A9E5474", 692, 1447950185, "857768", 1447950185, "857768", null, "42", "2013", "Tennessee", "30370", "470.4", "13", "17", "7376", "114.2", "14", "15", "214", "3.3", "22", "23" ]
+, [ 693, "AE05D7F5-EB07-4701-AED9-1AA3683D3F8F", 693, 1447950185, "857768", 1447950185, "857768", null, "43", "2013", "Texas", "129861", "498.3", "2", "10", "33835", "129.8", "2", "12", "1475", "5.7", "3", "11" ]
+, [ 694, "66932C54-6456-4B58-9AE9-6D56EA41418A", 694, 1447950185, "857768", 1447950185, "857768", null, "44", "2013", "Utah", "7535", "263.9", "36", "48", "951", "33.3", "40", "44", "74", "2.6", "33", "26" ]
+, [ 695, "58F5704F-3FFC-487A-8706-0CB3BE4D020E", 695, 1447950185, "857768", 1447950185, "857768", null, "45", "2013", "Vermont", "1842", "294.2", "50", "46", "97", "15.5", "49", "47", "3", "0.5", "47", "34" ]
+, [ 696, "3C9E6395-6196-4B17-A5A4-1879E5987893", 696, 1447950185, "857768", 1447950185, "857768", null, "46", "2013", "Virginia", "33316", "407.0", "11", "31", "6952", "84.9", "18", "28", "315", "3.8", "14", "19" ]
+, [ 697, "D5267702-A1D9-44DC-9D5C-946634639048", 697, 1447950185, "857768", 1447950185, "857768", null, "47", "2013", "Washington", "24950", "361.8", "21", "38", "4369", "63.3", "24", "36", "284", "4.1", "16", "18" ]
+, [ 698, "59EE0813-7BC9-42B7-A5B7-13FF068CEBAA", 698, 1447950185, "857768", 1447950185, "857768", null, "48", "2013", "West Virginia", "5139", "277.0", "42", "47", "1063", "57.3", "39", "37", "15", "0.8", "43", "33" ]
+, [ 699, "476E35EC-8BEA-4F22-9143-D1568F7D8887", 699, 1447950185, "857768", 1447950185, "857768", null, "49", "2013", "Wisconsin", "23572", "411.6", "22", "28", "4599", "80.3", "23", "29", "95", "1.7", "31", "30" ]
+, [ 700, "8F9DE696-FD16-4698-B7F3-E33C0ACD077D", 700, 1447950185, "857768", 1447950185, "857768", null, "50", "2013", "Wyoming", "2005", "347.8", "49", "43", "66", "11.5", "50", "49", "1", "0.2", "48", "35" ]
+, [ 701, "48AC0BAD-0072-4537-B6F6-54888BD0D351", 701, 1447950185, "857768", 1447950185, "857768", null, "1", "2014", "Alabama", "29010", "600.2", "15", "4", "7677", "158.8", "15", "6", "161", "3.3", "27", "34" ]
+, [ 702, "B2BCB69A-49DC-4998-A572-536FBCBFE901", 702, 1447950185, "857768", 1447950185, "857768", null, "2", "2014", "Alaska", "5789", "787.5", "39", "1", "1341", "182.4", "38", "3", "15", "2.0", "45", "41" ]
+, [ 703, "3C2E5A5E-772A-4451-986C-9F0349E5C446", 703, 1447950185, "857768", 1447950185, "857768", null, "3", "2014", "Arizona", "32397", "488.9", "12", "14", "7750", "117.0", "14", "16", "577", "8.7", "8", "7" ]
+, [ 704, "B1309074-5D11-4A0B-84D8-7502CB5E6E0A", 704, 1447950185, "857768", 1447950185, "857768", null, "4", "2014", "Arkansas", "15605", "527.3", "29", "8", "4539", "153.4", "24", "7", "121", "4.1", "31", "27" ]
+, [ 705, "7809998B-E4A2-4DA4-B1E9-9426E1F1BD43", 705, 1447950185, "857768", 1447950185, "857768", null, "5", "2014", "California", "176308", "459.9", "1", "22", "45408", "118.5", "1", "15", "3835", "10.0", "1", "4" ]
+, [ 706, "663C2E54-0F79-4E75-BC17-3A48D83E301D", 706, 1447950185, "857768", 1447950185, "857768", null, "6", "2014", "Colorado", "21863", "415.0", "23", "29", "3170", "60.2", "30", "38", "186", "3.5", "25", "31" ]
+, [ 707, "DBE4D6CC-A1EA-4D59-ABD0-1D6BE5EB9661", 707, 1447950185, "857768", 1447950185, "857768", null, "7", "2014", "Connecticut", "13382", "372.1", "31", "40", "2333", "64.9", "32", "37", "86", "2.4", "32", "38" ]
+, [ 708, "776BB4D7-203A-4FE9-B4DE-6E60343D0955", 708, 1447950185, "857768", 1447950185, "857768", null, "8", "2014", "Delaware", "4473", "483.2", "42", "15", "1279", "138.2", "39", "10", "47", "5.1", "40", "19" ]
+, [ 709, "0C32D39E-FF8E-4287-BF6D-07FBA01F2EA9", 709, 1447950185, "857768", 1447950185, "857768", null, "9", "2014", "Florida", "84194", "430.6", "4", "27", "20944", "107.1", "3", "21", "1740", "8.9", "2", "5" ]
+, [ 710, "F7E5619F-1915-4F61-9DDF-FE9899DB868B", 710, 1447950185, "857768", 1447950185, "857768", null, "10", "2014", "Georgia", "51945", "519.9", "7", "9", "13770", "137.8", "8", "11", "1234", "12.3", "5", "3" ]
+, [ 711, "04E88809-ED71-406C-BBF9-1F9CA4D5413D", 711, 1447950185, "857768", 1447950185, "857768", null, "11", "2014", "Hawaii", "6419", "457.2", "38", "23", "1020", "72.6", "40", "35", "68", "4.8", "36", "22" ]
+, [ 712, "B1659E07-9A16-4DF9-BCBA-621B0CDF971D", 712, 1447950185, "857768", 1447950185, "857768", null, "12", "2014", "Idaho", "5442", "337.6", "40", "44", "443", "27.5", "45", "46", "12", "0.7", "47", "49" ]
+, [ 713, "A1124E03-CADF-4EFA-8B40-A0E4E82B0254", 713, 1447950185, "857768", 1447950185, "857768", null, "13", "2014", "Illinois", "66536", "516.5", "5", "10", "15970", "124.0", "6", "13", "863", "6.7", "6", "12" ]
+, [ 714, "AE0B6651-11A6-44C3-82DC-9C3943339AF2", 714, 1447950185, "857768", 1447950185, "857768", null, "14", "2014", "Indiana", "28519", "434.0", "17", "26", "7289", "110.9", "17", "18", "168", "2.6", "26", "37" ]
+, [ 715, "CC188F2C-FE42-43CC-8753-DAF8EC5B275A", 715, 1447950185, "857768", 1447950185, "857768", null, "15", "2014", "Iowa", "11804", "382.0", "33", "38", "1641", "53.1", "35", "42", "72", "2.3", "34", "39" ]
+, [ 716, "6661B12E-070F-43B2-B275-78935EEEBEBA", 716, 1447950185, "857768", 1447950185, "857768", null, "16", "2014", "Kansas", "11116", "384.1", "35", "37", "2568", "88.7", "31", "31", "60", "2.1", "37", "40" ]
+, [ 717, "27B07977-658A-4134-9254-6CB3CE721611", 717, 1447950185, "857768", 1447950185, "857768", null, "17", "2014", "Kentucky", "17664", "401.9", "28", "33", "4353", "99.0", "25", "27", "158", "3.6", "28", "30" ]
+, [ 718, "76D156F7-5802-4D18-B354-ABD37F080DEE", 718, 1447950185, "857768", 1447950185, "857768", null, "18", "2014", "Louisiana", "28955", "626.0", "16", "3", "9002", "194.6", "11", "1", "575", "12.4", "9", "2" ]
+, [ 719, "13E9701B-7C17-4B97-9DE0-50F58C348A79", 719, 1447950185, "857768", 1447950185, "857768", null, "19", "2014", "Maine", "3530", "265.8", "47", "49", "237", "17.8", "47", "48", "16", "1.2", "44", "46" ]
+, [ 720, "D1A9624D-42B9-4332-A374-4FCED9F5A832", 720, 1447950185, "857768", 1447950185, "857768", null, "20", "2014", "Maryland", "27424", "462.6", "20", "21", "6108", "103.0", "22", "24", "449", "7.6", "12", "8" ]
+, [ 721, "9371CB77-7645-4CE1-A837-01D7ECDC105B", 721, 1447950185, "857768", 1447950185, "857768", null, "21", "2014", "Massachusetts", "21271", "317.8", "24", "46", "3817", "57.0", "28", "40", "301", "4.5", "17", "24" ]
+, [ 722, "DC1A6343-C234-4DF3-AF61-17D37AB6B8E1", 722, 1447950185, "857768", 1447950185, "857768", null, "22", "2014", "Michigan", "44256", "447.2", "10", "24", "9688", "97.9", "10", "28", "421", "4.3", "13", "25" ]
+, [ 723, "A3FF0305-74E0-4825-A4E5-370B82019496", 723, 1447950185, "857768", 1447950185, "857768", null, "23", "2014", "Minnesota", "19907", "367.3", "26", "41", "4073", "75.1", "27", "33", "257", "4.7", "21", "23" ]
+, [ 724, "9E8D741F-EDF8-4197-85E7-35742045DAF4", 724, 1447950185, "857768", 1447950185, "857768", null, "24", "2014", "Mississippi", "19605", "655.4", "27", "2", "5625", "188.1", "23", "2", "189", "6.3", "24", "13" ]
+, [ 725, "8D312E53-04C6-44C6-917D-0D0168BF3D30", 725, 1447950185, "857768", 1447950185, "857768", null, "25", "2014", "Missouri", "27981", "462.9", "19", "20", "7387", "122.2", "16", "14", "352", "5.8", "15", "17" ]
+, [ 726, "6A3D1105-BFAD-45BB-A829-30C01F90EA1C", 726, 1447950185, "857768", 1447950185, "857768", null, "26", "2014", "Montana", "4193", "413.0", "44", "31", "434", "42.8", "46", "45", "8", "0.8", "48", "48" ]
+, [ 727, "9B9BFE02-28CA-460D-8592-2EB3D4AB6365", 727, 1447950185, "857768", 1447950185, "857768", null, "27", "2014", "Nebraska", "7499", "401.3", "37", "34", "1459", "78.1", "36", "32", "50", "2.7", "39", "36" ]
+, [ 728, "7C3F46DF-86BF-46AC-83DA-C6E4D91376E9", 728, 1447950185, "857768", 1447950185, "857768", null, "28", "2014", "Nevada", "11841", "424.4", "32", "28", "3188", "114.3", "29", "17", "357", "12.8", "14", "1" ]
+, [ 729, "A4B7F3FC-01AE-42D9-991F-FA03BCDD7A7D", 729, 1447950185, "857768", 1447950185, "857768", null, "29", "2014", "New Hampshire", "3586", "271.0", "46", "48", "226", "17.1", "48", "49", "36", "2.7", "42", "35" ]
+, [ 730, "F8CDF49D-9441-4422-A013-6738CCAEC555", 730, 1447950185, "857768", 1447950185, "857768", null, "30", "2014", "New Jersey", "29904", "336.0", "14", "45", "6636", "74.6", "19", "34", "297", "3.3", "18", "33" ]
+, [ 731, "5C5F9D4A-F721-44C6-8ACC-1DCD6006A81B", 731, 1447950185, "857768", 1447950185, "857768", null, "31", "2014", "New Mexico", "11558", "554.3", "34", "6", "2246", "107.7", "34", "20", "126", "6.0", "30", "16" ]
+, [ 732, "8CF5A53D-7548-44BE-999E-06E7C03EF07A", 732, 1447950185, "857768", 1447950185, "857768", null, "32", "2014", "New York", "98814", "502.8", "3", "11", "20758", "105.6", "4", "22", "1727", "8.8", "3", "6" ]
+, [ 733, "3C6512BE-3305-4FDA-AC43-86C8FF8B6457", 733, 1447950185, "857768", 1447950185, "857768", null, "33", "2014", "North Carolina", "47147", "478.7", "9", "16", "14415", "146.4", "7", "8", "733", "7.4", "7", "9" ]
+, [ 734, "08CE9F06-2F94-4C5A-A36F-B84EA439E8E2", 734, 1447950185, "857768", 1447950185, "857768", null, "34", "2014", "North Dakota", "3451", "477.1", "48", "17", "694", "95.9", "43", "29", "13", "1.8", "46", "42" ]
+, [ 735, "BB9BBDF5-EEA9-4A1F-8A37-80C32F54BE06", 735, 1447950185, "857768", 1447950185, "857768", null, "35", "2014", "Ohio", "54858", "474.1", "6", "18", "16237", "140.3", "5", "9", "568", "4.9", "10", "21" ]
+, [ 736, "45295ACA-2603-4D59-A9D5-477C7906132F", 736, 1447950185, "857768", 1447950185, "857768", null, "36", "2014", "Oklahoma", "20662", "536.6", "25", "7", "6137", "159.4", "21", "5", "151", "3.9", "29", "28" ]
+, [ 737, "1D5265C7-A9EB-483C-967A-74395DED9BA2", 737, 1447950185, "857768", 1447950185, "857768", null, "37", "2014", "Oregon", "15508", "394.6", "30", "36", "2320", "59.0", "33", "39", "272", "6.9", "20", "10" ]
+, [ 738, "FAF39177-039E-489E-A1EB-075E649D9F60", 738, 1447950185, "857768", 1447950185, "857768", null, "38", "2014", "Pennsylvania", "50536", "395.6", "8", "35", "12710", "99.5", "9", "26", "532", "4.2", "11", "26" ]
+, [ 739, "6170101C-CAC2-474A-BE30-90B613FBFFB5", 739, 1447950185, "857768", 1447950185, "857768", null, "39", "2014", "Rhode Island", "4349", "413.6", "43", "30", "590", "56.1", "44", "41", "71", "6.8", "35", "11" ]
+, [ 740, "B32306EE-30A1-48DA-9187-7FF5A6F194D8", 740, 1447950185, "857768", 1447950185, "857768", null, "40", "2014", "South Carolina", "28087", "588.2", "18", "5", "8253", "172.8", "12", "4", "250", "5.2", "22", "18" ]
+, [ 741, "91780A0A-46A3-4560-A138-AC714C7DF599", 741, 1447950185, "857768", 1447950185, "857768", null, "41", "2014", "South Dakota", "4166", "493.1", "45", "13", "892", "105.6", "41", "23", "53", "6.3", "38", "14" ]
+, [ 742, "750E89D7-6CF7-4ECF-B74D-71888FF1C3E6", 742, 1447950185, "857768", 1447950185, "857768", null, "42", "2014", "Tennessee", "30793", "474.0", "13", "19", "7199", "110.8", "18", "19", "237", "3.6", "23", "29" ]
+, [ 743, "C4DBBF55-D874-4E5E-945E-9DF52D86378A", 743, 1447950185, "857768", 1447950185, "857768", null, "43", "2014", "Texas", "131219", "496.1", "2", "12", "35322", "133.6", "2", "12", "1636", "6.2", "4", "15" ]
+, [ 744, "E24A2747-A399-423F-9496-FCB97C66693D", 744, 1447950185, "857768", 1447950185, "857768", null, "44", "2014", "Utah", "8223", "283.5", "36", "47", "1441", "49.7", "37", "43", "47", "1.6", "41", "43" ]
+, [ 745, "882EA8AB-96C9-421F-BB80-5DEFB51C1527", 745, 1447950185, "857768", 1447950185, "857768", null, "45", "2014", "Vermont", "2237", "357.0", "49", "42", "84", "13.4", "50", "50", "5", "0.8", "49", "47" ]
+, [ 746, "EAD9C259-C9B2-4290-89A8-D72DB4225096", 746, 1447950185, "857768", 1447950185, "857768", null, "46", "2014", "Virginia", "36048", "436.4", "11", "25", "8250", "99.9", "13", "25", "289", "3.5", "19", "32" ]
+, [ 747, "CC823089-5752-4FA0-A62B-4AAE947331C5", 747, 1447950185, "857768", 1447950185, "857768", null, "47", "2014", "Washington", "26577", "381.2", "21", "39", "6221", "89.2", "20", "30", "344", "4.9", "16", "20" ]
+, [ 748, "1D7B72EA-48BA-4BA8-8B24-9D9028818C12", 748, 1447950185, "857768", 1447950185, "857768", null, "48", "2014", "West Virginia", "4719", "254.5", "41", "50", "841", "45.4", "42", "44", "28", "1.5", "43", "44" ]
+, [ 749, "B0B4AC70-B368-40E3-B097-A925256E5057", 749, 1447950185, "857768", 1447950185, "857768", null, "49", "2014", "Wisconsin", "23154", "403.2", "22", "32", "4078", "71.0", "26", "36", "86", "1.5", "33", "45" ]
+, [ 750, "82010E56-6CB6-4006-BC4D-D4CD2C68C835", 750, 1447950185, "857768", 1447950185, "857768", null, "50", "2014", "Wyoming", "1972", "338.4", "50", "43", "116", "19.9", "49", "47", "4", "0.7", "50", "50" ]
+ ]
+}

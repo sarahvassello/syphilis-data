@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Syphilis in the US</title>
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="http://cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet">
+
+<link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    
+<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/highcharts-more.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/drilldown.js"></script>
+
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> -->
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.11/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.11/js/jquery.dataTables.js"></script>
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+    <h1>Syphilis: an overlooked outbreak</h1>
+    </div>
+        <div class="col-md-3"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+    <h4>Syphilis, a sexually transmitted disease caused by the bacterium Treponema pallidum, 
+ is often seen as outdated an outdated sexually transmitted disesase, easily cured by medicine. However, the United States has seen a rise of the STD in the past 15 years. </h4>
+    </div>
+    <div class="col-md-1"></div>
+    </div>
+    
+<div id="chart2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+        <p>The Center for Disease Control released that there were 19,999 cases of primary and secondary syphilis reported in 2014, a 15.1 percent increase since 2013. That means 6.3 out of every 100,000 people in the United States contracted primary or secondary syphilis in 2014.</p>
+    </div>
+</div>
+
+<div class="box">
+        <h3>An increased risk for gay and bisexual communities</h3>
+
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10"></div>
+    <div id="chart1" style="width:49%; height:350px;"></div>
+    <div id="chart3" style="width:49%; height:350px;"></div>
+     <p> The Center for Disease Control said in their 2014 National Data for Chlamydia, Gonorrhea, and Syphilis report that "syphilis infection can also place a person at increased risk for acquiring or transmitting HIV infection. Available surveillance data indicate that an average of half of MSM (men who have sex with men) who have syphilis are also infected with HIV." </p>
+    <div class="col-md-1"></div>
+</div>
+</div>
+
+<div id="chart4" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+
+<table id="table" class="display">
+        <thead>
+            <tr>
+                <th>Sort</th>
+                <th>Year</th>
+                <th>State</th>
+                <th>Primary/Secondary Syphilis Count</th>
+                <th>Primary/Secondary Syphilis Rate</th>
+                <th>Primary/Secondary Syphilis Rank By Count"</th>
+                <th>Primary/Secondary Syphilis Rank By Rate</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Sort</th>
+                <th>Year</th>
+                <th>State</th>
+                <th>Primary/Secondary Syphilis Count</th>
+                <th>Primary/Secondary Syphilis Rate</th>
+                <th>Primary/Secondary Syphilis Rank By Count"</th>
+                <th>Primary/Secondary Syphilis Rank By Rate</th>
+            </tr>
+        </tfoot>
+    </table>
+
+
+
+
+
+<script>
+
+    $(document).ready(function() {
+     buildChart2();
+     buildChart1();
+     buildChart3();
+     buildChart4();
+});
+
+function buildChart2() {
+    $('#chart2').highcharts({
+        title: {
+            text: 'Primary and Secondary Syphilis in Five Most Populated States, 2000 to 2014',
+            x: -20 //center
+        },
+        subtitle: {
+            text: 'Source: Data.gov',
+            x: -20
+        },
+        xAxis: {
+            categories: ['2000', '2001', '2002', '2003', '2004', '2005',
+                '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014']
+        },
+        yAxis: {
+            title: {
+                text: 'Number of Cases'
+            },
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        tooltip: {
+            valueSuffix: ' cases'
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle',
+            borderWidth: 0
+        },
+        series: [{
+            name: 'California',
+            data: [325, 545, 1033, 1299, 1356, 1585, 1835, 2038, 2204, 1900, 2065, 2443, 2953, 3532, 3835]
+        }, {
+            name: 'Texas',
+            data: [396, 478, 589, 654, 827, 873, 1064, 1160, 1405, 1644, 1230, 1169, 1627, 1475, 1636]
+        }, {
+            name: 'Florida',
+            data: [413, 484, 617, 658, 728, 724, 719, 913, 1044, 1041, 1184, 1257, 1369, 1513, 1740]
+        }, {
+            name: 'New York',
+            data: [132, 304, 478, 584, 727, 705, 736, 1068, 1217, 1182, 1098, 1083, 1224, 1459, 1727]
+        }, {
+            name: 'Illinois',
+            data: [412, 409, 479, 374, 386, 525, 431, 464, 554, 750, 908, 881, 804, 798, 863]
+        }]
+    });
+}
+    
+    function buildChart1() {
+    $('#chart1').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'Percent of syphilis cases in 2014 in which a sex partner was known'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            name: 'Percentage',
+            colorByPoint: true,
+            data: [{
+                name: 'MSM',
+                y: 83,
+            }, {
+                name: 'Other',
+                y: 17,
+                sliced: true,
+                selected: true
+            }]
+        }]
+    });
+}
+
+ function buildChart3() {
+    $('#chart3').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'Percent of syphilis cases in 2014 based on gender'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            name: 'Percentage',
+            colorByPoint: true,
+            data: [{
+                name: 'Men',
+                y: 90,
+            }, {
+                name: 'Women',
+                y: 10,
+                sliced: true,
+                selected: true
+            }]
+        }]
+    });
+}
+
+function buildChart4() {
+    $('#chart4').highcharts({
+     chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'States with highest count of syphilis, 2000 to 2014'
+        },
+        subtitle: {
+            text: 'Source: Center for Disease Control'
+        },
+        xAxis: {
+            type: 'category',
+            labels: {
+                rotation: -45,
+                style: {
+                    fontSize: '13px',
+                    fontFamily: 'Verdana, sans-serif'
+                }
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Counts of syphilis'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        tooltip: {
+            pointFormat: 'Population in 2008: <b>{point.y:.1f} </b>'
+        },
+        series: [{
+            name: 'State with highest count',
+            data: [
+                ['Tennessee', 532],
+                ['California', 545],
+                ['California', 1033],
+                ['California', 1299],
+                ['California', 1356],
+                ['California', 1585],
+                ['Texas', 1064],
+                ['Texas', 1160],
+                ['California', 2204],
+                ['California', 1900],
+                ['California', 2065],
+                ['California', 2443],
+                ['California', 2953],
+                ['California', 3523],
+                ['California', 3835],
+            ],
+            dataLabels: {
+                enabled: true,
+                rotation: -90,
+                color: '#FFFFFF',
+                align: 'right',
+                format: '{point.y:.1f}', // one decimal
+                y: 10, // 10 pixels down from the top
+                style: {
+                    fontSize: '13px',
+                    fontFamily: 'Verdana, sans-serif'
+                }
+            }
+        }]
+    });
+}
+
+</script>
+
+<script>
+
+$(document).ready(function() {
+    $('#table').DataTable( {
+        "data": 'syphilis.json'
+    } );
+} );
+
+
+
+</script>
+
+
+</div>
+</body>
+</html>
